@@ -1,5 +1,0 @@
-Voltage
-Coulombic_Efficiency
-Capacity
-Energy
-Conductivity
