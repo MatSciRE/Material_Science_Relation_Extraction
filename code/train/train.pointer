@@ -1,0 +1,3427 @@
+1 1 22 23 Coulombic_Efficiency
+4 4 23 24 Coulombic_Efficiency | 33 33 23 24 Coulombic_Efficiency
+19 19 44 45 Voltage
+23 23 6 7 Voltage | 44 44 6 7 Voltage
+6 6 33 34 Coulombic_Efficiency
+20 20 10 11 Voltage | 20 20 10 11 Voltage
+8 8 14 15 Voltage
+1 1 38 39 Voltage
+27 27 14 15 Voltage | 37 37 39 40 Voltage | 37 37 30 31 Voltage | 37 37 14 15 Voltage
+3 3 16 17 Voltage | 3 3 16 17 Voltage
+18 18 37 38 Coulombic_Efficiency
+5 5 10 11 Voltage
+18 18 14 15 Voltage | 18 18 10 11 Voltage
+0 0 21 22 Voltage
+24 24 18 19 Coulombic_Efficiency | 24 24 21 22 Coulombic_Efficiency
+21 21 8 9 Voltage | 21 21 5 6 Voltage
+2 2 23 24 Voltage
+22 22 26 27 Coulombic_Efficiency | 22 22 29 30 Coulombic_Efficiency
+12 12 31 32 Voltage
+2 2 19 20 Coulombic_Efficiency
+7 7 21 22 Voltage
+17 17 24 25 Voltage
+36 36 31 32 Voltage
+19 19 8 9 Voltage
+3 3 13 14 Coulombic_Efficiency
+9 9 25 26 Coulombic_Efficiency
+33 33 1 2 Voltage
+44 44 18 19 Voltage | 44 44 36 37 Voltage
+13 13 5 6 Voltage | 15 15 5 6 Voltage
+7 7 13 16 Capacity
+47 47 10 11 Voltage
+27 27 13 14 Voltage
+10 10 15 16 Voltage | 10 10 12 13 Voltage
+8 8 39 40 Coulombic_Efficiency
+8 8 22 23 Voltage
+12 12 25 26 Voltage
+8 8 11 14 Capacity
+13 13 54 55 Coulombic_Efficiency | 13 13 54 55 Coulombic_Efficiency
+13 13 25 26 Voltage | 15 15 25 26 Voltage | 17 17 25 26 Voltage
+30 30 5 6 Voltage
+0 0 29 30 Voltage
+10 10 14 15 Coulombic_Efficiency
+2 2 10 12 Energy
+9 9 22 24 Energy
+20 20 41 42 Coulombic_Efficiency
+11 11 34 35 Voltage | 11 11 34 35 Voltage
+6 6 20 21 Voltage | 6 6 20 21 Voltage
+6 6 11 12 Voltage | 6 6 14 15 Voltage | 6 6 38 39 Voltage
+23 23 13 14 Voltage
+21 21 9 10 Voltage
+12 12 15 18 Capacity
+5 5 23 24 Voltage
+4 4 13 14 Voltage
+10 10 19 20 Voltage
+0 0 25 26 Voltage
+3 3 0 1 Voltage | 3 3 0 1 Voltage
+13 13 10 11 Voltage | 13 13 26 27 Voltage | 13 13 18 19 Voltage | 21 21 18 19 Voltage | 21 21 26 27 Voltage | 21 21 10 11 Voltage | 29 29 26 27 Voltage | 29 29 18 19 Voltage | 29 29 10 11 Voltage
+2 2 11 12 Voltage
+3 3 23 24 Voltage
+35 35 10 11 Voltage
+4 4 19 20 Voltage | 4 4 37 38 Voltage
+4 4 19 20 Voltage | 4 4 38 39 Voltage
+29 29 37 38 Voltage
+46 46 33 34 Voltage | 46 46 12 13 Voltage
+4 4 39 40 Voltage | 4 4 13 14 Voltage
+8 8 10 11 Coulombic_Efficiency
+6 6 12 13 Voltage
+41 41 17 18 Voltage
+16 16 7 8 Voltage
+10 10 15 18 Capacity | 28 28 15 18 Capacity
+8 8 10 13 Capacity | 30 30 23 26 Capacity | 30 30 10 13 Capacity
+13 13 10 11 Voltage
+11 11 4 7 Capacity | 11 11 4 7 Capacity
+8 8 18 21 Capacity
+34 34 10 13 Capacity | 34 34 20 23 Capacity
+11 11 4 5 Voltage
+3 3 12 13 Voltage
+6 6 30 31 Voltage
+22 22 9 10 Voltage
+2 2 16 17 Voltage
+23 23 6 7 Voltage | 25 25 6 7 Voltage
+70 70 11 14 Capacity | 70 70 11 14 Capacity
+35 35 8 11 Capacity
+4 4 16 17 Coulombic_Efficiency
+10 10 30 31 Coulombic_Efficiency | 10 10 30 31 Coulombic_Efficiency
+9 9 22 23 Voltage
+8 8 13 14 Voltage
+6 6 12 13 Voltage
+18 18 25 26 Voltage
+10 10 26 27 Voltage
+25 25 22 23 Coulombic_Efficiency
+15 15 28 29 Coulombic_Efficiency
+50 50 69 70 Voltage | 50 50 61 62 Voltage | 50 50 58 59 Voltage | 50 50 69 70 Voltage | 50 50 61 62 Voltage | 50 50 58 59 Voltage
+9 9 26 27 Voltage
+5 5 10 11 Voltage | 18 18 10 11 Voltage
+2 2 20 21 Voltage | 12 12 20 21 Voltage | 2 2 20 21 Voltage
+2 2 38 39 Coulombic_Efficiency
+5 5 32 34 Conductivity
+3 3 15 16 Voltage
+2 2 9 10 Voltage
+12 12 21 22 Voltage | 12 12 18 19 Voltage
+20 20 27 30 Capacity
+4 4 11 14 Capacity
+13 13 20 21 Voltage
+9 9 33 36 Capacity | 9 9 33 36 Capacity
+16 16 41 42 Coulombic_Efficiency
+3 3 43 44 Voltage
+12 12 31 32 Voltage | 12 12 39 40 Voltage
+3 3 12 13 Voltage | 3 3 21 22 Voltage
+4 4 6 7 Voltage | 12 12 6 7 Voltage
+1 1 20 21 Voltage
+5 5 14 15 Voltage
+3 3 16 17 Voltage
+7 7 25 26 Voltage
+0 0 47 48 Coulombic_Efficiency
+13 13 5 6 Voltage | 15 15 5 6 Voltage
+9 9 20 21 Voltage
+3 3 24 25 Voltage
+7 7 31 32 Voltage
+8 8 16 17 Voltage
+3 3 9 11 Conductivity
+6 6 23 24 Voltage | 8 8 23 24 Voltage | 10 10 23 24 Voltage
+36 36 33 34 Voltage | 45 45 33 34 Voltage
+16 16 7 8 Voltage | 18 18 7 8 Voltage
+26 26 5 6 Voltage | 26 26 39 40 Voltage
+6 6 10 11 Voltage | 6 6 10 11 Voltage | 6 6 10 11 Voltage
+5 5 27 30 Capacity
+0 0 13 16 Capacity | 6 6 13 16 Capacity
+12 12 8 9 Voltage
+2 2 11 14 Capacity
+23 23 10 11 Voltage
+7 7 18 19 Voltage | 7 7 14 15 Voltage
+19 19 35 36 Voltage
+1 1 32 33 Voltage
+13 13 9 10 Voltage | 20 20 9 10 Voltage
+33 33 23 24 Coulombic_Efficiency
+2 2 8 11 Capacity | 2 2 27 30 Capacity
+23 23 18 19 Coulombic_Efficiency
+20 20 13 16 Capacity
+4 4 20 23 Capacity | 31 31 20 23 Capacity
+20 20 5 6 Voltage
+15 15 8 9 Voltage | 22 22 8 9 Voltage | 15 15 8 9 Voltage
+7 7 12 15 Capacity | 7 7 36 39 Capacity | 7 7 18 21 Capacity
+1 1 26 27 Voltage
+14 14 7 8 Voltage
+3 3 43 44 Voltage
+7 7 14 15 Voltage
+17 17 19 21 Energy
+44 44 12 13 Voltage | 44 44 19 20 Voltage
+39 39 25 26 Voltage
+0 0 23 24 Voltage
+4 4 12 15 Capacity | 4 4 23 26 Capacity
+4 4 12 15 Capacity | 4 4 24 27 Capacity
+2 2 9 12 Capacity
+5 5 24 27 Capacity
+3 3 13 14 Voltage | 5 5 13 14 Voltage
+26 26 19 20 Voltage
+6 6 22 23 Voltage
+0 0 18 19 Voltage
+9 9 13 14 Coulombic_Efficiency
+5 5 7 10 Capacity
+16 16 22 23 Coulombic_Efficiency
+6 6 24 25 Voltage
+15 15 38 39 Voltage | 15 15 38 39 Voltage
+6 6 10 11 Voltage | 6 6 15 16 Voltage
+17 17 12 13 Voltage | 17 17 9 10 Voltage
+7 7 10 11 Coulombic_Efficiency | 7 7 10 11 Coulombic_Efficiency
+4 4 17 18 Voltage | 4 4 17 18 Voltage
+16 16 20 21 Voltage | 16 16 28 29 Voltage | 18 18 20 21 Voltage | 16 16 20 21 Voltage | 16 16 28 29 Voltage
+1 1 28 29 Voltage
+8 8 17 18 Voltage
+15 15 7 8 Voltage
+12 12 14 15 Voltage | 12 12 14 15 Voltage | 31 31 14 15 Voltage
+22 22 38 39 Voltage | 22 22 38 39 Voltage
+5 5 16 17 Voltage
+40 40 19 20 Voltage
+33 33 44 47 Capacity | 33 33 35 38 Capacity | 33 33 44 47 Capacity | 33 33 35 38 Capacity
+9 9 18 21 Capacity | 9 9 12 15 Capacity
+8 8 17 18 Voltage
+9 9 13 16 Capacity | 9 9 28 31 Capacity
+2 2 11 14 Capacity
+33 33 36 37 Voltage
+6 6 14 15 Voltage
+24 24 10 11 Voltage
+3 3 24 26 Energy
+22 22 7 8 Voltage
+20 20 49 50 Voltage | 20 20 9 10 Voltage | 20 20 49 50 Voltage | 20 20 9 10 Voltage | 20 20 49 50 Voltage | 20 20 9 10 Voltage | 20 20 49 50 Voltage | 20 20 9 10 Voltage | 20 20 49 50 Voltage | 20 20 9 10 Voltage | 20 20 49 50 Voltage | 20 20 9 10 Voltage
+13 13 22 23 Voltage
+27 27 11 14 Capacity
+0 0 16 17 Voltage
+15 15 7 8 Voltage
+3 3 36 37 Voltage | 5 5 36 37 Voltage
+8 8 3 4 Voltage | 8 8 39 40 Voltage | 27 27 39 40 Voltage | 27 27 3 4 Voltage | 29 29 39 40 Voltage | 29 29 3 4 Voltage
+25 25 21 22 Voltage
+11 11 24 25 Voltage | 11 11 24 25 Voltage
+8 8 20 21 Voltage
+7 7 42 43 Voltage | 7 7 22 23 Voltage
+14 14 32 33 Voltage
+8 8 20 21 Voltage
+6 6 20 21 Voltage
+1 1 34 35 Voltage | 7 7 34 35 Voltage
+8 8 40 41 Voltage | 8 8 40 41 Voltage | 21 21 40 41 Voltage | 8 8 40 41 Voltage
+11 11 14 15 Voltage
+16 16 24 25 Voltage
+39 39 11 12 Voltage | 39 39 8 9 Voltage
+26 26 28 29 Voltage
+17 17 13 14 Voltage | 17 17 19 20 Voltage
+1 1 28 29 Voltage
+14 14 4 5 Voltage
+27 27 12 13 Voltage | 29 29 12 13 Voltage
+20 20 23 24 Voltage
+7 7 16 17 Voltage
+13 13 32 33 Voltage
+17 17 14 15 Voltage | 17 17 14 15 Voltage
+4 4 16 17 Voltage | 4 4 16 17 Voltage
+6 6 25 26 Voltage
+2 2 16 17 Voltage
+29 29 19 20 Voltage
+10 10 15 16 Voltage | 10 10 18 19 Voltage
+3 3 12 13 Voltage
+3 3 13 14 Coulombic_Efficiency | 3 3 26 27 Coulombic_Efficiency | 3 3 13 14 Coulombic_Efficiency | 3 3 26 27 Coulombic_Efficiency
+5 5 15 16 Voltage | 5 5 15 16 Voltage
+21 21 37 38 Voltage
+1 1 14 15 Voltage
+1 1 10 11 Coulombic_Efficiency | 1 1 16 17 Coulombic_Efficiency | 1 1 13 14 Coulombic_Efficiency | 1 1 10 11 Coulombic_Efficiency | 1 1 16 17 Coulombic_Efficiency | 1 1 13 14 Coulombic_Efficiency
+26 26 11 12 Voltage
+7 7 19 20 Voltage | 7 7 19 20 Voltage
+6 6 21 24 Capacity
+8 8 36 37 Voltage
+1 1 13 16 Capacity
+1 1 25 28 Capacity | 1 1 9 12 Capacity | 1 1 25 28 Capacity | 1 1 9 12 Capacity
+1 1 17 20 Capacity
+2 2 33 34 Voltage | 6 6 33 34 Voltage
+4 4 29 30 Voltage
+12 12 19 20 Voltage
+15 15 9 10 Voltage
+13 13 7 8 Voltage
+34 34 22 23 Voltage
+13 13 26 27 Voltage
+20 20 12 13 Voltage
+7 7 19 22 Capacity
+8 8 13 14 Coulombic_Efficiency
+14 14 7 8 Voltage
+4 4 10 12 Conductivity
+14 14 5 6 Voltage
+9 9 28 29 Voltage
+10 10 29 30 Voltage
+6 6 14 15 Voltage | 6 6 17 18 Voltage
+33 33 19 20 Voltage
+17 17 7 8 Voltage
+5 5 33 34 Voltage
+54 54 22 23 Voltage
+9 9 25 26 Voltage
+2 2 18 21 Capacity
+10 10 38 39 Voltage
+2 2 15 18 Capacity
+6 6 16 19 Capacity
+5 5 14 17 Capacity | 5 5 14 17 Capacity
+1 1 17 20 Capacity | 1 1 11 14 Capacity
+12 12 22 23 Voltage
+29 29 39 40 Voltage
+1 1 11 12 Voltage
+25 25 17 20 Capacity
+0 0 9 12 Capacity
+1 1 30 31 Voltage | 1 1 13 16 Capacity
+16 16 5 6 Voltage
+38 38 19 20 Voltage
+26 26 34 37 Capacity | 26 26 34 37 Capacity
+6 6 8 10 Energy
+7 7 11 12 Voltage
+30 30 12 14 Energy | 30 30 35 36 Voltage
+2 2 9 10 Voltage | 2 2 18 19 Voltage | 16 16 18 19 Voltage
+9 9 25 26 Coulombic_Efficiency | 9 9 18 19 Coulombic_Efficiency | 9 9 21 22 Coulombic_Efficiency | 9 9 25 26 Coulombic_Efficiency | 9 9 18 19 Coulombic_Efficiency | 9 9 21 22 Coulombic_Efficiency
+12 12 34 35 Voltage
+1 1 27 28 Coulombic_Efficiency
+24 24 28 29 Voltage
+6 6 43 46 Capacity
+3 3 42 43 Voltage
+5 5 32 35 Capacity | 5 5 21 24 Capacity | 5 5 32 35 Capacity | 5 5 21 24 Capacity
+36 36 16 17 Voltage
+19 19 14 15 Voltage
+0 0 9 10 Voltage
+8 8 29 30 Voltage
+0 0 12 13 Voltage | 31 31 12 13 Voltage
+6 6 16 17 Voltage | 6 6 25 26 Voltage | 32 32 16 17 Voltage
+3 3 21 22 Voltage
+14 14 16 19 Capacity
+12 12 32 33 Coulombic_Efficiency
+13 13 25 26 Voltage | 13 13 25 26 Voltage | 42 42 25 26 Voltage
+0 0 10 11 Voltage | 22 22 10 11 Voltage
+41 41 38 39 Voltage
+14 14 7 8 Voltage
+9 9 20 21 Voltage | 9 9 20 21 Voltage
+5 5 18 19 Voltage | 5 5 35 36 Voltage | 5 5 18 19 Voltage | 5 5 35 36 Voltage
+7 7 16 19 Capacity
+16 16 35 36 Voltage
+43 43 8 9 Voltage
+13 13 7 8 Voltage | 18 18 7 8 Voltage
+24 24 13 14 Voltage
+9 9 16 17 Voltage
+32 32 10 11 Voltage | 32 32 13 14 Voltage
+11 11 23 24 Voltage | 11 11 26 27 Voltage | 11 11 20 21 Voltage
+4 4 15 16 Voltage
+10 10 13 14 Voltage
+6 6 16 17 Voltage
+3 3 16 17 Voltage | 3 3 16 17 Voltage
+18 18 10 11 Voltage | 21 21 10 11 Voltage
+4 4 28 29 Voltage | 4 4 14 15 Voltage
+27 27 7 8 Voltage
+23 23 5 6 Voltage
+19 19 21 24 Capacity
+30 30 32 35 Capacity | 30 30 32 35 Capacity
+9 9 17 18 Voltage | 40 40 17 18 Voltage
+10 10 31 32 Voltage
+6 6 18 19 Coulombic_Efficiency
+18 18 12 13 Voltage
+4 4 17 19 Energy
+17 17 6 7 Voltage
+23 23 44 45 Voltage | 23 23 47 48 Voltage
+8 8 46 47 Coulombic_Efficiency | 8 8 46 47 Coulombic_Efficiency
+12 12 15 16 Voltage
+6 6 10 11 Coulombic_Efficiency | 6 6 13 14 Coulombic_Efficiency
+27 27 17 18 Voltage | 27 27 12 13 Voltage
+7 7 21 22 Coulombic_Efficiency
+23 23 39 40 Voltage
+1 1 7 8 Voltage
+15 15 20 21 Voltage | 15 15 20 21 Voltage
+15 15 39 42 Capacity | 15 15 39 42 Capacity
+6 6 24 25 Voltage | 6 6 21 22 Voltage
+33 33 12 13 Voltage
+23 23 9 10 Voltage | 25 25 9 10 Voltage
+8 8 27 28 Coulombic_Efficiency | 8 8 30 31 Coulombic_Efficiency
+10 10 34 35 Voltage
+25 25 8 9 Voltage
+17 17 23 24 Voltage | 17 17 23 24 Voltage
+2 2 29 30 Coulombic_Efficiency
+24 24 38 39 Voltage
+17 17 6 7 Voltage
+6 6 43 44 Coulombic_Efficiency
+36 36 15 16 Voltage | 36 36 9 10 Voltage
+29 29 19 20 Voltage
+28 28 45 46 Voltage
+2 2 30 31 Voltage | 12 12 30 31 Voltage | 14 14 30 31 Voltage | 2 2 30 31 Voltage
+10 10 14 15 Voltage
+42 42 12 13 Voltage | 42 42 20 21 Voltage
+24 24 9 10 Voltage | 26 26 9 10 Voltage
+28 28 14 15 Voltage | 28 28 14 15 Voltage
+10 10 39 40 Voltage
+6 6 22 23 Coulombic_Efficiency
+4 4 23 24 Coulombic_Efficiency
+1 1 28 31 Capacity | 1 1 28 31 Capacity
+3 3 12 15 Capacity | 3 3 12 15 Capacity
+29 29 14 15 Voltage
+5 5 25 26 Coulombic_Efficiency | 5 5 16 17 Coulombic_Efficiency | 5 5 25 26 Coulombic_Efficiency | 5 5 16 17 Coulombic_Efficiency | 5 5 25 26 Coulombic_Efficiency | 5 5 16 17 Coulombic_Efficiency
+21 21 23 26 Capacity
+28 28 34 35 Voltage | 28 28 37 38 Voltage | 30 30 34 35 Voltage | 30 30 37 38 Voltage
+18 18 10 11 Coulombic_Efficiency
+21 21 11 12 Voltage | 21 21 7 8 Voltage
+20 20 14 15 Voltage | 38 38 14 15 Voltage
+3 3 27 28 Coulombic_Efficiency
+10 10 17 19 Energy
+3 3 18 19 Voltage
+16 16 52 53 Voltage
+18 18 11 12 Voltage
+2 2 12 15 Capacity
+16 16 39 40 Voltage
+23 23 5 6 Voltage
+1 1 14 15 Voltage | 1 1 11 12 Voltage
+11 11 31 32 Voltage
+3 3 25 26 Voltage
+23 23 27 28 Voltage
+1 1 24 27 Capacity
+1 1 31 32 Voltage | 1 1 31 32 Voltage
+38 38 18 19 Voltage
+21 21 17 18 Voltage
+18 18 40 41 Coulombic_Efficiency | 18 18 46 47 Coulombic_Efficiency | 18 18 43 44 Coulombic_Efficiency
+1 1 38 39 Coulombic_Efficiency
+5 5 12 13 Voltage
+5 5 12 13 Voltage
+11 11 16 17 Voltage
+10 10 22 23 Voltage
+21 21 9 10 Voltage
+2 2 4 5 Voltage
+3 3 30 31 Coulombic_Efficiency
+15 15 29 30 Voltage | 17 17 29 30 Voltage
+12 12 22 23 Voltage | 12 12 32 33 Voltage
+0 0 12 15 Capacity
+9 9 21 24 Capacity | 9 9 15 18 Capacity
+0 0 25 28 Capacity | 0 0 13 16 Capacity | 22 22 13 16 Capacity
+7 7 14 15 Voltage
+6 6 13 14 Voltage | 18 18 13 14 Voltage
+25 25 8 9 Voltage
+26 26 57 58 Voltage
+12 12 34 35 Voltage
+3 3 12 13 Voltage | 3 3 33 34 Voltage | 37 37 12 13 Voltage | 37 37 39 40 Voltage | 37 37 33 34 Voltage | 43 43 12 13 Voltage | 43 43 33 34 Voltage | 43 43 39 40 Voltage
+25 25 15 16 Voltage
+32 32 28 29 Voltage | 32 32 12 13 Voltage | 36 36 28 29 Voltage | 36 36 12 13 Voltage
+31 31 25 26 Voltage
+3 3 25 26 Voltage | 20 20 25 26 Voltage
+7 7 26 27 Voltage | 7 7 26 27 Voltage
+2 2 32 35 Capacity
+33 33 9 10 Voltage | 33 33 9 10 Voltage
+35 35 10 11 Voltage
+28 28 5 6 Voltage | 28 28 8 9 Voltage
+13 13 34 35 Coulombic_Efficiency
+5 5 30 33 Capacity
+13 13 34 35 Coulombic_Efficiency
+13 13 32 33 Coulombic_Efficiency
+7 7 29 32 Capacity
+5 5 11 14 Capacity
+24 24 16 17 Voltage
+3 3 14 15 Voltage
+27 27 7 8 Coulombic_Efficiency
+4 4 15 18 Capacity
+8 8 14 15 Voltage | 8 8 14 15 Voltage
+8 8 29 32 Capacity | 8 8 29 32 Capacity
+23 23 10 11 Voltage
+11 11 20 21 Voltage
+7 7 19 20 Voltage
+2 2 6 7 Voltage
+13 13 7 8 Voltage
+7 7 22 23 Voltage
+4 4 12 13 Voltage
+12 12 14 15 Voltage
+14 14 27 28 Voltage | 31 31 34 35 Voltage | 31 31 27 28 Voltage
+0 0 13 14 Voltage
+34 34 13 14 Voltage
+35 35 11 12 Voltage | 35 35 20 21 Voltage
+4 4 35 36 Coulombic_Efficiency
+4 4 36 37 Coulombic_Efficiency
+36 36 9 10 Coulombic_Efficiency
+7 7 15 18 Capacity | 36 36 15 18 Capacity
+13 13 35 36 Coulombic_Efficiency
+7 7 18 21 Capacity
+28 28 7 8 Voltage
+36 36 5 6 Voltage
+4 4 28 29 Voltage
+1 1 13 15 Energy
+21 21 10 11 Voltage
+32 32 24 25 Voltage
+6 6 39 40 Voltage
+1 1 13 16 Capacity
+5 5 31 32 Voltage | 18 18 31 32 Voltage
+8 8 24 25 Voltage | 8 8 27 28 Voltage
+9 9 14 15 Voltage | 9 9 20 21 Voltage
+19 19 12 13 Voltage
+2 2 17 18 Voltage
+36 36 21 22 Voltage | 38 38 21 22 Voltage
+6 6 13 16 Capacity
+10 10 18 21 Capacity | 10 10 29 32 Capacity
+4 4 26 29 Capacity
+23 23 6 9 Capacity
+20 20 25 26 Voltage
+13 13 32 33 Voltage
+35 35 12 13 Voltage
+33 33 25 26 Voltage | 33 33 13 14 Voltage
+12 12 21 22 Voltage | 12 12 24 25 Voltage | 12 12 21 22 Voltage | 12 12 24 25 Voltage
+1 1 21 22 Coulombic_Efficiency
+1 1 21 22 Coulombic_Efficiency
+11 11 4 5 Voltage
+21 21 14 15 Coulombic_Efficiency
+31 31 22 25 Capacity | 31 31 43 46 Capacity | 33 33 22 25 Capacity | 33 33 43 46 Capacity
+14 14 19 20 Voltage
+16 16 27 28 Voltage
+6 6 25 26 Voltage | 6 6 14 15 Voltage
+9 9 31 32 Voltage | 9 9 31 32 Voltage
+8 8 14 15 Voltage
+16 16 13 14 Voltage
+1 1 42 43 Voltage
+34 34 40 41 Voltage
+5 5 22 25 Capacity
+10 10 41 42 Voltage | 10 10 41 42 Voltage
+8 8 23 24 Voltage
+8 8 26 27 Voltage
+14 14 6 9 Capacity
+28 28 12 13 Voltage | 35 35 9 10 Voltage | 35 35 12 13 Voltage
+5 5 25 28 Capacity | 5 5 25 28 Capacity
+20 20 11 12 Voltage | 20 20 7 8 Voltage
+4 4 21 22 Voltage
+47 47 13 14 Voltage
+13 13 22 24 Conductivity
+5 5 18 19 Voltage | 34 34 18 19 Voltage
+1 1 17 18 Voltage | 12 12 17 18 Voltage
+3 3 15 16 Voltage
+5 5 23 24 Voltage | 7 7 23 24 Voltage
+29 29 17 18 Voltage | 29 29 17 18 Voltage | 29 29 17 18 Voltage
+10 10 17 18 Voltage | 10 10 31 32 Voltage
+13 13 10 11 Voltage
+8 8 15 16 Voltage | 8 8 24 25 Voltage
+28 28 9 10 Voltage
+3 3 15 16 Voltage
+6 6 32 33 Voltage | 6 6 32 33 Voltage | 44 44 32 33 Voltage
+8 8 34 35 Voltage | 8 8 34 35 Voltage
+11 11 26 27 Coulombic_Efficiency
+8 8 35 36 Coulombic_Efficiency
+27 27 48 49 Voltage | 29 29 48 49 Voltage | 27 27 48 49 Voltage
+17 17 30 31 Voltage | 38 38 30 31 Voltage
+37 37 34 35 Voltage
+0 0 34 35 Voltage
+6 6 34 35 Coulombic_Efficiency
+12 12 19 20 Voltage
+10 10 16 17 Voltage
+28 28 20 21 Voltage
+4 4 24 25 Voltage
+30 30 15 16 Voltage
+4 4 22 23 Voltage
+12 12 5 6 Coulombic_Efficiency
+1 1 25 26 Voltage | 1 1 25 26 Voltage
+8 8 34 35 Voltage
+3 3 26 27 Coulombic_Efficiency
+1 1 22 23 Coulombic_Efficiency | 1 1 22 23 Coulombic_Efficiency
+13 13 28 29 Voltage
+26 26 34 35 Voltage
+40 40 17 18 Voltage | 40 40 28 29 Voltage
+6 6 23 24 Coulombic_Efficiency
+32 32 22 23 Voltage
+7 7 42 43 Voltage | 7 7 27 28 Voltage
+3 3 20 21 Voltage | 3 3 35 36 Voltage
+11 11 13 14 Coulombic_Efficiency
+18 18 21 24 Capacity
+30 30 13 14 Voltage
+3 3 42 43 Voltage | 3 3 35 36 Voltage
+12 12 18 19 Voltage
+5 5 18 19 Voltage | 5 5 18 19 Voltage
+10 10 30 33 Capacity | 10 10 30 33 Capacity
+33 33 20 21 Voltage | 33 33 23 24 Voltage | 33 33 27 28 Voltage | 39 39 27 28 Voltage | 39 39 20 21 Voltage | 39 39 23 24 Voltage
+10 10 35 36 Voltage | 10 10 35 36 Voltage | 27 27 35 36 Voltage
+5 5 9 12 Capacity | 5 5 9 12 Capacity
+6 6 23 24 Coulombic_Efficiency
+23 23 34 35 Voltage | 23 23 17 18 Voltage | 23 23 11 12 Voltage | 40 40 34 35 Voltage | 40 40 17 18 Voltage
+3 3 25 26 Coulombic_Efficiency | 3 3 25 26 Coulombic_Efficiency
+10 10 28 31 Capacity | 10 10 44 47 Capacity
+28 28 17 18 Voltage
+10 10 7 8 Coulombic_Efficiency | 10 10 4 5 Coulombic_Efficiency
+6 6 38 39 Coulombic_Efficiency
+2 2 24 25 Coulombic_Efficiency
+8 8 17 18 Voltage | 8 8 25 26 Voltage | 8 8 17 18 Voltage | 8 8 25 26 Voltage | 42 42 17 18 Voltage | 42 42 25 26 Voltage
+6 6 40 41 Voltage | 6 6 29 30 Voltage | 24 24 40 41 Voltage | 24 24 29 30 Voltage
+26 26 18 19 Voltage
+5 5 17 18 Coulombic_Efficiency
+0 0 12 13 Voltage
+1 1 7 8 Voltage
+15 15 26 27 Voltage | 15 15 26 27 Voltage
+1 1 19 20 Voltage
+12 12 33 34 Coulombic_Efficiency
+1 1 28 29 Coulombic_Efficiency
+17 17 41 42 Coulombic_Efficiency | 17 17 5 6 Voltage
+3 3 18 21 Capacity
+6 6 10 13 Capacity
+4 4 11 12 Voltage
+10 10 23 24 Voltage | 35 35 23 24 Voltage
+3 3 18 19 Coulombic_Efficiency
+48 48 158 159 Voltage | 48 48 161 162 Voltage | 89 89 161 162 Voltage | 89 89 158 159 Voltage | 91 91 161 162 Voltage | 91 91 158 159 Voltage | 91 91 161 162 Voltage | 91 91 158 159 Voltage | 125 125 158 159 Voltage | 125 125 161 162 Voltage | 91 91 161 162 Voltage | 91 91 158 159 Voltage | 91 91 161 162 Voltage | 91 91 158 159 Voltage | 91 91 161 162 Voltage | 91 91 158 159 Voltage
+9 9 39 40 Coulombic_Efficiency | 9 9 47 48 Coulombic_Efficiency
+23 23 7 8 Voltage | 25 25 7 8 Voltage
+1 1 21 22 Voltage
+4 4 21 22 Voltage | 4 4 39 40 Voltage
+31 31 5 6 Voltage | 31 31 40 41 Voltage
+1 1 38 39 Coulombic_Efficiency | 1 1 38 39 Coulombic_Efficiency
+22 22 16 17 Voltage
+4 4 11 13 Energy | 4 4 25 27 Energy
+13 13 34 35 Voltage | 15 15 34 35 Voltage
+6 6 12 13 Voltage
+35 35 25 26 Coulombic_Efficiency
+25 25 12 13 Voltage
+12 12 5 6 Voltage
+27 27 18 19 Voltage | 29 29 18 19 Voltage
+3 3 13 14 Voltage | 3 3 10 11 Voltage | 3 3 13 14 Voltage | 3 3 10 11 Voltage
+2 2 16 19 Capacity
+18 18 11 12 Voltage | 20 20 11 12 Voltage | 29 29 11 12 Voltage
+25 25 20 21 Voltage
+7 7 42 43 Coulombic_Efficiency | 7 7 42 43 Coulombic_Efficiency
+0 0 21 22 Voltage | 0 0 21 22 Voltage
+3 3 23 24 Voltage | 6 6 23 24 Voltage | 3 3 23 24 Voltage
+2 2 21 22 Voltage | 4 4 21 22 Voltage
+30 30 25 26 Voltage
+10 10 17 18 Voltage
+15 15 33 35 Energy | 15 15 17 19 Energy
+7 7 24 25 Voltage
+4 4 26 27 Coulombic_Efficiency
+15 15 5 6 Voltage | 21 21 5 6 Voltage | 23 23 5 6 Voltage
+9 9 6 7 Voltage
+7 7 29 30 Coulombic_Efficiency | 7 7 29 30 Coulombic_Efficiency
+21 21 11 12 Voltage
+6 6 30 31 Voltage | 6 6 30 31 Voltage
+17 17 6 7 Voltage
+37 37 30 31 Voltage | 37 37 22 23 Voltage
+6 6 43 44 Coulombic_Efficiency
+40 40 32 35 Capacity
+9 9 46 47 Coulombic_Efficiency | 11 11 46 47 Coulombic_Efficiency
+14 14 4 5 Voltage | 25 25 4 5 Voltage | 14 14 4 5 Voltage | 25 25 4 5 Voltage
+21 21 15 16 Voltage
+14 14 6 7 Voltage
+34 34 21 22 Voltage
+8 8 28 29 Voltage
+18 18 11 12 Voltage | 18 18 8 9 Voltage
+11 11 31 32 Coulombic_Efficiency
+32 32 13 16 Capacity
+2 2 21 22 Coulombic_Efficiency | 2 2 21 22 Coulombic_Efficiency
+9 9 23 24 Voltage | 9 9 23 24 Voltage | 9 9 23 24 Voltage | 9 9 23 24 Voltage | 202 202 23 24 Voltage
+43 43 23 24 Voltage
+8 8 11 12 Coulombic_Efficiency | 8 8 18 19 Coulombic_Efficiency | 8 8 11 12 Coulombic_Efficiency | 8 8 18 19 Coulombic_Efficiency
+25 25 41 42 Voltage
+37 37 33 34 Voltage
+23 23 19 20 Voltage
+21 21 9 10 Voltage
+8 8 22 23 Voltage | 10 10 22 23 Voltage
+8 8 15 16 Voltage
+20 20 5 8 Capacity
+10 10 31 32 Voltage
+6 6 30 31 Voltage | 6 6 14 15 Voltage | 6 6 17 18 Voltage
+0 0 16 17 Voltage | 0 0 16 17 Voltage
+7 7 32 33 Coulombic_Efficiency | 7 7 10 11 Coulombic_Efficiency
+0 0 21 22 Coulombic_Efficiency
+3 3 23 24 Voltage
+4 4 31 32 Voltage | 4 4 31 32 Voltage
+14 14 8 9 Voltage
+5 5 14 15 Voltage | 43 43 14 15 Voltage
+6 6 19 20 Voltage | 6 6 29 30 Voltage | 11 11 29 30 Voltage | 11 11 19 20 Voltage | 34 34 29 30 Voltage | 34 34 19 20 Voltage
+3 3 9 12 Capacity | 3 3 23 26 Capacity
+32 32 13 16 Capacity
+9 9 41 42 Voltage | 9 9 41 42 Voltage
+23 23 36 37 Voltage | 29 29 36 37 Voltage
+36 36 14 15 Voltage
+14 14 11 12 Voltage
+24 24 12 13 Voltage
+26 26 10 11 Voltage
+7 7 18 19 Voltage
+32 32 7 8 Voltage | 32 32 18 19 Voltage
+7 7 23 24 Voltage | 7 7 26 27 Voltage | 7 7 23 24 Voltage | 7 7 26 27 Voltage
+11 11 22 23 Voltage | 37 37 22 23 Voltage | 37 37 3 4 Voltage
+20 20 10 11 Voltage
+27 27 7 8 Voltage
+2 2 24 25 Voltage | 2 2 15 16 Voltage | 2 2 30 31 Voltage | 22 22 24 25 Voltage | 22 22 36 37 Voltage | 22 22 30 31 Voltage | 28 28 30 31 Voltage | 28 28 36 37 Voltage | 28 28 24 25 Voltage | 28 28 15 16 Voltage | 34 34 36 37 Voltage | 34 34 30 31 Voltage | 34 34 24 25 Voltage
+5 5 11 12 Voltage | 5 5 16 17 Voltage | 5 5 8 9 Voltage
+9 9 23 24 Voltage | 9 9 12 13 Voltage | 9 9 15 16 Voltage
+21 21 11 12 Voltage
+31 31 10 11 Voltage
+14 14 29 30 Voltage
+9 9 31 32 Voltage
+4 4 23 24 Voltage
+19 19 11 12 Voltage
+14 14 21 22 Voltage
+12 12 26 27 Voltage
+8 8 23 24 Voltage
+1 1 8 11 Capacity | 1 1 18 21 Capacity
+6 6 48 49 Voltage | 6 6 45 46 Voltage | 6 6 13 14 Voltage | 6 6 48 49 Voltage | 6 6 45 46 Voltage | 6 6 13 14 Voltage
+6 6 17 18 Voltage | 6 6 11 12 Voltage | 6 6 17 18 Voltage | 6 6 11 12 Voltage
+4 4 19 20 Voltage | 6 6 19 20 Voltage
+28 28 20 21 Voltage
+22 22 15 16 Voltage
+5 5 13 14 Voltage
+8 8 33 36 Capacity
+23 23 12 13 Voltage
+6 6 36 39 Capacity
+5 5 26 29 Capacity | 5 5 26 29 Capacity
+3 3 27 28 Voltage | 3 3 35 37 Energy | 12 12 27 28 Voltage
+29 29 24 25 Voltage
+6 6 25 26 Voltage
+1 1 38 39 Voltage | 27 27 38 39 Voltage | 30 30 38 39 Voltage
+21 21 11 12 Voltage | 21 21 8 9 Voltage
+6 6 8 9 Voltage
+3 3 20 21 Voltage
+0 0 7 10 Capacity
+17 17 19 22 Capacity
+19 19 32 33 Voltage | 21 21 32 33 Voltage
+5 5 24 26 Energy
+33 33 20 21 Voltage
+8 8 11 12 Voltage | 8 8 31 32 Voltage
+16 16 33 34 Voltage | 16 16 33 34 Voltage
+17 17 30 31 Voltage
+16 16 34 35 Voltage
+30 30 4 5 Voltage
+30 30 4 5 Voltage
+22 22 31 32 Voltage
+20 20 7 10 Capacity
+1 1 45 48 Capacity | 1 1 45 48 Capacity
+5 5 24 25 Voltage | 5 5 24 25 Voltage
+8 8 10 11 Voltage | 8 8 10 11 Voltage
+21 21 14 15 Voltage | 27 27 14 15 Voltage | 21 21 14 15 Voltage
+39 39 41 42 Voltage
+0 0 18 19 Voltage | 29 29 31 32 Voltage
+20 20 13 14 Voltage
+41 41 24 25 Voltage | 44 44 24 25 Voltage
+14 14 11 12 Voltage | 16 16 11 12 Voltage
+34 34 22 23 Voltage
+8 8 13 14 Coulombic_Efficiency
+27 27 18 19 Voltage | 27 27 18 19 Voltage
+8 8 21 24 Capacity
+8 8 33 34 Coulombic_Efficiency
+6 6 26 27 Voltage
+13 13 7 8 Voltage | 13 13 7 8 Voltage
+18 18 8 9 Voltage | 25 25 8 9 Voltage
+18 18 13 14 Voltage | 18 18 38 40 Energy | 18 18 13 14 Voltage | 18 18 38 40 Energy
+15 15 40 41 Voltage
+33 33 9 11 Energy | 33 33 9 11 Energy
+25 25 20 21 Voltage | 25 25 46 48 Energy | 25 25 20 21 Voltage | 25 25 46 48 Energy
+12 12 14 17 Capacity
+4 4 17 18 Voltage
+4 4 45 46 Voltage
+8 8 21 22 Voltage | 10 10 21 22 Voltage
+18 18 10 11 Voltage
+9 9 23 24 Voltage | 9 9 20 21 Voltage
+22 22 12 13 Voltage
+6 6 8 9 Voltage | 6 6 8 9 Voltage
+6 6 21 22 Voltage
+4 4 6 7 Voltage
+8 8 11 12 Coulombic_Efficiency
+2 2 19 20 Coulombic_Efficiency
+18 18 36 37 Coulombic_Efficiency | 18 18 36 37 Coulombic_Efficiency
+8 8 34 36 Energy
+39 39 34 35 Voltage
+49 49 53 54 Voltage | 49 49 37 38 Voltage
+0 0 9 10 Voltage
+9 9 33 34 Voltage
+27 27 7 8 Coulombic_Efficiency
+15 15 39 40 Coulombic_Efficiency
+4 4 26 27 Coulombic_Efficiency
+9 9 36 37 Voltage
+1 1 39 40 Voltage
+27 27 21 22 Voltage
+4 4 13 16 Capacity
+12 12 15 16 Voltage | 12 12 15 16 Voltage
+18 18 23 24 Voltage
+12 12 31 32 Coulombic_Efficiency
+17 17 24 25 Voltage
+6 6 29 30 Voltage
+13 13 17 20 Capacity
+8 8 16 19 Capacity | 8 8 16 19 Capacity
+13 13 6 7 Voltage | 13 13 9 10 Voltage
+10 10 22 23 Voltage
+8 8 30 31 Voltage | 8 8 30 31 Voltage
+13 13 27 30 Capacity
+12 12 4 5 Voltage | 22 22 4 5 Voltage
+3 3 27 28 Voltage
+45 45 15 16 Voltage
+8 8 41 42 Voltage | 8 8 52 53 Voltage | 20 20 41 42 Voltage | 20 20 41 42 Voltage | 55 55 41 42 Voltage | 55 55 52 53 Voltage | 57 57 52 53 Voltage | 57 57 41 42 Voltage
+1 1 13 14 Voltage | 1 1 13 14 Voltage
+5 5 38 39 Voltage | 5 5 38 39 Voltage
+9 9 18 19 Voltage
+2 2 8 11 Capacity
+1 1 13 16 Capacity
+10 10 23 24 Voltage
+143 143 239 240 Voltage
+19 19 33 34 Voltage | 21 21 33 34 Voltage
+1 1 27 30 Capacity
+35 35 6 7 Voltage
+23 23 8 9 Voltage | 23 23 8 9 Voltage
+4 4 29 30 Voltage | 4 4 39 40 Voltage | 4 4 29 30 Voltage | 4 4 39 40 Voltage | 4 4 29 30 Voltage | 4 4 39 40 Voltage
+7 7 25 26 Voltage
+48 48 20 21 Voltage | 48 48 20 21 Voltage | 48 48 20 21 Voltage
+8 8 27 28 Voltage
+41 41 14 15 Voltage | 43 43 14 15 Voltage
+0 0 4 5 Voltage | 0 0 24 25 Voltage | 14 14 24 25 Voltage | 14 14 4 5 Voltage | 14 14 24 25 Voltage | 14 14 4 5 Voltage
+0 0 5 6 Voltage | 0 0 28 29 Voltage | 17 17 28 29 Voltage | 17 17 28 29 Voltage
+4 4 18 19 Voltage
+29 29 5 8 Capacity
+28 28 11 12 Voltage
+15 15 31 32 Voltage | 42 42 31 32 Voltage
+0 0 34 35 Voltage | 3 3 34 35 Voltage
+7 7 10 13 Capacity | 7 7 21 24 Capacity
+11 11 36 37 Voltage | 11 11 19 20 Voltage
+11 11 15 18 Capacity
+13 13 29 30 Voltage
+14 14 25 26 Voltage | 14 14 25 26 Voltage
+28 28 14 15 Voltage
+27 27 13 14 Voltage
+39 39 33 34 Voltage
+26 26 22 23 Voltage | 28 28 22 23 Voltage
+12 12 18 21 Capacity
+8 8 10 13 Capacity
+12 12 18 21 Capacity
+5 5 30 31 Voltage
+8 8 16 17 Voltage
+22 22 5 6 Voltage | 22 22 5 6 Voltage
+7 7 20 21 Voltage
+11 11 14 15 Coulombic_Efficiency
+2 2 25 26 Coulombic_Efficiency | 2 2 28 29 Coulombic_Efficiency
+11 11 14 15 Coulombic_Efficiency
+8 8 31 34 Capacity | 8 8 31 34 Capacity
+10 10 12 15 Capacity
+7 7 12 13 Coulombic_Efficiency | 7 7 15 16 Coulombic_Efficiency
+22 22 16 17 Voltage | 22 22 19 20 Voltage
+18 18 5 6 Voltage
+17 17 14 15 Voltage
+20 20 17 18 Voltage | 22 22 17 18 Voltage | 22 22 17 18 Voltage | 20 20 17 18 Voltage
+5 5 35 36 Voltage
+7 7 33 34 Voltage
+13 13 39 40 Voltage
+6 6 29 30 Voltage
+26 26 9 12 Capacity
+8 8 38 39 Voltage
+28 28 23 24 Voltage | 28 28 13 14 Voltage | 54 54 23 24 Voltage
+9 9 20 22 Energy
+21 21 15 16 Voltage
+14 14 6 7 Voltage
+5 5 14 15 Voltage
+21 21 44 45 Voltage | 21 21 41 42 Voltage
+39 39 25 26 Voltage
+10 10 6 7 Voltage
+14 14 7 8 Voltage
+12 12 8 9 Voltage | 12 12 5 6 Voltage
+11 11 18 19 Voltage
+5 5 11 12 Coulombic_Efficiency
+22 22 7 8 Voltage
+14 14 25 26 Voltage
+20 20 23 24 Voltage
+11 11 32 33 Voltage | 11 11 5 6 Voltage | 35 35 32 33 Voltage
+2 2 8 9 Voltage | 4 4 8 9 Voltage
+32 32 20 21 Voltage | 32 32 35 36 Voltage
+4 4 19 20 Voltage
+16 16 7 10 Capacity
+15 15 35 36 Voltage
+1 1 10 13 Capacity
+7 7 16 19 Capacity
+7 7 16 19 Capacity
+3 3 12 15 Capacity
+8 8 23 24 Voltage
+21 21 5 6 Voltage
+4 4 22 23 Voltage | 14 14 22 23 Voltage
+19 19 5 6 Voltage
+24 24 28 29 Voltage
+1 1 9 12 Capacity | 1 1 20 23 Capacity | 1 1 31 32 Coulombic_Efficiency
+13 13 20 21 Voltage
+4 4 13 14 Voltage
+24 24 15 16 Voltage | 24 24 10 11 Voltage
+9 9 25 26 Voltage | 14 14 25 26 Voltage | 30 30 25 26 Voltage
+1 1 7 8 Voltage
+12 12 17 18 Coulombic_Efficiency
+6 6 17 18 Voltage | 6 6 17 18 Voltage
+15 15 20 21 Voltage | 15 15 20 21 Voltage
+41 41 36 38 Conductivity
+38 38 7 8 Voltage
+14 14 29 32 Capacity
+6 6 35 38 Capacity | 6 6 9 12 Capacity | 17 17 9 12 Capacity | 6 6 35 38 Capacity | 6 6 9 12 Capacity
+8 8 12 15 Capacity
+13 13 17 18 Voltage
+25 25 16 17 Voltage
+15 15 23 24 Voltage
+12 12 19 22 Capacity | 12 12 19 22 Capacity
+1 1 10 13 Capacity
+20 20 45 46 Voltage | 25 25 45 46 Voltage
+5 5 23 24 Voltage | 5 5 16 17 Voltage
+17 17 38 39 Voltage
+10 10 15 18 Capacity | 10 10 32 35 Capacity | 10 10 15 18 Capacity | 10 10 32 35 Capacity
+4 4 21 22 Voltage | 4 4 21 22 Voltage
+6 6 31 32 Voltage | 6 6 31 32 Voltage
+18 18 26 29 Capacity
+24 24 8 9 Voltage | 24 24 42 43 Voltage
+11 11 30 31 Voltage
+17 17 24 25 Voltage
+67 67 28 29 Voltage | 67 67 31 32 Voltage
+16 16 32 35 Capacity
+21 21 35 38 Capacity
+24 24 6 7 Voltage
+25 25 6 7 Voltage
+7 7 20 21 Voltage
+7 7 24 25 Voltage | 7 7 21 22 Voltage
+12 12 36 39 Capacity | 12 12 20 23 Capacity
+14 14 22 25 Capacity
+18 18 9 10 Voltage | 24 24 9 10 Voltage
+8 8 26 27 Voltage
+0 0 19 20 Voltage
+11 11 33 34 Voltage | 11 11 33 34 Voltage
+3 3 30 31 Voltage
+13 13 20 22 Conductivity
+3 3 26 27 Voltage | 3 3 29 30 Voltage
+9 9 31 32 Coulombic_Efficiency
+7 7 15 16 Coulombic_Efficiency
+10 10 46 47 Voltage | 10 10 46 47 Voltage
+1 1 42 43 Coulombic_Efficiency | 1 1 42 43 Coulombic_Efficiency
+37 37 30 33 Capacity | 37 37 22 25 Capacity
+9 9 29 30 Coulombic_Efficiency
+21 21 26 27 Voltage
+42 42 11 12 Voltage
+0 0 12 15 Capacity
+0 0 12 15 Capacity
+2 2 24 25 Voltage
+23 23 34 35 Voltage | 23 23 16 17 Voltage | 23 23 10 11 Voltage
+7 7 24 25 Coulombic_Efficiency
+27 27 12 13 Coulombic_Efficiency
+12 12 22 23 Voltage | 12 12 22 23 Voltage
+0 0 24 25 Coulombic_Efficiency
+27 27 44 45 Voltage
+8 8 39 40 Voltage | 8 8 24 25 Voltage | 8 8 39 40 Voltage | 8 8 24 25 Voltage
+15 15 33 34 Voltage
+15 15 33 34 Voltage
+11 11 13 14 Voltage | 11 11 13 14 Voltage
+3 3 49 50 Voltage | 5 5 49 50 Voltage | 5 5 49 50 Voltage | 5 5 49 50 Voltage
+21 21 12 13 Voltage | 23 23 12 13 Voltage
+18 18 36 37 Voltage
+4 4 14 17 Capacity
+9 9 2 3 Voltage
+3 3 13 16 Capacity
+9 9 21 22 Voltage
+11 11 35 36 Voltage
+5 5 8 9 Voltage
+5 5 8 9 Voltage
+22 22 12 13 Voltage | 22 22 3 4 Voltage
+6 6 10 11 Voltage
+1 1 9 10 Voltage
+10 10 35 36 Coulombic_Efficiency
+25 25 9 10 Voltage
+16 16 40 41 Voltage
+5 5 19 20 Coulombic_Efficiency | 5 5 19 20 Coulombic_Efficiency
+7 7 9 12 Capacity | 20 20 22 25 Capacity | 29 29 31 34 Capacity | 29 29 22 25 Capacity
+29 29 16 19 Capacity
+39 39 30 31 Voltage
+5 5 8 9 Voltage | 25 25 8 9 Voltage
+14 14 30 31 Voltage | 24 24 30 31 Voltage
+4 4 27 28 Voltage
+46 46 18 19 Voltage | 46 46 21 22 Voltage | 46 46 15 16 Voltage
+40 40 20 21 Voltage
+6 6 16 17 Voltage | 6 6 16 17 Voltage
+21 21 36 39 Capacity
+4 4 27 28 Voltage
+5 5 40 41 Voltage
+27 27 9 10 Voltage
+6 6 17 18 Voltage
+12 12 4 5 Voltage | 15 15 4 5 Voltage
+12 12 22 25 Capacity
+4 4 43 44 Voltage
+7 7 24 25 Voltage
+24 24 8 9 Voltage | 24 24 5 6 Voltage | 30 30 8 9 Voltage | 30 30 5 6 Voltage
+7 7 22 23 Voltage
+3 3 10 13 Capacity
+10 10 6 7 Voltage
+8 8 25 26 Coulombic_Efficiency
+14 14 31 32 Voltage | 14 14 39 40 Voltage | 14 14 31 32 Voltage | 14 14 39 40 Voltage | 14 14 31 32 Voltage | 14 14 39 40 Voltage | 14 14 31 32 Voltage | 14 14 39 40 Voltage
+19 19 35 36 Voltage
+1 1 19 22 Capacity
+2 2 30 33 Capacity
+105 105 55 56 Voltage | 108 108 55 56 Voltage | 105 105 55 56 Voltage | 105 105 55 56 Voltage | 205 205 55 56 Voltage | 205 205 55 56 Voltage | 205 205 55 56 Voltage | 330 330 55 56 Voltage | 105 105 55 56 Voltage
+18 18 13 14 Voltage | 37 37 13 14 Voltage
+0 0 21 22 Voltage
+44 44 29 30 Voltage | 44 44 22 23 Voltage
+18 18 13 14 Voltage
+9 9 13 16 Capacity
+4 4 8 11 Capacity
+29 29 13 14 Voltage | 29 29 13 14 Voltage | 29 29 13 14 Voltage | 29 29 13 14 Voltage | 29 29 13 14 Voltage
+37 37 5 8 Capacity
+16 16 8 9 Voltage
+8 8 21 22 Voltage
+0 0 25 26 Voltage | 17 17 25 26 Voltage
+48 48 14 15 Coulombic_Efficiency
+35 35 5 6 Voltage
+6 6 13 16 Capacity
+6 6 13 16 Capacity
+2 2 23 24 Voltage | 2 2 20 21 Voltage
+6 6 14 15 Voltage
+10 10 16 17 Voltage | 10 10 7 8 Voltage
+15 15 11 12 Voltage
+21 21 7 8 Voltage
+60 60 36 39 Capacity
+60 60 36 39 Capacity
+21 21 14 15 Voltage | 26 26 14 15 Voltage
+8 8 30 31 Voltage | 8 8 30 31 Voltage
+9 9 22 23 Voltage
+4 4 12 13 Coulombic_Efficiency
+14 14 20 23 Capacity
+8 8 27 28 Voltage
+6 6 28 31 Capacity | 6 6 28 31 Capacity
+26 26 20 21 Voltage | 26 26 28 29 Voltage
+16 16 4 5 Voltage
+11 11 5 6 Voltage | 11 11 5 6 Voltage
+16 16 9 10 Voltage
+8 8 29 30 Voltage
+21 21 9 10 Voltage | 21 21 9 10 Voltage
+5 5 16 17 Voltage
+21 21 6 7 Coulombic_Efficiency
+28 28 21 22 Voltage | 28 28 21 22 Voltage | 38 38 21 22 Voltage
+5 5 19 20 Voltage | 5 5 8 9 Voltage
+4 4 21 22 Voltage | 4 4 21 22 Voltage
+5 5 22 23 Voltage
+2 2 30 31 Coulombic_Efficiency
+4 4 21 24 Capacity
+46 46 12 13 Voltage
+6 6 29 30 Coulombic_Efficiency
+8 8 21 22 Voltage | 8 8 21 22 Voltage
+14 14 41 42 Voltage
+2 2 11 12 Coulombic_Efficiency
+8 8 15 16 Voltage
+13 13 30 33 Capacity
+18 18 34 35 Voltage
+10 10 18 21 Capacity
+18 18 14 15 Voltage
+18 18 11 12 Voltage | 18 18 22 23 Voltage
+3 3 20 22 Conductivity
+5 5 31 33 Conductivity
+14 14 25 26 Voltage
+8 8 17 18 Voltage | 12 12 17 18 Voltage
+4 4 32 33 Voltage
+14 14 5 6 Voltage
+11 11 44 45 Coulombic_Efficiency
+21 21 15 16 Voltage
+1 1 12 13 Voltage
+25 25 28 29 Voltage | 31 31 28 29 Voltage | 36 36 28 29 Voltage
+3 3 38 39 Voltage | 5 5 38 39 Voltage | 3 3 38 39 Voltage
+2 2 26 27 Coulombic_Efficiency | 2 2 23 24 Coulombic_Efficiency | 2 2 26 27 Coulombic_Efficiency | 2 2 23 24 Coulombic_Efficiency
+4 4 14 15 Voltage
+8 8 21 22 Voltage
+10 10 22 23 Voltage
+15 15 36 37 Voltage
+14 14 4 5 Voltage
+15 15 39 40 Coulombic_Efficiency
+16 16 29 30 Voltage | 16 16 29 30 Voltage
+3 3 15 18 Capacity
+41 41 5 6 Voltage | 41 41 5 6 Voltage | 41 41 5 6 Voltage | 41 41 5 6 Voltage
+9 9 14 15 Voltage
+14 14 10 11 Voltage
+19 19 29 30 Coulombic_Efficiency
+16 16 6 7 Voltage | 16 16 6 7 Voltage
+0 0 14 15 Voltage
+24 24 3 4 Voltage
+1 1 18 21 Capacity | 1 1 29 30 Coulombic_Efficiency | 1 1 12 15 Capacity
+31 31 14 17 Capacity
+22 22 11 12 Voltage | 22 22 11 12 Voltage
+5 5 13 14 Voltage
+2 2 41 42 Voltage | 2 2 41 42 Voltage
+6 6 8 10 Conductivity
+3 3 12 13 Voltage
+6 6 21 22 Voltage | 15 15 21 22 Voltage | 26 26 21 22 Voltage
+6 6 9 10 Coulombic_Efficiency | 6 6 9 10 Coulombic_Efficiency
+9 9 18 19 Voltage
+11 11 6 7 Voltage
+17 17 12 13 Voltage
+4 4 33 34 Coulombic_Efficiency
+5 5 28 31 Capacity | 5 5 28 31 Capacity
+9 9 13 16 Capacity
+4 4 25 26 Voltage | 4 4 25 26 Voltage
+5 5 13 14 Voltage | 5 5 13 14 Voltage
+6 6 11 12 Voltage | 6 6 11 12 Voltage
+20 20 8 9 Voltage
+6 6 21 22 Voltage
+10 10 19 20 Voltage
+36 36 19 20 Voltage | 38 38 19 20 Voltage
+11 11 27 28 Voltage | 33 33 27 28 Voltage
+12 12 27 28 Voltage
+37 37 7 8 Voltage
+23 23 10 11 Voltage
+1 1 36 38 Energy | 1 1 13 15 Energy
+3 3 9 12 Capacity
+7 7 37 38 Voltage
+7 7 19 20 Voltage
+5 5 28 29 Voltage
+36 36 22 23 Voltage | 36 36 19 20 Voltage | 36 36 27 28 Voltage
+36 36 19 20 Voltage | 36 36 22 23 Voltage | 36 36 27 28 Voltage
+28 28 6 7 Voltage | 28 28 9 10 Voltage
+4 4 16 17 Voltage | 4 4 16 17 Voltage
+4 4 10 11 Voltage | 4 4 13 14 Voltage
+0 0 10 11 Voltage
+4 4 14 17 Capacity
+1 1 20 23 Capacity
+3 3 15 16 Voltage
+25 25 12 13 Voltage
+11 11 24 25 Voltage
+14 14 38 39 Voltage
+22 22 29 30 Voltage
+12 12 7 8 Voltage | 12 12 38 39 Voltage | 15 15 38 39 Voltage | 15 15 7 8 Voltage | 12 12 7 8 Voltage | 12 12 38 39 Voltage | 15 15 38 39 Voltage | 15 15 7 8 Voltage
+13 13 15 16 Voltage
+7 7 16 17 Voltage
+7 7 14 15 Voltage | 22 22 14 15 Voltage | 7 7 14 15 Voltage | 22 22 14 15 Voltage
+8 8 16 17 Voltage
+12 12 14 17 Capacity | 20 20 22 25 Capacity
+15 15 17 20 Capacity | 24 24 26 29 Capacity
+3 3 14 16 Conductivity
+25 25 7 8 Voltage | 27 27 7 8 Voltage
+8 8 5 6 Voltage | 23 23 5 6 Voltage | 25 25 5 6 Voltage
+7 7 16 17 Voltage | 7 7 13 14 Voltage
+10 10 19 20 Voltage | 10 10 16 17 Voltage
+8 8 32 33 Voltage | 8 8 18 19 Voltage | 8 8 26 27 Voltage | 8 8 29 30 Voltage
+5 5 19 20 Voltage | 5 5 22 23 Voltage | 5 5 9 10 Voltage
+6 6 26 27 Voltage
+1 1 20 21 Voltage
+0 0 6 7 Voltage | 25 25 6 7 Voltage | 27 27 6 7 Voltage | 29 29 6 7 Voltage
+3 3 6 7 Voltage
+2 2 42 43 Coulombic_Efficiency | 4 4 42 43 Coulombic_Efficiency
+7 7 22 25 Capacity
+30 30 21 22 Voltage
+10 10 15 16 Voltage
+7 7 22 23 Coulombic_Efficiency
+8 8 3 4 Voltage
+8 8 3 4 Voltage
+5 5 19 20 Voltage
+3 3 17 18 Coulombic_Efficiency
+18 18 24 25 Coulombic_Efficiency | 18 18 21 22 Coulombic_Efficiency
+2 2 32 33 Coulombic_Efficiency
+4 4 18 19 Voltage
+24 24 9 12 Capacity
+7 7 17 18 Coulombic_Efficiency
+2 2 16 17 Voltage
+0 0 14 15 Voltage
+6 6 36 37 Voltage
+7 7 32 33 Voltage
+14 14 5 6 Voltage | 14 14 29 30 Voltage | 14 14 5 6 Voltage | 14 14 29 30 Voltage
+17 17 24 25 Coulombic_Efficiency
+24 24 10 11 Voltage
+16 16 8 9 Voltage
+15 15 35 36 Voltage
+18 18 7 10 Capacity
+5 5 14 17 Capacity
+1 1 10 12 Energy
+15 15 7 8 Voltage
+2 2 16 17 Voltage
+38 38 24 25 Voltage
+27 27 14 15 Voltage | 29 29 14 15 Voltage
+5 5 16 17 Voltage
+33 33 6 7 Voltage
+7 7 38 39 Voltage | 7 7 38 39 Voltage
+24 24 27 28 Coulombic_Efficiency | 24 24 27 28 Coulombic_Efficiency
+3 3 13 14 Voltage
+30 30 18 19 Voltage | 30 30 18 19 Voltage
+13 13 27 28 Voltage | 13 13 30 31 Voltage
+33 33 8 9 Voltage
+9 9 33 36 Capacity | 9 9 33 36 Capacity
+9 9 33 36 Capacity | 9 9 18 21 Capacity
+4 4 13 16 Capacity
+6 6 12 15 Capacity
+5 5 23 24 Voltage
+9 9 20 21 Voltage | 9 9 28 29 Voltage
+21 21 8 9 Voltage
+25 25 8 9 Voltage | 27 27 8 9 Voltage
+31 31 26 27 Voltage
+35 35 9 10 Voltage
+0 0 18 20 Conductivity | 0 0 18 20 Conductivity
+33 33 37 38 Voltage | 33 33 30 31 Voltage | 40 40 37 38 Voltage
+5 5 18 19 Voltage
+29 29 54 55 Voltage | 29 29 51 52 Voltage | 31 31 51 52 Voltage | 31 31 54 55 Voltage | 57 57 51 52 Voltage | 57 57 54 55 Voltage
+28 28 12 13 Voltage
+7 7 28 29 Coulombic_Efficiency
+8 8 20 21 Voltage
+10 10 19 20 Voltage
+1 1 7 8 Coulombic_Efficiency | 29 29 7 8 Coulombic_Efficiency
+5 5 25 27 Conductivity | 5 5 25 27 Conductivity
+23 23 17 18 Voltage | 23 23 11 12 Voltage | 25 25 20 21 Voltage | 25 25 11 12 Voltage
+10 10 29 30 Voltage
+9 9 31 32 Voltage | 9 9 31 32 Voltage | 36 36 31 32 Voltage
+10 10 22 24 Energy
+27 27 8 10 Energy
+8 8 32 33 Voltage | 11 11 32 33 Voltage
+6 6 35 36 Voltage | 6 6 18 19 Voltage | 6 6 35 36 Voltage | 6 6 18 19 Voltage
+5 5 12 15 Capacity
+10 10 12 15 Capacity
+3 3 10 13 Capacity
+31 31 14 15 Voltage | 33 33 14 15 Voltage
+3 3 25 26 Voltage
+45 45 42 43 Voltage
+11 11 5 6 Voltage
+4 4 20 21 Voltage
+22 22 10 11 Voltage
+6 6 18 19 Coulombic_Efficiency
+17 17 8 9 Voltage
+26 26 5 6 Voltage
+35 35 32 33 Voltage
+25 25 11 14 Capacity
+10 10 23 24 Voltage
+14 14 18 21 Capacity
+18 18 44 45 Voltage | 33 33 44 45 Voltage
+27 27 15 16 Voltage | 27 27 12 13 Voltage | 31 31 15 16 Voltage | 31 31 12 13 Voltage
+22 22 7 8 Voltage
+19 19 10 11 Voltage | 23 23 10 11 Voltage
+16 16 6 7 Voltage
+21 21 9 10 Voltage | 21 21 12 13 Voltage | 29 29 12 13 Voltage | 29 29 9 10 Voltage | 31 31 9 10 Voltage
+7 7 25 28 Capacity
+9 9 21 22 Voltage | 9 9 21 22 Voltage
+14 14 35 36 Voltage
+44 44 24 25 Voltage
+15 15 19 20 Voltage
+10 10 21 22 Voltage
+12 12 8 9 Voltage
+17 17 12 13 Voltage
+6 6 23 24 Voltage
+22 22 15 16 Voltage | 30 30 12 13 Voltage | 30 30 15 16 Voltage
+22 22 6 7 Voltage
+1 1 11 13 Energy
+25 25 7 8 Voltage | 27 27 7 8 Voltage
+27 27 29 30 Voltage
+6 6 26 27 Voltage
+3 3 16 17 Voltage
+8 8 23 24 Voltage
+33 33 23 25 Conductivity | 33 33 23 25 Conductivity
+6 6 29 30 Voltage
+8 8 38 39 Voltage | 8 8 38 39 Voltage
+7 7 32 33 Voltage
+21 21 16 17 Voltage
+28 28 11 12 Voltage | 28 28 17 18 Voltage | 30 30 11 12 Voltage | 30 30 17 18 Voltage
+21 21 10 11 Voltage | 23 23 10 11 Voltage
+0 0 7 8 Voltage
+5 5 10 11 Voltage
+27 27 29 30 Voltage | 27 27 39 40 Voltage | 37 37 29 30 Voltage | 37 37 39 40 Voltage
+6 6 17 18 Voltage
+12 12 28 29 Coulombic_Efficiency | 12 12 28 29 Coulombic_Efficiency
+0 0 12 13 Voltage | 0 0 12 13 Voltage
+41 41 17 18 Voltage
+10 10 13 14 Voltage
+0 0 27 28 Voltage | 0 0 27 28 Voltage
+3 3 24 25 Voltage | 6 6 24 25 Voltage | 3 3 24 25 Voltage
+1 1 20 21 Voltage
+1 1 33 34 Voltage | 38 38 33 34 Voltage
+1 1 31 32 Voltage | 36 36 31 32 Voltage
+33 33 22 23 Voltage
+9 9 32 33 Voltage
+32 32 38 41 Capacity
+34 34 21 22 Voltage
+1 1 20 21 Voltage | 6 6 20 21 Voltage
+25 25 31 32 Voltage
+12 12 6 7 Coulombic_Efficiency | 12 12 6 7 Coulombic_Efficiency
+7 7 20 21 Coulombic_Efficiency
+5 5 22 23 Voltage | 5 5 12 13 Voltage | 5 5 9 10 Voltage | 5 5 22 23 Voltage | 5 5 12 13 Voltage | 5 5 9 10 Voltage
+7 7 25 26 Voltage | 14 14 25 26 Voltage
+21 21 5 6 Coulombic_Efficiency
+27 27 9 10 Voltage
+10 10 23 24 Voltage | 12 12 23 24 Voltage
+23 23 20 21 Coulombic_Efficiency
+21 21 8 9 Voltage | 21 21 11 12 Voltage
+2 2 19 20 Coulombic_Efficiency
+10 10 35 36 Voltage
+6 6 24 25 Voltage
+4 4 28 29 Voltage | 4 4 15 16 Voltage
+3 3 27 29 Conductivity | 3 3 27 29 Conductivity | 3 3 27 29 Conductivity
+4 4 42 44 Conductivity
+23 23 7 8 Voltage
+8 8 28 29 Voltage
+2 2 14 15 Voltage
+26 26 4 5 Voltage
+6 6 21 22 Voltage | 6 6 44 45 Voltage | 31 31 21 22 Voltage
+12 12 32 33 Voltage | 12 12 29 30 Voltage | 20 20 32 33 Voltage
+10 10 27 30 Capacity | 15 15 27 30 Capacity
+6 6 23 26 Capacity
+23 23 12 15 Capacity
+17 17 9 10 Voltage | 19 19 9 10 Voltage
+4 4 21 22 Voltage
+0 0 12 14 Energy
+1 1 36 39 Capacity
+14 14 5 6 Voltage
+5 5 23 24 Coulombic_Efficiency
+6 6 16 17 Voltage
+6 6 16 17 Voltage
+4 4 10 13 Capacity
+35 35 6 7 Voltage | 35 35 20 21 Voltage
+33 33 13 14 Voltage
+37 37 3 4 Coulombic_Efficiency | 37 37 18 19 Coulombic_Efficiency
+16 16 38 41 Capacity | 16 16 38 41 Capacity
+2 2 10 13 Capacity
+39 39 28 29 Voltage | 39 39 9 10 Voltage
+12 12 24 26 Energy | 12 12 24 26 Energy
+2 2 14 16 Energy
+9 9 12 13 Coulombic_Efficiency | 9 9 12 13 Coulombic_Efficiency
+19 19 15 16 Voltage
+7 7 43 44 Coulombic_Efficiency
+6 6 56 58 Conductivity | 6 6 28 30 Conductivity | 24 24 14 16 Conductivity | 6 6 56 58 Conductivity | 6 6 28 30 Conductivity | 6 6 56 58 Conductivity | 6 6 28 30 Conductivity
+1 1 8 9 Voltage
+14 14 5 6 Voltage | 16 16 5 6 Voltage | 22 22 5 6 Voltage
+1 1 14 15 Voltage
+0 0 9 10 Voltage
+16 16 32 33 Voltage | 16 16 43 44 Voltage
+8 8 19 20 Voltage
+1 1 27 28 Voltage | 5 5 27 28 Voltage
+26 26 23 24 Voltage
+35 35 17 18 Voltage | 40 40 17 18 Voltage
+4 4 11 12 Coulombic_Efficiency
+21 21 35 36 Voltage
+5 5 23 24 Voltage | 26 26 23 24 Voltage
+44 44 5 6 Voltage
+6 6 15 16 Voltage
+5 5 22 25 Capacity | 5 5 22 25 Capacity
+14 14 23 24 Voltage
+9 9 26 27 Coulombic_Efficiency
+30 30 10 11 Voltage
+8 8 17 18 Voltage
+19 19 10 11 Voltage
+17 17 38 39 Voltage
+6 6 20 21 Voltage
+49 49 71 72 Voltage
+33 33 4 5 Voltage
+29 29 18 19 Coulombic_Efficiency
+18 18 7 8 Voltage | 18 18 4 5 Voltage
+4 4 21 24 Capacity
+1 1 3 4 Voltage | 22 22 3 4 Voltage
+13 13 21 22 Voltage
+6 6 15 16 Voltage | 6 6 20 21 Voltage
+21 21 7 10 Capacity | 21 21 18 19 Voltage | 32 32 18 19 Voltage | 32 32 7 10 Capacity | 34 34 7 10 Capacity | 34 34 18 19 Voltage | 21 21 7 10 Capacity | 21 21 18 19 Voltage | 21 21 7 10 Capacity | 21 21 18 19 Voltage
+25 25 5 6 Voltage | 27 27 5 6 Voltage
+9 9 28 29 Voltage
+4 4 31 32 Voltage | 18 18 31 32 Voltage
+39 39 30 31 Voltage
+15 15 22 24 Conductivity
+42 42 28 29 Voltage
+38 38 26 27 Voltage
+44 44 39 40 Voltage | 44 44 39 40 Voltage
+8 8 20 23 Capacity | 8 8 20 23 Capacity
+5 5 28 29 Voltage
+21 21 13 14 Voltage | 21 21 13 14 Voltage
+2 2 20 23 Capacity
+22 22 17 18 Voltage
+16 16 10 11 Voltage
+37 37 31 32 Voltage | 37 37 28 29 Voltage | 37 37 31 32 Voltage | 37 37 28 29 Voltage
+22 22 6 7 Voltage | 24 24 6 7 Voltage | 26 26 6 7 Voltage
+21 21 24 25 Voltage
+20 20 26 29 Capacity | 20 20 26 29 Capacity
+4 4 9 10 Voltage | 4 4 9 10 Voltage
+15 15 11 12 Voltage
+41 41 15 16 Voltage | 47 47 15 16 Voltage | 49 49 15 16 Voltage
+18 18 26 27 Coulombic_Efficiency
+18 18 9 10 Voltage
+6 6 25 26 Voltage | 17 17 25 26 Voltage
+1 1 18 20 Conductivity
+1 1 14 15 Voltage
+6 6 38 39 Voltage
+33 33 23 24 Voltage | 33 33 5 6 Voltage
+3 3 9 10 Voltage
+20 20 13 14 Voltage
+4 4 13 14 Coulombic_Efficiency | 4 4 10 11 Coulombic_Efficiency | 4 4 13 14 Coulombic_Efficiency | 4 4 10 11 Coulombic_Efficiency
+18 18 11 12 Voltage | 18 18 11 12 Voltage | 29 29 11 12 Voltage
+1 1 8 9 Voltage
+3 3 24 25 Voltage
+4 4 14 15 Voltage
+21 21 18 19 Voltage
+4 4 13 16 Capacity | 4 4 13 16 Capacity | 4 4 13 16 Capacity | 4 4 13 16 Capacity
+4 4 18 21 Capacity
+11 11 14 17 Capacity
+10 10 5 6 Voltage
+12 12 21 24 Capacity
+2 2 23 24 Coulombic_Efficiency
+3 3 12 15 Capacity
+7 7 11 14 Capacity
+20 20 29 30 Voltage
+26 26 16 17 Voltage
+27 27 1 2 Voltage
+6 6 13 16 Capacity
+3 3 31 32 Voltage | 3 3 28 29 Voltage | 7 7 28 29 Voltage | 7 7 31 32 Voltage
+12 12 8 9 Voltage
+0 0 14 15 Voltage
+34 34 19 20 Voltage
+21 21 13 14 Voltage
+17 17 4 5 Voltage | 27 27 4 5 Voltage
+19 19 6 7 Voltage | 28 28 6 7 Voltage
+4 4 11 12 Voltage | 4 4 35 36 Voltage
+36 36 14 15 Voltage
+6 6 13 14 Voltage | 6 6 19 20 Voltage | 36 36 13 14 Voltage | 36 36 19 20 Voltage
+0 0 13 14 Voltage | 0 0 13 14 Voltage | 40 40 13 14 Voltage
+1 1 28 29 Coulombic_Efficiency | 1 1 28 29 Coulombic_Efficiency | 1 1 28 29 Coulombic_Efficiency
+8 8 10 11 Coulombic_Efficiency
+19 19 30 31 Voltage | 19 19 30 31 Voltage
+29 29 11 12 Voltage | 35 35 11 12 Voltage
+8 8 25 26 Voltage
+2 2 9 10 Voltage
+8 8 24 25 Voltage | 8 8 24 25 Voltage
+19 19 12 13 Voltage
+0 0 18 19 Voltage
+8 8 31 32 Voltage
+20 20 8 9 Voltage
+7 7 19 20 Coulombic_Efficiency
+5 5 26 27 Voltage
+16 16 13 14 Voltage
+33 33 22 23 Voltage
+4 4 15 16 Voltage
+9 9 21 22 Voltage
+0 0 7 8 Voltage
+1 1 22 23 Voltage
+4 4 17 18 Coulombic_Efficiency
+24 24 7 8 Voltage
+6 6 20 21 Voltage | 6 6 20 21 Voltage
+20 20 13 14 Voltage
+18 18 40 41 Voltage
+35 35 24 25 Voltage
+4 4 28 29 Voltage | 6 6 28 29 Voltage
+11 11 36 39 Capacity | 11 11 20 23 Capacity | 11 11 36 39 Capacity | 11 11 20 23 Capacity
+7 7 31 32 Voltage
+3 3 22 23 Voltage | 3 3 22 23 Voltage
+18 18 4 5 Voltage
+6 6 14 17 Capacity
+1 1 19 20 Coulombic_Efficiency
+12 12 22 23 Voltage | 12 12 22 23 Voltage
+27 27 43 44 Voltage | 27 27 43 44 Voltage
+20 20 10 11 Voltage
+0 0 20 21 Voltage
+17 17 9 10 Voltage
+3 3 19 20 Coulombic_Efficiency
+7 7 29 30 Voltage
+21 21 37 38 Voltage | 21 21 11 12 Voltage | 21 21 37 38 Voltage | 21 21 11 12 Voltage | 47 47 37 38 Voltage | 47 47 11 12 Voltage
+14 14 25 26 Voltage
+8 8 17 18 Voltage
+19 19 9 10 Voltage
+20 20 44 45 Coulombic_Efficiency
+17 17 38 39 Voltage | 30 30 38 39 Voltage
+35 35 22 25 Capacity
+26 26 12 13 Voltage | 26 26 9 10 Voltage
+27 27 23 24 Voltage
+20 20 11 12 Voltage | 22 22 11 12 Voltage
+14 14 23 24 Coulombic_Efficiency | 14 14 20 21 Coulombic_Efficiency
+5 5 9 10 Coulombic_Efficiency | 5 5 9 10 Coulombic_Efficiency
+4 4 21 22 Coulombic_Efficiency
+1 1 17 18 Coulombic_Efficiency
+0 0 19 22 Capacity
+28 28 21 23 Energy
+36 36 48 51 Capacity
+39 39 5 8 Capacity | 39 39 29 32 Capacity
+25 25 16 19 Capacity
+0 0 20 21 Voltage
+5 5 14 17 Capacity
+21 21 17 18 Voltage
+1 1 14 15 Voltage
+6 6 17 18 Voltage
+6 6 16 17 Voltage
+11 11 14 17 Capacity
+1 1 18 19 Voltage
+12 12 26 27 Voltage
+6 6 32 33 Voltage | 6 6 25 26 Voltage | 6 6 42 43 Voltage
+15 15 25 26 Voltage | 17 17 25 26 Voltage
+2 2 13 14 Voltage
+1 1 28 31 Capacity | 1 1 15 18 Capacity | 24 24 15 18 Capacity | 24 24 28 31 Capacity
+4 4 32 35 Capacity | 4 4 20 23 Capacity | 28 28 20 23 Capacity | 28 28 32 35 Capacity
+1 1 7 8 Voltage | 1 1 22 23 Voltage | 11 11 7 8 Voltage
+12 12 35 36 Voltage
+12 12 24 25 Voltage | 17 17 24 25 Voltage | 12 12 24 25 Voltage | 17 17 24 25 Voltage
+45 45 29 30 Voltage | 90 90 29 30 Voltage | 90 90 7 8 Voltage | 92 92 29 30 Voltage | 92 92 7 8 Voltage
+6 6 21 22 Voltage
+8 8 25 26 Voltage
+8 8 25 26 Voltage
+15 15 31 32 Voltage
+9 9 47 48 Voltage | 9 9 47 48 Voltage
+12 12 7 8 Voltage
+15 15 42 43 Voltage | 15 15 33 34 Voltage | 29 29 33 34 Voltage | 29 29 42 43 Voltage | 29 29 33 34 Voltage | 29 29 42 43 Voltage
+2 2 10 13 Capacity
+7 7 32 33 Coulombic_Efficiency
+5 5 21 22 Voltage
+15 15 9 10 Voltage
+44 44 24 25 Voltage
+8 8 22 25 Capacity
+1 1 14 15 Voltage
+3 3 16 17 Voltage
+24 24 12 13 Voltage
+34 34 14 15 Voltage | 44 44 14 15 Voltage | 46 46 14 15 Voltage | 46 46 11 12 Voltage
+5 5 15 18 Capacity
+5 5 15 18 Capacity
+5 5 16 19 Capacity
+22 22 34 37 Capacity | 22 22 5 8 Capacity | 22 22 34 37 Capacity | 22 22 5 8 Capacity | 22 22 34 37 Capacity | 22 22 5 8 Capacity | 22 22 34 37 Capacity | 22 22 5 8 Capacity
+13 13 32 35 Capacity | 13 13 5 8 Capacity | 13 13 32 35 Capacity | 13 13 5 8 Capacity
+5 5 33 36 Capacity | 5 5 33 36 Capacity
+15 15 18 21 Capacity | 15 15 40 43 Capacity | 15 15 18 21 Capacity | 15 15 40 43 Capacity | 15 15 18 21 Capacity | 15 15 40 43 Capacity
+19 19 33 35 Energy
+22 22 9 10 Voltage
+5 5 7 8 Voltage | 15 15 17 18 Voltage
+29 29 12 13 Voltage
+22 22 28 29 Voltage
+5 5 21 22 Coulombic_Efficiency
+33 33 9 10 Voltage
+0 0 6 7 Voltage | 0 0 6 7 Voltage
+12 12 14 15 Coulombic_Efficiency
+8 8 26 27 Voltage
+6 6 10 11 Voltage
+6 6 17 18 Voltage
+20 20 9 10 Voltage | 20 20 40 41 Voltage
+9 9 16 17 Coulombic_Efficiency
+9 9 54 55 Voltage
+15 15 26 29 Capacity
+17 17 23 24 Voltage
+14 14 29 30 Voltage
+19 19 9 10 Voltage
+4 4 19 20 Coulombic_Efficiency | 4 4 16 17 Coulombic_Efficiency | 4 4 19 20 Coulombic_Efficiency | 4 4 16 17 Coulombic_Efficiency
+4 4 34 36 Energy
+20 20 29 30 Voltage
+8 8 20 21 Voltage
+10 10 21 22 Voltage | 12 12 21 22 Voltage
+4 4 8 9 Voltage
+28 28 134 137 Capacity | 28 28 134 137 Capacity | 28 28 134 137 Capacity | 28 28 134 137 Capacity | 28 28 134 137 Capacity
+2 2 24 25 Coulombic_Efficiency
+9 9 12 13 Coulombic_Efficiency | 9 9 12 13 Coulombic_Efficiency | 9 9 12 13 Coulombic_Efficiency
+7 7 35 36 Voltage
+14 14 10 11 Voltage | 19 19 10 11 Voltage
+43 43 17 20 Capacity
+12 12 21 22 Voltage | 12 12 29 30 Voltage | 40 40 21 22 Voltage | 40 40 29 30 Voltage | 42 42 21 22 Voltage
+4 4 15 16 Voltage
+15 15 26 27 Voltage
+24 24 8 9 Voltage | 29 29 8 9 Voltage
+1 1 29 30 Voltage | 1 1 26 27 Voltage
+15 15 7 8 Voltage
+27 27 33 34 Voltage | 27 27 16 17 Voltage
+9 9 13 14 Voltage
+7 7 13 14 Voltage
+9 9 14 16 Energy
+11 11 14 15 Voltage
+35 35 15 16 Voltage
+18 18 24 25 Voltage
+14 14 5 6 Voltage
+5 5 12 14 Energy | 5 5 35 37 Energy | 5 5 12 14 Energy | 5 5 35 37 Energy
+10 10 16 17 Coulombic_Efficiency
+7 7 22 23 Voltage | 7 7 19 20 Voltage
+27 27 7 8 Voltage
+23 23 8 9 Voltage
+10 10 28 31 Capacity | 10 10 28 31 Capacity
+2 2 10 11 Voltage | 4 4 10 11 Voltage
+11 11 21 22 Voltage | 31 31 21 22 Voltage
+21 21 29 32 Capacity
+3 3 17 18 Voltage
+29 29 16 17 Voltage
+9 9 12 13 Coulombic_Efficiency
+20 20 8 9 Voltage
+17 17 10 11 Voltage
+5 5 12 15 Capacity
+10 10 24 25 Voltage
+36 36 9 10 Voltage
+8 8 34 35 Coulombic_Efficiency
+13 13 7 8 Voltage
+12 12 15 16 Voltage
+11 11 33 34 Voltage | 11 11 44 45 Voltage
+13 13 4 5 Voltage
+25 25 13 14 Voltage | 27 27 13 14 Voltage
+7 7 20 21 Voltage | 7 7 20 21 Voltage
+4 4 15 16 Voltage
+22 22 19 20 Voltage
+15 15 5 6 Voltage
+6 6 19 22 Capacity
+18 18 33 34 Voltage
+1 1 16 17 Voltage | 3 3 16 17 Voltage
+8 8 22 23 Voltage
+12 12 23 24 Voltage
+8 8 13 14 Voltage
+3 3 8 9 Voltage
+10 10 21 22 Voltage | 10 10 28 29 Voltage
+12 12 31 32 Voltage
+52 52 37 38 Voltage
+9 9 30 31 Voltage
+23 23 39 40 Voltage | 23 23 31 32 Voltage
+82 82 95 96 Voltage | 84 84 95 96 Voltage
+3 3 23 24 Voltage | 3 3 29 30 Voltage
+3 3 30 31 Voltage | 3 3 30 31 Voltage
+1 1 19 22 Capacity
+14 14 23 24 Voltage
+1 1 12 13 Voltage
+6 6 22 23 Voltage
+21 21 7 8 Coulombic_Efficiency
+39 39 5 7 Conductivity
+33 33 26 27 Voltage
+0 0 10 11 Voltage
+4 4 22 23 Voltage | 29 29 22 23 Voltage
+11 11 50 51 Voltage | 11 11 47 48 Voltage
+2 2 20 21 Voltage
+25 25 20 21 Voltage | 25 25 20 21 Voltage
+14 14 5 6 Voltage
+29 29 14 17 Capacity
+1 1 18 21 Capacity | 1 1 18 21 Capacity
+6 6 8 11 Capacity
+28 28 6 9 Capacity
+6 6 12 13 Voltage
+3 3 22 23 Voltage | 3 3 22 23 Voltage
+11 11 38 39 Voltage
+4 4 34 35 Voltage
+7 7 32 33 Coulombic_Efficiency
+22 22 4 5 Voltage
+7 7 25 26 Voltage
+22 22 14 15 Voltage | 22 22 11 12 Voltage | 24 24 14 15 Voltage | 24 24 11 12 Voltage
+39 39 13 14 Voltage
+5 5 22 23 Voltage
+21 21 12 13 Voltage
+9 9 20 21 Voltage
+2 2 8 9 Voltage | 2 2 29 30 Voltage
+1 1 15 16 Voltage
+25 25 10 11 Voltage
+19 19 8 9 Voltage | 19 19 11 12 Voltage
+1 1 9 10 Coulombic_Efficiency
+37 37 20 21 Voltage
+18 18 39 40 Coulombic_Efficiency
+12 12 37 38 Coulombic_Efficiency
+11 11 29 30 Voltage
+7 7 24 25 Voltage | 10 10 24 25 Voltage
+2 2 21 22 Voltage | 2 2 21 22 Voltage
+29 29 15 16 Voltage
+8 8 11 12 Voltage
+7 7 29 30 Coulombic_Efficiency
+5 5 15 16 Voltage
+7 7 20 21 Voltage
+18 18 14 15 Voltage
+1 1 16 17 Voltage
+1 1 28 29 Voltage | 5 5 28 29 Voltage
+25 25 10 11 Voltage
+46 46 40 41 Voltage
+9 9 13 14 Coulombic_Efficiency
+8 8 22 24 Conductivity
+3 3 15 16 Voltage
+7 7 23 24 Voltage
+9 9 25 26 Voltage
+5 5 10 11 Voltage
+6 6 13 14 Voltage
+11 11 22 23 Voltage
+7 7 27 29 Energy
+32 32 20 21 Voltage | 32 32 9 10 Voltage
+18 18 9 10 Voltage
+20 20 15 16 Voltage
+19 19 12 13 Voltage
+8 8 21 22 Voltage
+7 7 20 21 Voltage
+11 11 18 19 Voltage | 25 25 18 19 Voltage | 25 25 18 19 Voltage
+14 14 21 22 Voltage | 27 27 21 22 Voltage
+18 18 30 31 Voltage
+1 1 32 33 Voltage | 37 37 32 33 Voltage | 48 48 32 33 Voltage
+15 15 9 10 Voltage | 15 15 12 13 Voltage
+15 15 9 10 Voltage | 15 15 12 13 Voltage
+17 17 13 14 Voltage | 17 17 20 21 Voltage | 17 17 13 14 Voltage | 17 17 20 21 Voltage
+2 2 19 20 Voltage
+8 8 16 17 Voltage
+16 16 8 9 Voltage | 16 16 5 6 Voltage
+23 23 9 10 Voltage
+7 7 11 14 Capacity | 7 7 22 23 Coulombic_Efficiency
+8 8 33 34 Voltage
+23 23 38 39 Voltage | 23 23 15 16 Voltage
+1 1 23 26 Capacity
+18 18 20 23 Capacity
+37 37 22 25 Capacity
+37 37 26 27 Voltage | 37 37 19 20 Voltage
+16 16 45 46 Voltage | 27 27 45 46 Voltage
+2 2 19 20 Voltage
+3 3 23 24 Voltage
+21 21 23 24 Voltage
+19 19 23 25 Energy | 19 19 23 25 Energy
+23 23 11 14 Capacity
+16 16 8 9 Voltage
+10 10 20 23 Capacity
+11 11 4 5 Voltage | 11 11 4 5 Voltage
+32 32 39 40 Voltage
+28 28 35 36 Voltage
+10 10 19 20 Voltage
+10 10 7 8 Voltage | 12 12 7 8 Voltage
+27 27 10 11 Voltage | 29 29 10 11 Voltage
+38 38 32 33 Voltage | 38 38 32 33 Voltage
+25 25 7 8 Voltage
+18 18 9 10 Voltage | 23 23 9 10 Voltage | 18 18 9 10 Voltage
+11 11 19 20 Voltage
+4 4 16 17 Coulombic_Efficiency
+4 4 17 18 Voltage | 4 4 22 23 Voltage | 15 15 17 18 Voltage | 15 15 22 23 Voltage | 20 20 22 23 Voltage | 20 20 17 18 Voltage
+18 18 32 33 Voltage | 18 18 41 42 Voltage
+30 30 8 9 Voltage | 30 30 23 24 Voltage | 30 30 8 9 Voltage | 30 30 23 24 Voltage
+8 8 44 45 Voltage
+17 17 6 7 Voltage | 17 17 24 25 Voltage | 33 33 24 25 Voltage | 33 33 6 7 Voltage
+6 6 13 14 Coulombic_Efficiency
+23 23 29 30 Voltage | 23 23 12 13 Voltage
+13 13 32 34 Energy
+6 6 12 13 Voltage
+7 7 15 16 Voltage
+2 2 31 32 Voltage | 2 2 31 32 Voltage
+11 11 16 17 Voltage
+9 9 17 20 Capacity
+9 9 36 37 Coulombic_Efficiency
+21 21 33 34 Voltage
+2 2 25 26 Voltage
+26 26 31 33 Energy | 43 43 36 38 Energy | 43 43 31 33 Energy
+7 7 13 14 Voltage
+18 18 21 22 Voltage
+31 31 26 27 Voltage | 31 31 12 13 Voltage
+34 34 27 28 Voltage
+18 18 45 46 Voltage | 21 21 45 46 Voltage
+1 1 11 12 Voltage
+1 1 10 11 Voltage
+20 20 6 7 Voltage
+38 38 19 20 Voltage
+7 7 50 51 Voltage | 7 7 50 51 Voltage
+0 0 6 7 Voltage
+19 19 8 9 Voltage
+23 23 37 38 Voltage
+15 15 10 11 Voltage
+15 15 36 37 Voltage
+34 34 9 10 Voltage
+28 28 6 8 Energy
+25 25 3 4 Voltage
+35 35 25 26 Voltage
+26 26 34 35 Voltage
+17 17 9 10 Voltage
+26 26 35 36 Voltage
+5 5 22 23 Coulombic_Efficiency
+16 16 30 31 Voltage | 16 16 13 14 Voltage | 16 16 7 8 Voltage | 16 16 25 26 Voltage | 16 16 30 31 Voltage | 16 16 13 14 Voltage | 16 16 7 8 Voltage | 16 16 25 26 Voltage
+1 1 13 14 Voltage
+8 8 26 27 Voltage
+10 10 20 21 Voltage
+21 21 13 14 Voltage
+28 28 8 10 Conductivity
+15 15 6 7 Voltage
+3 3 10 11 Coulombic_Efficiency
+9 9 25 26 Voltage
+12 12 25 26 Voltage
+25 25 16 17 Voltage
+6 6 28 29 Voltage
+7 7 24 25 Voltage
+18 18 37 38 Voltage
+8 8 5 6 Voltage
+4 4 16 17 Voltage
+6 6 27 28 Voltage | 19 19 27 28 Voltage
+18 18 24 25 Voltage
+6 6 16 18 Energy
+10 10 23 25 Energy
+0 0 13 14 Voltage
+25 25 32 33 Voltage
+4 4 26 27 Voltage
+18 18 12 13 Voltage
+39 39 6 7 Voltage | 41 41 6 7 Voltage
+8 8 22 23 Voltage
+2 2 16 17 Voltage | 12 12 16 17 Voltage | 2 2 16 17 Voltage
+1 1 10 11 Voltage | 3 3 10 11 Voltage | 23 23 10 11 Voltage
+4 4 9 10 Voltage
+8 8 18 19 Voltage
+3 3 18 19 Voltage
+35 35 14 15 Voltage
+5 5 18 19 Voltage
+1 1 6 9 Capacity
+20 20 32 33 Voltage
+12 12 9 10 Voltage | 37 37 9 10 Voltage
+9 9 19 21 Energy
+3 3 33 34 Coulombic_Efficiency | 3 3 30 31 Coulombic_Efficiency | 3 3 36 37 Coulombic_Efficiency
+23 23 16 17 Voltage
+1 1 11 12 Voltage
+2 2 10 13 Capacity | 2 2 10 13 Capacity
+19 19 31 32 Voltage | 19 19 31 32 Voltage
+34 34 13 14 Voltage
+7 7 19 20 Voltage | 7 7 16 17 Voltage
+6 6 16 17 Voltage | 6 6 16 17 Voltage
+38 38 17 18 Voltage | 38 38 42 43 Voltage
+13 13 30 31 Voltage | 13 13 30 31 Voltage
+10 10 4 5 Voltage
+0 0 6 7 Voltage | 27 27 6 7 Voltage | 0 0 6 7 Voltage
+9 9 11 14 Capacity
+9 9 11 14 Capacity
+19 19 10 13 Capacity
+16 16 29 30 Voltage
+7 7 35 36 Voltage | 7 7 35 36 Voltage
+35 35 22 23 Voltage
+5 5 13 14 Voltage
+1 1 12 13 Voltage
+21 21 15 16 Voltage
+23 23 11 12 Voltage
+22 22 9 10 Voltage
+8 8 20 21 Voltage | 26 26 20 21 Voltage
+15 15 12 13 Voltage | 15 15 9 10 Voltage
+22 22 7 8 Voltage | 26 26 7 8 Voltage
+32 32 7 8 Voltage | 36 36 7 8 Voltage
+16 16 19 20 Voltage | 16 16 19 20 Voltage
+7 7 38 39 Voltage | 7 7 35 36 Voltage
+25 25 7 8 Voltage | 29 29 7 8 Voltage
+1 1 21 22 Voltage
+1 1 14 15 Voltage
+23 23 11 12 Voltage | 35 35 11 12 Voltage
+0 0 23 24 Voltage
+9 9 23 24 Voltage
+7 7 32 33 Voltage | 7 7 32 33 Voltage
+2 2 30 31 Voltage
+8 8 32 33 Coulombic_Efficiency
+36 36 20 21 Voltage | 44 44 20 21 Voltage
+5 5 18 19 Voltage
+5 5 8 11 Capacity | 5 5 18 21 Capacity
+17 17 34 35 Voltage
+11 11 19 20 Voltage | 13 13 19 20 Voltage | 11 11 19 20 Voltage
+18 18 9 11 Energy | 18 18 9 11 Energy
+3 3 17 18 Voltage | 3 3 17 18 Voltage | 3 3 17 18 Voltage
+13 13 21 22 Voltage
+22 22 37 38 Voltage
+24 24 32 33 Voltage
+38 38 30 31 Voltage
+10 10 29 30 Voltage | 10 10 29 30 Voltage
+13 13 39 40 Voltage
+29 29 39 40 Voltage
+4 4 11 14 Capacity
+5 5 22 23 Voltage
+22 22 9 10 Voltage | 22 22 26 27 Voltage
+11 11 19 20 Voltage
+7 7 32 33 Voltage | 7 7 32 33 Voltage
+22 22 14 15 Coulombic_Efficiency
+9 9 17 20 Capacity | 9 9 17 20 Capacity
+4 4 23 24 Voltage
+17 17 31 32 Voltage
+14 14 26 27 Voltage | 14 14 26 27 Voltage
+11 11 43 45 Energy | 11 11 19 21 Energy | 31 31 34 36 Energy
+12 12 8 9 Voltage | 22 22 8 9 Voltage | 22 22 18 19 Voltage | 12 12 8 9 Voltage
+4 4 21 22 Voltage
+40 40 13 14 Voltage | 40 40 30 31 Voltage | 40 40 42 43 Voltage
+27 27 8 9 Voltage | 29 29 8 9 Voltage
+1 1 10 11 Voltage
+18 18 13 14 Voltage
+18 18 7 8 Voltage
+34 34 29 30 Voltage
+28 28 7 8 Voltage
+6 6 25 26 Voltage | 6 6 28 29 Voltage
+15 15 12 13 Voltage
+9 9 28 29 Voltage | 9 9 21 22 Voltage | 32 32 28 29 Voltage
+15 15 12 13 Voltage
+35 35 30 32 Conductivity
+7 7 19 20 Voltage
+14 14 21 22 Voltage
+114 114 97 98 Voltage
+4 4 19 20 Voltage
+17 17 19 20 Voltage | 17 17 14 15 Voltage
+7 7 38 39 Coulombic_Efficiency
+15 15 4 5 Voltage
+12 12 27 28 Voltage
+26 26 18 19 Voltage
+3 3 25 26 Coulombic_Efficiency
+3 3 34 35 Voltage
+14 14 6 7 Coulombic_Efficiency
+4 4 24 25 Voltage | 6 6 24 25 Voltage | 6 6 49 51 Energy
+25 25 8 9 Voltage | 27 27 8 9 Voltage
+1 1 18 19 Voltage
+9 9 24 25 Voltage
+17 17 38 39 Coulombic_Efficiency
+1 1 13 14 Voltage
+14 14 7 8 Coulombic_Efficiency
+2 2 20 21 Voltage
+4 4 25 26 Voltage
+1 1 16 17 Voltage
+12 12 4 5 Voltage | 15 15 4 5 Voltage
+1 1 24 25 Voltage
+13 13 8 9 Voltage
+13 13 21 22 Voltage
+16 16 7 8 Voltage | 16 16 7 8 Voltage | 31 31 7 8 Voltage
+27 27 21 23 Energy
+35 35 25 27 Energy
+9 9 16 19 Capacity | 9 9 37 40 Capacity | 9 9 16 19 Capacity | 9 9 37 40 Capacity
+7 7 13 16 Capacity | 7 7 29 32 Capacity
+10 10 23 26 Capacity
+27 27 13 14 Voltage
+33 33 18 21 Capacity
+7 7 15 18 Capacity
+33 33 17 18 Voltage
+31 31 10 11 Voltage
+7 7 33 35 Energy
+18 18 10 11 Voltage | 21 21 10 11 Voltage
+3 3 11 12 Voltage
+1 1 18 19 Voltage
+37 37 14 15 Voltage | 39 39 14 15 Voltage
+35 35 9 10 Voltage
+2 2 10 11 Voltage
+1 1 16 17 Voltage
+3 3 7 8 Voltage | 26 26 7 8 Voltage
+27 27 22 23 Voltage
+4 4 19 20 Voltage | 4 4 19 20 Voltage
+31 31 28 29 Voltage
+27 27 8 9 Voltage
+16 16 10 11 Voltage | 46 46 10 11 Voltage
+2 2 10 11 Voltage | 2 2 18 19 Voltage
+22 22 30 31 Voltage
+27 27 7 8 Voltage | 31 31 7 8 Voltage
+12 12 7 8 Voltage
+14 14 28 29 Coulombic_Efficiency
+20 20 10 11 Voltage | 39 39 10 11 Voltage | 39 39 10 11 Voltage
+1 1 26 27 Voltage | 3 3 26 27 Voltage
+15 15 7 8 Voltage | 18 18 7 8 Voltage
+1 1 18 19 Coulombic_Efficiency
+7 7 18 19 Voltage
+36 36 6 7 Voltage
+41 41 35 36 Voltage | 41 41 23 24 Voltage
+10 10 22 23 Voltage
+19 19 12 13 Voltage
+4 4 11 12 Voltage | 4 4 11 12 Voltage
+15 15 12 13 Voltage
+8 8 30 31 Voltage
+4 4 14 15 Voltage | 4 4 26 27 Voltage
+42 42 13 14 Voltage
+1 1 27 28 Coulombic_Efficiency
+22 22 24 25 Voltage
+5 5 25 26 Voltage
+30 30 21 24 Capacity
+2 2 9 10 Voltage
+23 23 6 7 Voltage
+13 13 22 23 Voltage | 13 13 22 23 Voltage
+11 11 17 18 Voltage | 11 11 17 18 Voltage
+4 4 18 19 Voltage
+1 1 9 10 Voltage
+9 9 11 12 Coulombic_Efficiency
+4 4 31 32 Coulombic_Efficiency
+2 2 13 14 Voltage
+16 16 8 9 Voltage
+22 22 10 11 Voltage | 22 22 13 14 Voltage | 22 22 10 11 Voltage | 22 22 13 14 Voltage
+4 4 22 23 Voltage
+1 1 9 10 Coulombic_Efficiency | 1 1 9 10 Coulombic_Efficiency
+9 9 20 21 Voltage
+9 9 27 28 Voltage
+5 5 28 29 Voltage | 5 5 25 26 Voltage
+34 34 25 26 Coulombic_Efficiency
+3 3 30 31 Coulombic_Efficiency
+4 4 17 18 Voltage
+1 1 11 12 Voltage
+9 9 30 31 Voltage | 11 11 30 31 Voltage
+36 36 33 34 Voltage
+39 39 25 26 Coulombic_Efficiency
+5 5 25 26 Coulombic_Efficiency
+7 7 11 12 Coulombic_Efficiency
+7 7 10 13 Capacity
+8 8 16 17 Voltage
+11 11 45 46 Voltage
+7 7 23 24 Coulombic_Efficiency
+4 4 22 23 Coulombic_Efficiency
+7 7 24 25 Coulombic_Efficiency
+8 8 11 12 Voltage
+10 10 30 31 Coulombic_Efficiency
+13 13 27 28 Voltage
+9 9 23 24 Voltage
+10 10 42 43 Voltage
+15 15 17 18 Voltage
+47 47 12 13 Voltage
+8 8 17 20 Capacity
+0 0 23 24 Voltage
+15 15 12 13 Voltage | 17 17 12 13 Voltage | 19 19 12 13 Voltage
+20 20 13 14 Voltage
+7 7 10 11 Coulombic_Efficiency
+19 19 13 16 Capacity
+8 8 20 23 Capacity
+8 8 34 35 Voltage
+5 5 14 15 Voltage
+24 24 7 8 Voltage | 24 24 38 39 Voltage
+3 3 21 22 Voltage | 3 3 12 13 Voltage | 24 24 21 22 Voltage
+39 39 13 14 Voltage
+7 7 26 27 Voltage
+2 2 21 22 Voltage
+12 12 39 40 Voltage | 24 24 28 29 Voltage | 24 24 5 6 Voltage | 12 12 39 40 Voltage
+17 17 34 35 Voltage
+16 16 38 39 Voltage
+17 17 9 10 Voltage | 19 19 9 10 Voltage | 21 21 9 10 Voltage
+5 5 8 9 Voltage
+2 2 17 18 Voltage
+4 4 7 8 Voltage | 4 4 7 8 Voltage
+10 10 14 15 Voltage
+2 2 32 33 Voltage | 2 2 6 7 Voltage | 19 19 32 33 Voltage | 19 19 6 7 Voltage
+6 6 39 40 Voltage | 31 31 39 40 Voltage
+7 7 32 35 Capacity
+5 5 34 35 Voltage
+0 0 10 11 Voltage
+6 6 16 19 Capacity
+26 26 4 5 Voltage
+17 17 9 10 Voltage | 17 17 9 10 Voltage | 34 34 9 10 Voltage
+35 35 25 26 Voltage
+6 6 18 19 Voltage
+6 6 21 22 Voltage | 6 6 18 19 Voltage
+25 25 7 8 Voltage | 25 25 10 11 Voltage
+1 1 17 18 Voltage
+0 0 26 27 Voltage
+29 29 14 15 Voltage
+20 20 14 15 Voltage
+37 37 33 34 Voltage
+5 5 17 18 Voltage | 5 5 24 25 Voltage
+5 5 27 28 Voltage | 5 5 19 20 Voltage
+12 12 26 27 Voltage
+0 0 14 15 Voltage
+3 3 10 11 Voltage | 3 3 10 11 Voltage
+4 4 9 12 Capacity | 4 4 25 28 Capacity | 4 4 9 12 Capacity | 4 4 25 28 Capacity
+26 26 6 7 Voltage | 26 26 9 10 Voltage
+20 20 8 9 Voltage
+13 13 23 24 Voltage
+11 11 21 22 Voltage
+11 11 8 9 Voltage | 13 13 8 9 Voltage
+8 8 5 6 Voltage
+43 43 30 31 Voltage
+23 23 20 21 Voltage
+1 1 13 14 Voltage | 1 1 16 17 Voltage | 1 1 19 20 Voltage | 23 23 13 14 Voltage | 23 23 16 17 Voltage | 23 23 19 20 Voltage
+13 13 28 29 Voltage
+4 4 25 26 Voltage
+23 23 33 34 Voltage
+4 4 19 20 Voltage | 4 4 19 20 Voltage
+25 25 12 13 Voltage | 27 27 12 13 Voltage
+10 10 12 13 Coulombic_Efficiency | 10 10 12 13 Coulombic_Efficiency
+9 9 26 27 Coulombic_Efficiency | 9 9 26 27 Coulombic_Efficiency
+3 3 9 12 Capacity
+4 4 25 26 Voltage
+2 2 25 26 Coulombic_Efficiency
+4 4 26 27 Coulombic_Efficiency
+10 10 28 29 Coulombic_Efficiency
+8 8 23 26 Capacity | 8 8 11 14 Capacity
+10 10 30 33 Capacity | 10 10 17 20 Capacity | 27 27 30 33 Capacity
+3 3 13 14 Voltage | 3 3 10 11 Voltage
+25 25 15 16 Voltage | 27 27 15 16 Voltage
+3 3 12 13 Voltage
+3 3 18 19 Coulombic_Efficiency
+34 34 10 11 Coulombic_Efficiency
+25 25 9 10 Voltage
+18 18 8 9 Voltage | 20 20 8 9 Voltage
+42 42 23 24 Voltage
+3 3 19 21 Conductivity
+40 40 28 29 Voltage | 40 40 25 26 Voltage
+31 31 22 23 Voltage
+2 2 16 19 Capacity | 2 2 16 19 Capacity
+7 7 21 22 Voltage
+12 12 19 20 Voltage
+1 1 15 18 Capacity
+4 4 25 28 Capacity
+2 2 30 33 Capacity | 2 2 30 33 Capacity
+2 2 30 33 Capacity | 2 2 30 33 Capacity
+6 6 16 19 Capacity
+4 4 23 26 Capacity | 4 4 23 26 Capacity
+37 37 18 19 Voltage | 37 37 39 40 Voltage | 37 37 30 31 Voltage
+1 1 22 24 Energy
+19 19 11 12 Coulombic_Efficiency | 19 19 11 12 Coulombic_Efficiency
+27 27 5 6 Voltage
+24 24 10 11 Voltage
+18 18 10 11 Voltage
+34 34 12 15 Capacity
+5 5 42 44 Energy | 5 5 42 44 Energy
+33 33 35 36 Voltage
+14 14 23 24 Voltage
+1 1 25 26 Voltage
+6 6 15 16 Voltage | 6 6 15 16 Voltage
+1 1 18 19 Voltage
+2 2 17 18 Coulombic_Efficiency | 2 2 10 11 Coulombic_Efficiency
+24 24 17 18 Voltage
+35 35 31 32 Voltage | 35 35 28 29 Voltage
+11 11 7 8 Voltage
+4 4 30 31 Voltage | 4 4 30 31 Voltage
+22 22 7 8 Voltage
+5 5 28 29 Voltage | 5 5 12 13 Voltage | 5 5 28 29 Voltage | 5 5 12 13 Voltage
+2 2 11 12 Voltage
+0 0 16 17 Voltage
+4 4 23 24 Voltage | 14 14 23 24 Voltage
+9 9 26 27 Coulombic_Efficiency
+38 38 18 19 Voltage
+0 0 7 8 Voltage
+29 29 14 15 Voltage | 29 29 10 11 Voltage | 32 32 14 15 Voltage
+22 22 30 31 Coulombic_Efficiency | 22 22 30 31 Coulombic_Efficiency
+2 2 15 16 Voltage
+4 4 23 24 Voltage
+24 24 37 38 Voltage | 26 26 37 38 Voltage
+23 23 13 14 Voltage | 32 32 13 14 Voltage
+3 3 25 26 Voltage
+7 7 14 15 Voltage | 7 7 17 18 Voltage
+6 6 22 23 Coulombic_Efficiency
+4 4 22 23 Voltage
+11 11 4 5 Voltage | 11 11 22 23 Voltage | 25 25 4 5 Voltage | 25 25 22 23 Voltage
+28 28 20 21 Voltage | 48 48 20 21 Voltage
+3 3 13 16 Capacity
+9 9 5 6 Voltage
+25 25 11 12 Voltage | 33 33 11 12 Voltage
+19 19 35 36 Voltage
+9 9 34 35 Voltage | 9 9 34 35 Voltage | 13 13 34 35 Voltage
+1 1 8 9 Voltage
+13 13 8 9 Voltage
+163 163 104 105 Voltage | 163 163 107 108 Voltage
+8 8 17 18 Voltage
+31 31 24 25 Voltage
+9 9 14 15 Coulombic_Efficiency
+15 15 22 25 Capacity
+17 17 33 34 Voltage
+41 41 22 23 Voltage | 41 41 32 33 Voltage
+17 17 31 32 Voltage | 17 17 10 11 Voltage
+16 16 31 33 Energy
+1 1 25 26 Coulombic_Efficiency
+3 3 17 18 Voltage | 3 3 17 18 Voltage | 31 31 17 18 Voltage
+33 33 19 20 Voltage
+8 8 17 18 Voltage
+30 30 5 6 Coulombic_Efficiency | 30 30 5 6 Coulombic_Efficiency
+59 59 26 27 Voltage | 61 61 26 27 Voltage
+14 14 5 6 Coulombic_Efficiency
+4 4 18 19 Voltage | 4 4 13 14 Voltage
+20 20 6 8 Energy
+6 6 26 27 Voltage
+2 2 13 14 Coulombic_Efficiency
+4 4 25 26 Voltage
+3 3 20 21 Voltage
+21 21 13 14 Voltage
+7 7 21 22 Coulombic_Efficiency
+8 8 27 28 Voltage
+3 3 11 12 Voltage
+11 11 35 36 Coulombic_Efficiency
+7 7 15 18 Capacity
+8 8 14 15 Voltage | 8 8 39 40 Voltage | 8 8 14 15 Voltage | 8 8 39 40 Voltage
+0 0 20 21 Voltage | 12 12 20 21 Voltage
+9 9 24 25 Voltage
+0 0 20 21 Voltage
+0 0 20 21 Voltage
+0 0 15 16 Voltage
+6 6 15 16 Coulombic_Efficiency | 6 6 15 16 Coulombic_Efficiency | 12 12 21 22 Coulombic_Efficiency
+6 6 13 14 Voltage | 6 6 13 14 Voltage
+9 9 27 28 Coulombic_Efficiency
+26 26 34 35 Coulombic_Efficiency
+13 13 31 32 Voltage | 13 13 28 29 Voltage | 13 13 31 32 Voltage | 13 13 28 29 Voltage
+7 7 16 19 Capacity
+7 7 17 20 Capacity
+15 15 11 12 Voltage | 15 15 11 12 Voltage
+48 48 34 35 Coulombic_Efficiency
+8 8 29 30 Coulombic_Efficiency
+20 20 31 32 Voltage
+9 9 35 36 Voltage | 9 9 35 36 Voltage
+4 4 10 11 Voltage
+6 6 18 21 Capacity | 6 6 18 21 Capacity
+17 17 31 32 Voltage | 17 17 39 40 Voltage
+17 17 20 23 Capacity | 17 17 39 42 Capacity | 17 17 20 23 Capacity | 17 17 39 42 Capacity
+5 5 27 28 Coulombic_Efficiency | 5 5 27 28 Coulombic_Efficiency
+2 2 25 26 Voltage | 2 2 37 38 Voltage
+11 11 30 31 Coulombic_Efficiency
+16 16 7 8 Voltage | 20 20 7 8 Voltage
+15 15 24 25 Voltage
+16 16 5 6 Voltage | 16 16 8 9 Voltage
+5 5 17 20 Capacity | 5 5 17 20 Capacity
+46 46 15 18 Capacity
+8 8 35 38 Capacity
+8 8 15 18 Capacity | 8 8 28 31 Capacity
+12 12 21 23 Conductivity
+27 27 46 47 Coulombic_Efficiency
+7 7 21 22 Voltage
+23 23 13 14 Voltage
+7 7 23 24 Voltage
+41 41 13 14 Voltage
+5 5 34 37 Capacity
+4 4 14 15 Voltage
+16 16 39 40 Voltage | 16 16 19 20 Voltage | 16 16 36 37 Voltage | 16 16 22 23 Voltage | 16 16 39 40 Voltage | 16 16 19 20 Voltage | 16 16 36 37 Voltage | 16 16 22 23 Voltage
+42 42 28 29 Voltage | 42 42 22 23 Voltage | 44 44 28 29 Voltage | 44 44 22 23 Voltage
+5 5 9 10 Coulombic_Efficiency
+35 35 41 42 Voltage
+23 23 8 9 Voltage
+5 5 46 47 Voltage
+10 10 27 28 Voltage | 17 17 27 28 Voltage | 17 17 27 28 Voltage
+8 8 25 26 Voltage | 10 10 25 26 Voltage
+5 5 9 12 Capacity
+8 8 30 31 Voltage | 8 8 30 31 Voltage
+2 2 14 17 Capacity
+0 0 10 13 Capacity
+9 9 28 29 Coulombic_Efficiency
+2 2 38 41 Capacity
+3 3 16 17 Voltage | 3 3 27 28 Voltage | 3 3 7 8 Voltage | 19 19 16 17 Voltage
+43 43 38 39 Voltage
+5 5 10 11 Voltage
+12 12 17 18 Voltage | 12 12 5 6 Voltage
+3 3 25 26 Voltage | 5 5 25 26 Voltage
+17 17 24 25 Voltage | 19 19 24 25 Voltage
+24 24 10 11 Coulombic_Efficiency | 31 31 10 11 Coulombic_Efficiency
+5 5 12 15 Capacity | 5 5 21 24 Capacity
+59 59 65 66 Voltage | 59 59 104 105 Voltage | 59 59 65 66 Voltage | 59 59 104 105 Voltage | 59 59 65 66 Voltage | 59 59 104 105 Voltage
+9 9 33 34 Voltage
+35 35 14 15 Voltage
+17 17 4 5 Voltage | 25 25 4 5 Voltage | 36 36 4 5 Voltage
+17 17 4 5 Voltage | 25 25 4 5 Voltage | 36 36 4 5 Voltage
+20 20 29 30 Voltage | 22 22 29 30 Voltage
+6 6 12 13 Voltage
+10 10 17 20 Capacity
+13 13 20 23 Capacity
+21 21 10 13 Capacity
+12 12 14 15 Voltage | 12 12 14 15 Voltage
+5 5 13 14 Voltage | 5 5 16 17 Voltage
+26 26 37 38 Voltage
+10 10 18 21 Capacity
+10 10 19 22 Capacity
+1 1 36 37 Coulombic_Efficiency
+0 0 7 8 Voltage
+29 29 8 11 Capacity
+8 8 15 16 Voltage
+7 7 28 29 Voltage
+10 10 20 21 Voltage
+4 4 20 21 Voltage | 7 7 20 21 Voltage
+5 5 12 13 Voltage
+31 31 17 18 Voltage
+14 14 25 27 Energy
+13 13 32 33 Voltage | 13 13 25 26 Voltage
+5 5 9 12 Capacity | 5 5 15 18 Capacity
+1 1 21 24 Capacity | 1 1 15 18 Capacity
+6 6 12 13 Voltage
+20 20 30 31 Voltage | 20 20 33 34 Voltage | 24 24 33 34 Voltage
+11 11 17 18 Voltage | 25 25 17 18 Voltage
+13 13 20 21 Voltage
+3 3 12 13 Voltage | 6 6 12 13 Voltage
+24 24 26 29 Capacity
+8 8 10 11 Voltage
+57 57 133 135 Conductivity | 57 57 133 135 Conductivity | 57 57 133 135 Conductivity
+3 3 16 17 Voltage | 3 3 19 20 Voltage | 3 3 16 17 Voltage | 3 3 19 20 Voltage
+7 7 15 16 Voltage
+7 7 39 40 Voltage | 7 7 39 40 Voltage
+11 11 6 7 Voltage
+2 2 39 40 Voltage | 2 2 39 40 Voltage
+1 1 22 23 Voltage
+5 5 20 21 Voltage
+4 4 26 29 Capacity | 4 4 14 17 Capacity | 4 4 26 29 Capacity | 4 4 14 17 Capacity
+11 11 26 27 Voltage
+1 1 28 29 Voltage
+4 4 14 17 Capacity | 4 4 14 17 Capacity
+12 12 24 25 Voltage | 14 14 24 25 Voltage | 14 14 24 25 Voltage
+15 15 11 12 Voltage | 15 15 8 9 Voltage
+1 1 30 31 Coulombic_Efficiency
+12 12 32 33 Coulombic_Efficiency
+37 37 32 33 Voltage
+13 13 16 17 Voltage
+7 7 21 22 Voltage
+6 6 16 17 Voltage | 6 6 16 17 Voltage | 6 6 16 17 Voltage | 6 6 16 17 Voltage
+5 5 7 8 Coulombic_Efficiency | 5 5 7 8 Coulombic_Efficiency
+2 2 21 22 Voltage
+7 7 10 13 Capacity | 7 7 10 13 Capacity
+11 11 20 23 Capacity
+13 13 40 41 Voltage | 13 13 40 41 Voltage | 38 38 40 41 Voltage
+34 34 7 8 Voltage
+29 29 14 15 Voltage | 29 29 17 18 Voltage
+6 6 20 21 Voltage | 11 11 20 21 Voltage
+6 6 8 9 Coulombic_Efficiency | 6 6 30 31 Coulombic_Efficiency
+5 5 30 33 Capacity | 5 5 14 17 Capacity
+17 17 6 9 Capacity | 17 17 25 28 Capacity
+2 2 32 35 Capacity | 2 2 32 35 Capacity
+3 3 38 39 Coulombic_Efficiency
+6 6 13 14 Voltage
+1 1 8 9 Voltage
+0 0 14 15 Voltage
+18 18 32 33 Voltage | 18 18 32 33 Voltage
+17 17 6 7 Voltage
+10 10 18 21 Capacity | 10 10 33 34 Coulombic_Efficiency
+12 12 17 20 Capacity
+28 28 14 17 Capacity
+23 23 5 6 Voltage
+7 7 16 19 Capacity
+13 13 29 32 Capacity
+17 17 19 22 Capacity | 17 17 34 37 Capacity | 17 17 19 22 Capacity | 17 17 34 37 Capacity
+5 5 17 18 Voltage | 5 5 17 18 Voltage
+7 7 37 38 Voltage | 7 7 37 38 Voltage | 7 7 37 38 Voltage | 7 7 37 38 Voltage | 7 7 37 38 Voltage
+6 6 16 17 Voltage
+25 25 9 10 Voltage
+5 5 42 43 Voltage | 27 27 42 43 Voltage
+23 23 11 12 Voltage
+10 10 26 27 Voltage | 10 10 20 21 Voltage | 10 10 26 27 Voltage | 10 10 20 21 Voltage
+12 12 1 2 Voltage
+6 6 21 22 Voltage | 6 6 11 12 Voltage
+8 8 23 24 Voltage | 10 10 23 24 Voltage
+3 3 21 22 Coulombic_Efficiency
+3 3 14 15 Voltage | 3 3 14 15 Voltage
+3 3 14 15 Voltage
+1 1 24 25 Voltage
+4 4 12 13 Voltage
+29 29 6 7 Voltage
+10 10 17 18 Voltage
+0 0 7 8 Voltage
+4 4 20 21 Voltage | 33 33 20 21 Voltage
+2 2 9 10 Voltage | 2 2 21 22 Voltage | 19 19 21 22 Voltage | 19 19 9 10 Voltage
+12 12 20 23 Capacity
+16 16 23 24 Coulombic_Efficiency
+22 22 9 10 Voltage | 22 22 13 14 Voltage | 24 24 13 14 Voltage
+36 36 41 42 Voltage
+7 7 21 22 Coulombic_Efficiency
+19 19 7 8 Voltage
+3 3 22 23 Coulombic_Efficiency | 3 3 36 37 Coulombic_Efficiency
+9 9 6 7 Voltage | 15 15 6 7 Voltage | 21 21 6 7 Voltage
+23 23 7 8 Voltage
+1 1 18 19 Voltage
+0 0 21 24 Capacity | 0 0 21 24 Capacity
+15 15 6 9 Capacity
+1 1 10 13 Capacity
+9 9 22 23 Voltage | 9 9 22 23 Voltage
+6 6 14 15 Voltage | 6 6 14 15 Voltage
+15 15 6 9 Capacity
+2 2 19 22 Capacity
+4 4 43 46 Capacity | 4 4 12 15 Capacity
+24 24 18 19 Voltage
+12 12 6 9 Capacity
+3 3 28 29 Coulombic_Efficiency
+0 0 21 22 Voltage
+34 34 5 8 Capacity | 34 34 22 25 Capacity
+3 3 11 14 Capacity | 3 3 11 14 Capacity
+1 1 11 13 Conductivity | 1 1 11 13 Conductivity | 1 1 11 13 Conductivity
+200 200 250 253 Capacity | 209 209 294 297 Capacity
+80 80 89 92 Capacity | 80 80 89 92 Capacity
+26 26 11 14 Capacity | 26 26 29 32 Capacity
+8 8 29 30 Voltage | 8 8 29 30 Voltage
+15 15 27 28 Voltage | 17 17 27 28 Voltage | 17 17 45 46 Voltage | 17 17 27 28 Voltage | 17 17 45 46 Voltage
+13 13 18 19 Voltage | 13 13 18 19 Voltage
+1 1 20 23 Capacity
+10 10 12 13 Voltage | 10 10 22 23 Voltage | 20 20 22 23 Voltage
+5 5 20 21 Voltage
+1 1 8 9 Coulombic_Efficiency
+12 12 30 33 Capacity
+26 26 6 9 Capacity
+0 0 9 10 Voltage | 26 26 9 10 Voltage | 28 28 9 10 Voltage
+2 2 15 16 Voltage | 2 2 18 19 Voltage | 4 4 18 19 Voltage | 4 4 15 16 Voltage
+12 12 23 24 Voltage
+21 21 11 12 Voltage
+63 63 56 57 Voltage | 63 63 149 150 Voltage | 63 63 73 74 Voltage | 63 63 56 57 Voltage | 63 63 149 150 Voltage | 63 63 73 74 Voltage
+40 40 10 11 Voltage | 46 46 10 11 Voltage
+13 13 7 8 Voltage | 13 13 7 8 Voltage
+10 10 30 31 Voltage | 10 10 14 15 Voltage
+9 9 26 27 Voltage
+1 1 13 16 Capacity
+6 6 30 31 Coulombic_Efficiency
+6 6 9 10 Voltage
+42 42 7 10 Capacity
+28 28 12 13 Coulombic_Efficiency
+17 17 22 23 Voltage
+29 29 25 26 Voltage | 29 29 11 12 Voltage | 29 29 25 26 Voltage | 29 29 11 12 Voltage | 29 29 25 26 Voltage | 29 29 11 12 Voltage | 29 29 25 26 Voltage | 29 29 11 12 Voltage
+26 26 20 21 Coulombic_Efficiency | 26 26 23 24 Coulombic_Efficiency | 26 26 20 21 Coulombic_Efficiency | 26 26 23 24 Coulombic_Efficiency
+2 2 11 12 Voltage | 2 2 11 12 Voltage | 2 2 11 12 Voltage | 2 2 11 12 Voltage
+4 4 35 36 Voltage | 8 8 35 36 Voltage
+31 31 35 36 Voltage | 31 31 38 39 Voltage
+7 7 17 18 Voltage | 7 7 17 18 Voltage | 30 30 17 18 Voltage
+4 4 21 24 Capacity | 4 4 21 24 Capacity
+0 0 17 18 Coulombic_Efficiency
+7 7 19 20 Voltage
+7 7 28 29 Coulombic_Efficiency
+9 9 26 29 Capacity | 9 9 16 19 Capacity
+6 6 15 16 Voltage | 6 6 10 11 Voltage
+8 8 34 35 Coulombic_Efficiency
+7 7 20 21 Coulombic_Efficiency
+10 10 21 22 Voltage
+0 0 11 12 Voltage | 0 0 15 16 Voltage
+0 0 20 21 Voltage | 0 0 13 14 Voltage | 18 18 20 21 Voltage | 18 18 13 14 Voltage
+4 4 14 15 Voltage | 4 4 14 15 Voltage
+4 4 15 16 Voltage
+5 5 15 18 Capacity
+9 9 12 15 Capacity
+8 8 18 19 Voltage | 11 11 18 19 Voltage
+4 4 14 15 Voltage | 4 4 14 15 Voltage
+10 10 18 19 Voltage
+14 14 24 27 Capacity
+4 4 37 38 Coulombic_Efficiency
+11 11 34 35 Coulombic_Efficiency | 11 11 13 16 Capacity | 11 11 19 22 Capacity
+10 10 19 22 Capacity
+9 9 15 18 Capacity
+4 4 28 31 Capacity
+46 46 40 42 Energy
+3 3 14 15 Voltage
+7 7 23 24 Voltage
+42 42 21 22 Voltage
+34 34 7 8 Voltage
+16 16 7 8 Voltage | 16 16 10 11 Voltage | 18 18 7 8 Voltage | 18 18 10 11 Voltage | 20 20 7 8 Voltage
+26 26 15 16 Voltage
+12 12 16 17 Voltage
+24 24 7 8 Voltage
+13 13 22 23 Voltage | 13 13 22 23 Voltage
+8 8 26 27 Voltage | 8 8 18 19 Voltage
+24 24 7 8 Voltage
+17 17 10 11 Voltage
+16 16 25 28 Capacity
+5 5 24 25 Voltage | 29 29 24 25 Voltage
+17 17 12 13 Voltage
+19 19 11 12 Voltage
+11 11 19 20 Voltage | 11 11 19 20 Voltage
+22 22 37 38 Coulombic_Efficiency | 22 22 37 38 Coulombic_Efficiency
+13 13 30 31 Coulombic_Efficiency
+5 5 14 15 Voltage
+1 1 9 12 Capacity
+3 3 9 10 Voltage | 19 19 9 10 Voltage | 21 21 9 10 Voltage
+23 23 6 7 Voltage
+38 38 35 36 Voltage
+5 5 22 23 Voltage | 5 5 19 20 Voltage
+25 25 12 13 Voltage | 25 25 9 10 Voltage
+1 1 25 26 Voltage
+1 1 29 30 Coulombic_Efficiency
+7 7 18 19 Voltage
+23 23 9 10 Voltage
+0 0 11 12 Voltage
+3 3 35 36 Coulombic_Efficiency
+3 3 35 36 Coulombic_Efficiency
+14 14 30 31 Voltage | 16 16 30 31 Voltage
+2 2 11 12 Voltage | 2 2 15 16 Voltage | 23 23 15 16 Voltage | 23 23 11 12 Voltage
+9 9 13 14 Voltage | 9 9 5 6 Voltage | 9 9 13 14 Voltage | 9 9 5 6 Voltage
+24 24 26 29 Capacity | 24 24 18 21 Capacity
+25 25 27 30 Capacity | 25 25 18 21 Capacity
+3 3 11 14 Capacity
+10 10 14 17 Capacity
+21 21 6 7 Voltage
+5 5 36 39 Capacity | 5 5 36 39 Capacity
+1 1 24 27 Capacity | 1 1 24 27 Capacity
+2 2 12 15 Capacity | 2 2 12 15 Capacity | 2 2 12 15 Capacity | 2 2 12 15 Capacity
+30 30 20 21 Voltage
+36 36 26 27 Voltage
+7 7 18 19 Voltage
+9 9 16 17 Voltage
+35 35 10 11 Voltage
+1 1 16 17 Voltage
+1 1 20 21 Voltage | 1 1 37 38 Voltage
+11 11 32 33 Voltage
+3 3 20 23 Capacity
+6 6 21 24 Capacity
+14 14 5 6 Voltage | 20 20 5 6 Voltage
+4 4 15 16 Voltage
+3 3 11 14 Capacity | 3 3 11 14 Capacity
+4 4 31 34 Capacity | 4 4 31 34 Capacity | 4 4 31 34 Capacity
+6 6 68 71 Capacity | 6 6 68 71 Capacity
+21 21 11 12 Coulombic_Efficiency | 21 21 11 12 Coulombic_Efficiency
+7 7 21 22 Voltage | 12 12 21 22 Voltage
+35 35 29 30 Voltage
+4 4 15 16 Voltage
+4 4 11 12 Voltage
+3 3 11 12 Voltage | 3 3 18 19 Voltage
+24 24 42 43 Voltage
+5 5 22 23 Coulombic_Efficiency | 5 5 14 15 Coulombic_Efficiency
+9 9 34 35 Voltage
+29 29 33 34 Voltage
+13 13 18 19 Voltage
+8 8 31 32 Coulombic_Efficiency
+3 3 24 27 Capacity
+23 23 13 14 Voltage | 25 25 13 14 Voltage | 25 25 13 14 Voltage
+18 18 28 29 Voltage | 18 18 28 29 Voltage
+1 1 29 30 Coulombic_Efficiency | 1 1 29 30 Coulombic_Efficiency
+11 11 18 19 Voltage | 11 11 18 19 Voltage
+18 18 10 11 Voltage | 18 18 13 14 Voltage | 25 25 10 11 Voltage | 25 25 13 14 Voltage
+2 2 10 11 Voltage
+0 0 30 31 Coulombic_Efficiency
+30 30 11 12 Voltage | 30 30 14 15 Voltage
+4 4 21 22 Voltage | 13 13 21 22 Voltage
+0 0 10 11 Voltage
+10 10 15 16 Voltage
+0 0 56 57 Voltage | 15 15 56 57 Voltage | 0 0 56 57 Voltage | 0 0 56 57 Voltage | 105 105 56 57 Voltage | 0 0 56 57 Voltage | 0 0 56 57 Voltage | 0 0 56 57 Voltage
+1 1 7 10 Capacity
+6 6 19 22 Capacity
+4 4 41 42 Coulombic_Efficiency
+5 5 22 23 Coulombic_Efficiency | 5 5 22 23 Coulombic_Efficiency | 5 5 22 23 Coulombic_Efficiency
+7 7 10 11 Coulombic_Efficiency
+29 29 24 25 Voltage | 29 29 17 18 Voltage
+8 8 32 33 Voltage
+17 17 13 14 Voltage
+10 10 12 13 Voltage
+7 7 14 15 Voltage
+16 16 9 10 Voltage
+25 25 11 12 Voltage
+2 2 29 30 Coulombic_Efficiency | 2 2 9 12 Capacity | 2 2 18 21 Capacity
+6 6 9 12 Capacity
+7 7 14 17 Capacity
+3 3 10 13 Capacity
+22 22 6 7 Voltage | 22 22 6 7 Voltage
+27 27 16 17 Voltage
+19 19 7 8 Voltage | 23 23 7 8 Voltage
+16 16 10 11 Voltage
+15 15 40 41 Voltage | 15 15 19 20 Voltage | 32 32 40 41 Voltage | 32 32 19 20 Voltage
+4 4 17 18 Voltage
+31 31 5 8 Capacity
+8 8 22 25 Capacity
+4 4 30 33 Capacity
+1 1 18 19 Coulombic_Efficiency
+10 10 41 44 Capacity
+1 1 22 25 Capacity | 1 1 40 41 Coulombic_Efficiency
+11 11 19 22 Capacity
+7 7 28 29 Voltage | 7 7 28 29 Voltage
+15 15 6 7 Voltage | 15 15 10 11 Voltage
+23 23 30 31 Voltage | 23 23 11 12 Voltage
+15 15 23 26 Capacity
+27 27 53 54 Voltage
+29 29 16 17 Voltage
+6 6 20 21 Voltage | 6 6 9 10 Voltage
+6 6 20 21 Coulombic_Efficiency | 6 6 23 24 Coulombic_Efficiency | 6 6 17 18 Coulombic_Efficiency | 6 6 20 21 Coulombic_Efficiency | 6 6 23 24 Coulombic_Efficiency | 6 6 17 18 Coulombic_Efficiency
+16 16 13 14 Coulombic_Efficiency
+23 23 8 11 Capacity
+19 19 12 13 Voltage
+4 4 11 12 Voltage | 4 4 11 12 Voltage
+15 15 12 13 Voltage
+5 5 39 40 Coulombic_Efficiency
+8 8 30 31 Voltage
+4 4 14 15 Voltage | 4 4 26 27 Voltage
+20 20 38 39 Voltage
+3 3 11 12 Voltage
+6 6 27 28 Coulombic_Efficiency
+28 28 14 15 Voltage
+1 1 27 28 Coulombic_Efficiency
+1 1 8 11 Capacity
+5 5 25 26 Voltage
+30 30 21 24 Capacity
+23 23 6 7 Voltage
+13 13 22 23 Voltage | 13 13 22 23 Voltage
+1 1 9 10 Voltage
+8 8 10 11 Voltage | 8 8 16 17 Voltage | 14 14 10 11 Voltage | 14 14 16 17 Voltage
+9 9 11 12 Coulombic_Efficiency
+1 1 17 20 Capacity | 1 1 17 20 Capacity
+20 20 32 34 Conductivity | 20 20 32 34 Conductivity
+16 16 8 9 Voltage
+13 13 22 23 Voltage | 13 13 5 6 Voltage
+4 4 22 23 Voltage
+9 9 20 21 Voltage
+9 9 27 28 Voltage
+5 5 28 29 Voltage | 5 5 25 26 Voltage
+34 34 25 26 Coulombic_Efficiency
+2 2 26 27 Voltage | 2 2 29 30 Voltage | 18 18 26 27 Voltage | 18 18 29 30 Voltage
+3 3 30 31 Coulombic_Efficiency
+6 6 14 15 Coulombic_Efficiency
+23 23 9 10 Voltage
+1 1 11 12 Voltage
+39 39 25 26 Coulombic_Efficiency
+30 30 44 45 Coulombic_Efficiency | 30 30 19 20 Coulombic_Efficiency
+36 36 41 42 Coulombic_Efficiency
+6 6 29 30 Voltage | 6 6 29 30 Voltage
+12 12 5 6 Voltage
+8 8 16 17 Voltage
+8 8 28 29 Voltage
+7 7 24 25 Coulombic_Efficiency
+45 45 36 37 Coulombic_Efficiency
+18 18 14 15 Coulombic_Efficiency
+10 10 30 31 Coulombic_Efficiency
+2 2 10 11 Voltage
+13 13 27 28 Voltage
+14 14 25 28 Capacity
+9 9 23 24 Voltage
+29 29 65 66 Voltage
+10 10 42 43 Voltage
+7 7 36 37 Voltage
+47 47 12 13 Voltage
+8 8 17 20 Capacity
+8 8 17 20 Capacity
+0 0 23 24 Voltage
+20 20 13 14 Voltage
+7 7 10 11 Coulombic_Efficiency
+19 19 13 16 Capacity
+8 8 34 35 Voltage
+5 5 14 15 Voltage
+10 10 16 17 Voltage
+31 31 35 36 Voltage | 31 31 46 47 Voltage | 44 44 46 47 Voltage | 44 44 35 36 Voltage
+3 3 21 22 Voltage | 3 3 12 13 Voltage | 24 24 21 22 Voltage
+8 8 5 6 Voltage
+3 3 21 22 Voltage | 3 3 12 13 Voltage | 24 24 21 22 Voltage
+39 39 13 14 Voltage
+12 12 39 40 Voltage | 24 24 28 29 Voltage | 24 24 5 6 Voltage | 12 12 39 40 Voltage
+17 17 34 35 Voltage
+8 8 40 41 Voltage
+22 22 6 7 Voltage
+38 38 21 22 Voltage
+37 37 23 24 Voltage | 37 37 23 24 Voltage
+5 5 8 9 Voltage
+2 2 17 18 Voltage
+1 1 16 17 Voltage | 1 1 16 17 Voltage | 1 1 16 17 Voltage
+12 12 21 22 Voltage
+2 2 32 33 Voltage | 2 2 6 7 Voltage | 19 19 32 33 Voltage | 19 19 6 7 Voltage
+6 6 39 40 Voltage | 31 31 39 40 Voltage
+25 25 14 15 Voltage
+2 2 24 25 Voltage
+7 7 32 35 Capacity
+5 5 34 35 Voltage
+32 32 15 16 Voltage | 32 32 12 13 Voltage
+0 0 10 11 Voltage
+3 3 20 21 Voltage
+25 25 10 11 Voltage
+26 26 4 5 Voltage
+3 3 11 12 Coulombic_Efficiency
+14 14 33 34 Coulombic_Efficiency | 14 14 33 34 Coulombic_Efficiency
+23 23 40 41 Voltage
+5 5 14 15 Voltage
+25 25 7 8 Voltage | 25 25 10 11 Voltage
+1 1 17 18 Voltage
+12 12 29 30 Voltage | 20 20 32 33 Voltage | 20 20 29 30 Voltage | 20 20 26 27 Voltage
+0 0 26 27 Voltage
+29 29 14 15 Voltage
+20 20 14 15 Voltage
+6 6 28 29 Voltage
+12 12 43 44 Voltage | 12 12 27 28 Voltage
+23 23 17 18 Voltage
+37 37 33 34 Voltage
+4 4 17 18 Voltage
+5 5 17 18 Voltage | 5 5 24 25 Voltage
+12 12 26 27 Voltage
+22 22 10 11 Voltage | 22 22 10 11 Voltage
+3 3 10 11 Voltage | 3 3 10 11 Voltage
+4 4 9 12 Capacity | 4 4 25 28 Capacity | 4 4 9 12 Capacity | 4 4 25 28 Capacity
+11 11 21 22 Voltage
+0 0 15 17 Conductivity
+13 13 31 32 Voltage
+6 6 26 27 Voltage | 6 6 26 27 Voltage
+9 9 29 32 Capacity
+2 2 17 18 Voltage
+13 13 28 29 Voltage
+6 6 13 16 Capacity | 19 19 13 16 Capacity
+25 25 12 13 Voltage | 27 27 12 13 Voltage
+10 10 12 13 Coulombic_Efficiency | 10 10 12 13 Coulombic_Efficiency
+11 11 24 27 Capacity | 11 11 18 21 Capacity
+5 5 40 41 Voltage | 5 5 40 41 Voltage
+2 2 25 26 Coulombic_Efficiency
+2 2 23 24 Coulombic_Efficiency
+10 10 28 29 Coulombic_Efficiency
+0 0 7 10 Capacity
+25 25 15 16 Voltage | 27 27 15 16 Voltage
+7 7 46 47 Voltage
+3 3 18 19 Coulombic_Efficiency
+8 8 25 26 Coulombic_Efficiency
+37 37 4 5 Voltage
+34 34 10 11 Coulombic_Efficiency
+25 25 9 10 Voltage
+23 23 28 29 Voltage
+14 14 37 38 Voltage
+40 40 28 29 Voltage | 40 40 25 26 Voltage
+31 31 22 23 Voltage
+2 2 16 19 Capacity | 2 2 16 19 Capacity
+23 23 35 36 Voltage
+12 12 19 20 Voltage
+1 1 15 18 Capacity
+4 4 25 28 Capacity
+5 5 36 37 Voltage
+2 2 30 33 Capacity | 2 2 30 33 Capacity
+9 9 31 34 Capacity | 9 9 31 34 Capacity
+12 12 16 17 Voltage
+19 19 11 12 Coulombic_Efficiency | 19 19 11 12 Coulombic_Efficiency
+27 27 5 6 Voltage
+30 30 185 187 Conductivity | 183 183 129 131 Conductivity | 30 30 185 187 Conductivity
+13 13 4 5 Voltage
+34 34 12 15 Capacity
+9 9 3 4 Voltage | 9 9 3 4 Voltage
+4 4 11 12 Voltage | 4 4 28 29 Voltage
+27 27 45 46 Coulombic_Efficiency
+5 5 42 44 Energy | 5 5 42 44 Energy
+4 4 21 24 Capacity
+1 1 25 26 Voltage
+7 7 16 17 Voltage
+6 6 15 16 Voltage | 6 6 15 16 Voltage
+10 10 29 30 Voltage
+4 4 30 31 Voltage | 4 4 30 31 Voltage
+4 4 14 15 Voltage | 4 4 14 15 Voltage
+5 5 13 16 Capacity
+0 0 16 17 Voltage
+9 9 26 27 Coulombic_Efficiency
+38 38 18 19 Voltage
+0 0 7 8 Voltage
+4 4 22 23 Voltage
+36 36 28 29 Voltage
+22 22 30 31 Coulombic_Efficiency | 22 22 30 31 Coulombic_Efficiency
+0 0 30 31 Voltage
+4 4 26 27 Voltage
+30 30 27 28 Coulombic_Efficiency
+12 12 23 24 Voltage | 12 12 36 37 Voltage
+3 3 25 26 Voltage
+5 5 15 16 Voltage
+6 6 22 23 Coulombic_Efficiency
+12 12 16 17 Voltage | 19 19 16 17 Voltage
+6 6 22 23 Coulombic_Efficiency
+4 4 22 23 Voltage
+3 3 20 21 Coulombic_Efficiency
+0 0 6 7 Voltage | 26 26 6 7 Voltage
+3 3 20 21 Voltage
+12 12 23 24 Voltage
+3 3 13 16 Capacity
+28 28 17 18 Voltage | 28 28 7 8 Voltage
+25 25 11 12 Voltage | 33 33 11 12 Voltage
+19 19 35 36 Voltage
+19 19 27 28 Voltage | 19 19 27 28 Voltage
+8 8 17 18 Voltage
+28 28 19 20 Voltage
+9 9 32 33 Voltage
+9 9 14 15 Coulombic_Efficiency
+17 17 33 34 Voltage
+3 3 13 14 Voltage
+1 1 25 26 Coulombic_Efficiency
+33 33 19 20 Voltage
+30 30 5 6 Coulombic_Efficiency | 30 30 5 6 Coulombic_Efficiency
+11 11 45 46 Voltage | 13 13 45 46 Voltage
+14 14 5 6 Coulombic_Efficiency
+0 0 32 33 Coulombic_Efficiency
+6 6 26 27 Voltage
+12 12 22 23 Voltage
+1 1 17 18 Coulombic_Efficiency
+3 3 16 17 Coulombic_Efficiency
+12 12 237 238 Voltage
+4 4 25 26 Voltage
+3 3 20 21 Voltage
+38 38 12 13 Voltage | 48 48 12 13 Voltage
+17 17 8 9 Voltage | 19 19 8 9 Voltage
+21 21 13 14 Voltage
+8 8 27 28 Voltage
+1 1 9 10 Voltage
+2 2 19 20 Coulombic_Efficiency
+11 11 35 36 Coulombic_Efficiency
+20 20 31 32 Voltage | 22 22 31 32 Voltage
+7 7 31 32 Voltage
+6 6 13 14 Voltage | 6 6 13 14 Voltage
+3 3 48 49 Coulombic_Efficiency | 3 3 48 49 Coulombic_Efficiency | 3 3 48 49 Coulombic_Efficiency
+26 26 34 35 Coulombic_Efficiency
+9 9 45 46 Coulombic_Efficiency | 9 9 42 43 Coulombic_Efficiency | 9 9 45 46 Coulombic_Efficiency | 9 9 42 43 Coulombic_Efficiency
+6 6 16 17 Voltage
+17 17 19 20 Coulombic_Efficiency
+15 15 11 12 Voltage | 15 15 11 12 Voltage
+27 27 15 16 Voltage
+48 48 34 35 Coulombic_Efficiency
+8 8 29 30 Coulombic_Efficiency
+20 20 31 32 Voltage
+4 4 10 11 Voltage
+4 4 26 27 Voltage
+10 10 21 24 Capacity | 10 10 13 16 Capacity | 10 10 21 24 Capacity | 10 10 13 16 Capacity
+25 25 11 12 Voltage
+17 17 31 32 Voltage | 17 17 39 40 Voltage
+26 26 5 8 Capacity
+5 5 27 28 Coulombic_Efficiency | 5 5 27 28 Coulombic_Efficiency
+2 2 25 26 Voltage | 2 2 37 38 Voltage
+25 25 15 16 Voltage | 27 27 15 16 Voltage
+14 14 17 18 Coulombic_Efficiency | 14 14 17 18 Coulombic_Efficiency | 14 14 17 18 Coulombic_Efficiency
+8 8 14 17 Capacity
+8 8 15 18 Capacity | 8 8 28 31 Capacity
+12 12 21 23 Conductivity
+30 30 76 77 Voltage | 30 30 76 77 Voltage | 30 30 76 77 Voltage
+4 4 13 14 Voltage
+11 11 19 20 Voltage
+6 6 10 11 Voltage | 23 23 10 11 Voltage
+41 41 13 14 Voltage
+8 8 26 27 Coulombic_Efficiency
+4 4 14 15 Voltage
+45 45 34 35 Voltage | 45 45 34 35 Voltage
+16 16 39 40 Voltage | 16 16 19 20 Voltage | 16 16 36 37 Voltage | 16 16 22 23 Voltage | 16 16 39 40 Voltage | 16 16 19 20 Voltage | 16 16 36 37 Voltage | 16 16 22 23 Voltage
+5 5 9 10 Coulombic_Efficiency
+40 40 36 37 Voltage
+5 5 46 47 Voltage
+9 9 25 26 Voltage
+32 32 11 12 Voltage
+8 8 35 36 Voltage | 8 8 35 36 Voltage | 8 8 35 36 Voltage | 8 8 35 36 Voltage
+27 27 12 13 Voltage | 33 33 12 13 Voltage | 33 33 30 31 Voltage
+2 2 14 17 Capacity
+0 0 10 13 Capacity
+2 2 38 41 Capacity
+28 28 16 17 Voltage
+43 43 38 39 Voltage
+3 3 25 26 Voltage | 5 5 25 26 Voltage
+17 17 24 25 Voltage | 19 19 24 25 Voltage
+9 9 37 38 Voltage
+9 9 33 34 Voltage
+32 32 26 27 Voltage
+17 17 4 5 Voltage | 25 25 4 5 Voltage | 36 36 4 5 Voltage
+20 20 29 30 Voltage | 22 22 29 30 Voltage
+5 5 32 33 Voltage | 20 20 32 33 Voltage | 26 26 32 33 Voltage
+19 19 12 15 Capacity | 19 19 31 34 Capacity | 19 19 12 15 Capacity | 19 19 31 34 Capacity
+8 8 16 19 Capacity | 8 8 34 37 Capacity
+2 2 10 13 Capacity
+6 6 37 38 Voltage
+1 1 10 13 Capacity | 1 1 21 24 Capacity
+12 12 14 15 Voltage | 12 12 14 15 Voltage
+5 5 25 26 Voltage | 5 5 28 29 Voltage | 5 5 25 26 Voltage | 5 5 28 29 Voltage
+5 5 13 14 Voltage | 5 5 16 17 Voltage
+12 12 23 24 Voltage
+8 8 25 26 Voltage | 8 8 19 20 Voltage | 10 10 19 20 Voltage | 10 10 25 26 Voltage
+26 26 37 38 Voltage
+10 10 18 21 Capacity
+10 10 19 22 Capacity
+4 4 41 42 Coulombic_Efficiency
+1 1 36 37 Coulombic_Efficiency
+0 0 7 8 Voltage
+29 29 8 11 Capacity
+8 8 15 16 Voltage
+5 5 14 15 Voltage
+7 7 15 16 Voltage | 28 28 15 16 Voltage
+4 4 20 21 Voltage | 7 7 20 21 Voltage
+14 14 25 27 Energy
+13 13 32 33 Voltage | 13 13 25 26 Voltage
+1 1 21 24 Capacity | 1 1 15 18 Capacity
+6 6 12 13 Voltage
+20 20 30 31 Voltage | 20 20 33 34 Voltage | 24 24 33 34 Voltage
+17 17 14 15 Coulombic_Efficiency | 17 17 11 12 Coulombic_Efficiency
+22 22 47 48 Coulombic_Efficiency
+7 7 36 37 Coulombic_Efficiency
+11 11 17 18 Voltage | 25 25 17 18 Voltage
+8 8 24 25 Voltage
+2 2 28 29 Voltage | 2 2 28 29 Voltage
+24 24 26 29 Capacity
+13 13 15 18 Capacity | 26 26 28 31 Capacity
+8 8 10 11 Voltage
+19 19 15 16 Voltage | 19 19 27 28 Voltage | 34 34 27 28 Voltage | 34 34 15 16 Voltage | 34 34 30 31 Voltage
+3 3 16 17 Voltage | 3 3 19 20 Voltage | 3 3 16 17 Voltage | 3 3 19 20 Voltage
+1 1 22 23 Voltage
+4 4 21 22 Voltage | 4 4 21 22 Voltage
+4 4 26 29 Capacity | 4 4 14 17 Capacity | 4 4 26 29 Capacity | 4 4 14 17 Capacity
+22 22 13 14 Voltage
+9 9 22 23 Voltage | 9 9 22 23 Voltage
+1 1 25 28 Capacity
+6 6 11 14 Capacity
+3 3 19 22 Capacity
+10 10 16 17 Voltage
+12 12 24 25 Voltage | 14 14 24 25 Voltage | 14 14 24 25 Voltage
+5 5 36 37 Voltage
+1 1 30 31 Coulombic_Efficiency
+7 7 23 24 Coulombic_Efficiency
+12 12 32 33 Coulombic_Efficiency
+9 9 23 24 Voltage
+37 37 32 33 Voltage
+6 6 16 17 Voltage | 6 6 16 17 Voltage | 6 6 16 17 Voltage | 6 6 16 17 Voltage
+4 4 14 16 Energy
+2 2 21 22 Voltage
+25 25 27 28 Coulombic_Efficiency
+3 3 21 22 Voltage
+34 34 7 8 Voltage
+5 5 30 33 Capacity | 5 5 14 17 Capacity
+2 2 32 35 Capacity | 2 2 32 35 Capacity
+5 5 16 17 Voltage | 5 5 7 8 Voltage | 29 29 7 8 Voltage | 29 29 16 17 Voltage
+3 3 38 39 Coulombic_Efficiency
+13 13 5 8 Capacity
+38 38 43 44 Voltage
+25 25 12 13 Voltage
+17 17 6 7 Voltage
+11 11 14 17 Capacity
+37 37 11 14 Capacity
+10 10 16 19 Capacity | 10 10 30 31 Coulombic_Efficiency
+28 28 14 17 Capacity
+23 23 5 6 Voltage
+40 40 16 17 Voltage
+8 8 19 20 Voltage
+5 5 22 23 Voltage
+7 7 16 19 Capacity
+13 13 29 32 Capacity
+2 2 12 15 Capacity | 2 2 18 21 Capacity
+5 5 17 18 Voltage | 5 5 17 18 Voltage
+6 6 16 19 Capacity
+7 7 37 38 Voltage | 7 7 37 38 Voltage | 7 7 37 38 Voltage | 7 7 37 38 Voltage | 7 7 37 38 Voltage
+6 6 16 17 Voltage
+9 9 11 14 Capacity
+25 25 10 11 Voltage | 31 31 10 11 Voltage
+33 33 11 12 Voltage
+23 23 36 37 Voltage
+5 5 42 43 Voltage | 27 27 42 43 Voltage
+23 23 11 12 Voltage
+7 7 21 22 Voltage
+17 17 8 9 Voltage
+5 5 15 16 Voltage | 5 5 26 27 Voltage | 5 5 32 33 Voltage
+6 6 17 18 Voltage | 6 6 10 11 Voltage
+17 17 9 10 Voltage
+3 3 13 14 Voltage
+24 24 11 14 Capacity
+11 11 21 22 Voltage | 14 14 21 22 Voltage
+3 3 14 15 Voltage | 3 3 14 15 Voltage
+14 14 43 44 Coulombic_Efficiency
+29 29 6 7 Voltage
+10 10 17 18 Voltage
+0 0 7 8 Voltage
+4 4 20 21 Voltage | 33 33 20 21 Voltage
+17 17 11 12 Voltage | 31 31 11 12 Voltage
+30 30 22 23 Voltage
+12 12 20 23 Capacity
+7 7 21 22 Coulombic_Efficiency
+1 1 33 34 Coulombic_Efficiency
+14 14 25 26 Voltage
+36 36 28 29 Coulombic_Efficiency
+6 6 10 11 Coulombic_Efficiency
+14 14 5 6 Voltage
+3 3 22 23 Coulombic_Efficiency | 3 3 36 37 Coulombic_Efficiency
+36 36 16 19 Capacity
+9 9 6 7 Voltage | 15 15 6 7 Voltage | 21 21 6 7 Voltage
+31 31 15 16 Voltage
+1 1 18 19 Voltage
+5 5 15 16 Voltage | 5 5 39 40 Voltage
+0 0 21 24 Capacity | 0 0 21 24 Capacity
+7 7 13 16 Capacity | 7 7 18 21 Capacity
+15 15 6 9 Capacity
+10 10 19 22 Capacity
+1 1 10 13 Capacity
+9 9 22 23 Voltage | 9 9 22 23 Voltage
+6 6 14 15 Voltage | 6 6 14 15 Voltage
+16 16 7 10 Capacity
+15 15 7 10 Capacity
+2 2 19 22 Capacity
+15 15 29 32 Capacity | 15 15 23 26 Capacity | 17 17 23 26 Capacity | 17 17 29 32 Capacity
+42 42 36 37 Voltage | 42 42 36 37 Voltage
+21 21 15 16 Voltage
+9 9 37 38 Voltage
+2 2 12 13 Coulombic_Efficiency
+6 6 11 14 Capacity | 6 6 11 14 Capacity
+0 0 21 22 Voltage
+34 34 5 8 Capacity | 34 34 22 25 Capacity
+33 33 14 17 Capacity
+200 200 250 253 Capacity | 209 209 294 297 Capacity
+5 5 30 33 Capacity
+26 26 11 14 Capacity | 26 26 29 32 Capacity
+15 15 27 28 Voltage | 17 17 27 28 Voltage | 17 17 45 46 Voltage | 17 17 27 28 Voltage | 17 17 45 46 Voltage
+10 10 12 13 Voltage | 10 10 22 23 Voltage | 20 20 22 23 Voltage
+12 12 27 28 Voltage
+1 1 8 9 Coulombic_Efficiency
+0 0 9 10 Voltage | 26 26 9 10 Voltage | 28 28 9 10 Voltage
+14 14 43 44 Voltage | 14 14 43 44 Voltage
+2 2 15 16 Voltage | 2 2 18 19 Voltage | 4 4 18 19 Voltage | 4 4 15 16 Voltage
+29 29 36 37 Voltage
+63 63 56 57 Voltage | 63 63 149 150 Voltage | 63 63 73 74 Voltage | 63 63 56 57 Voltage | 63 63 149 150 Voltage | 63 63 73 74 Voltage
+4 4 33 34 Coulombic_Efficiency | 4 4 36 37 Coulombic_Efficiency | 4 4 33 34 Coulombic_Efficiency | 4 4 36 37 Coulombic_Efficiency
+9 9 26 27 Voltage
+3 3 14 15 Voltage
+6 6 18 21 Capacity
+6 6 14 15 Voltage | 6 6 14 15 Voltage | 6 6 14 15 Voltage
+1 1 14 15 Voltage
+7 7 21 22 Voltage | 7 7 30 31 Voltage | 7 7 21 22 Voltage | 7 7 30 31 Voltage
+0 0 18 19 Voltage
+33 33 18 19 Voltage | 35 35 18 19 Voltage
+42 42 7 10 Capacity
+65 65 49 52 Capacity
+5 5 8 9 Voltage
+14 14 37 38 Voltage
+4 4 35 36 Voltage | 8 8 35 36 Voltage
+31 31 35 36 Voltage | 31 31 38 39 Voltage
+18 18 5 6 Coulombic_Efficiency | 18 18 5 6 Coulombic_Efficiency | 18 18 5 6 Coulombic_Efficiency
+7 7 19 20 Voltage
+9 9 26 29 Capacity | 9 9 16 19 Capacity
+2 2 29 30 Coulombic_Efficiency
+7 7 22 23 Voltage | 7 7 22 23 Voltage
+21 21 12 13 Voltage
+8 8 34 35 Coulombic_Efficiency
+7 7 31 32 Voltage | 7 7 31 32 Voltage | 7 7 31 32 Voltage
+10 10 21 22 Voltage
+0 0 11 12 Voltage | 0 0 15 16 Voltage
+30 30 10 11 Voltage
+4 4 15 16 Voltage
+12 12 20 22 Energy
+5 5 15 18 Capacity
+1 1 26 29 Capacity | 1 1 8 11 Capacity | 1 1 40 43 Capacity | 1 1 26 29 Capacity | 1 1 8 11 Capacity | 1 1 40 43 Capacity | 1 1 26 29 Capacity | 1 1 8 11 Capacity | 1 1 40 43 Capacity | 1 1 26 29 Capacity | 1 1 8 11 Capacity | 1 1 40 43 Capacity
+33 33 20 21 Voltage
+0 0 19 20 Voltage | 0 0 19 20 Voltage
+1 1 15 16 Voltage
+7 7 37 38 Voltage
+10 10 18 19 Voltage
+14 14 24 27 Capacity
+5 5 26 29 Capacity
+4 4 37 38 Coulombic_Efficiency
+11 11 34 35 Coulombic_Efficiency | 11 11 13 16 Capacity | 11 11 19 22 Capacity
+9 9 15 18 Capacity
+5 5 12 15 Capacity
+4 4 28 31 Capacity
+13 13 7 8 Voltage
+3 3 14 15 Voltage
+42 42 21 22 Voltage
+20 20 4 5 Voltage | 27 27 4 5 Voltage
+3 3 15 16 Voltage | 3 3 21 22 Voltage | 34 34 21 22 Voltage
+12 12 20 21 Voltage
+7 7 27 28 Voltage
+24 24 7 8 Voltage
+12 12 9 10 Voltage
+8 8 26 27 Voltage | 8 8 18 19 Voltage
+5 5 23 24 Voltage
+24 24 7 8 Voltage
+17 17 10 11 Voltage
+82 82 96 97 Voltage | 82 82 96 97 Voltage | 82 82 96 97 Voltage | 82 82 96 97 Voltage
+9 9 24 25 Voltage | 29 29 24 25 Voltage
+19 19 11 12 Voltage
+29 29 24 25 Voltage | 29 29 14 15 Voltage
+11 11 19 20 Voltage | 11 11 19 20 Voltage
+13 13 30 31 Coulombic_Efficiency
+2 2 13 14 Coulombic_Efficiency
+5 5 14 15 Voltage
+1 1 9 12 Capacity
+5 5 31 32 Voltage | 5 5 31 32 Voltage | 5 5 31 32 Voltage
+9 9 44 45 Voltage | 9 9 44 45 Voltage | 9 9 44 45 Voltage
+13 13 23 24 Voltage
+23 23 6 7 Voltage
+38 38 35 36 Voltage
+3 3 21 22 Voltage | 34 34 21 22 Voltage
+5 5 22 23 Voltage | 5 5 19 20 Voltage
+10 10 25 26 Voltage | 10 10 22 23 Voltage | 31 31 25 26 Voltage | 31 31 22 23 Voltage
+25 25 12 13 Voltage | 25 25 9 10 Voltage
+1 1 25 26 Voltage
+1 1 29 30 Coulombic_Efficiency
+1 1 32 33 Voltage | 1 1 32 33 Voltage
+8 8 22 23 Voltage
+7 7 18 19 Voltage
+23 23 9 10 Voltage
+3 3 35 36 Coulombic_Efficiency
+3 3 35 36 Coulombic_Efficiency
+14 14 30 31 Voltage | 16 16 30 31 Voltage
+24 24 26 29 Capacity | 24 24 18 21 Capacity
+8 8 10 13 Capacity
+3 3 11 14 Capacity
+40 40 12 13 Voltage | 40 40 35 36 Voltage
+21 21 6 7 Voltage
+5 5 36 39 Capacity | 5 5 36 39 Capacity
+1 1 24 27 Capacity | 1 1 24 27 Capacity
+2 2 11 12 Coulombic_Efficiency
+9 9 19 20 Voltage
+30 30 20 21 Voltage
+9 9 16 17 Voltage
+1 1 37 38 Coulombic_Efficiency
+1 1 16 17 Voltage
+14 14 37 38 Voltage | 14 14 37 38 Voltage | 42 42 37 38 Voltage
+1 1 11 13 Energy | 1 1 27 29 Energy
+7 7 36 38 Energy | 7 7 36 38 Energy | 7 7 36 38 Energy
+7 7 9 10 Voltage
+5 5 28 29 Voltage
+11 11 32 33 Voltage
+26 26 11 14 Capacity | 26 26 20 23 Capacity
+3 3 23 24 Voltage
+3 3 20 23 Capacity
+5 5 28 29 Voltage | 7 7 28 29 Voltage | 7 7 28 29 Voltage
+12 12 21 22 Voltage | 12 12 30 31 Voltage
+2 2 21 24 Capacity | 2 2 10 13 Capacity
+2 2 14 17 Capacity
+5 5 34 35 Voltage
+9 9 31 33 Energy | 9 9 31 33 Energy
+6 6 18 19 Coulombic_Efficiency
+6 6 68 71 Capacity | 6 6 68 71 Capacity
+21 21 11 12 Coulombic_Efficiency | 21 21 11 12 Coulombic_Efficiency
+10 10 22 23 Voltage
+6 6 21 22 Coulombic_Efficiency | 6 6 42 43 Coulombic_Efficiency | 6 6 21 22 Coulombic_Efficiency | 6 6 42 43 Coulombic_Efficiency
+4 4 15 16 Voltage
+0 0 7 10 Capacity
+0 0 7 10 Capacity
+3 3 11 12 Voltage | 3 3 18 19 Voltage
+24 24 42 43 Voltage
+2 2 32 33 Voltage | 4 4 32 33 Voltage | 2 2 32 33 Voltage | 4 4 32 33 Voltage
+5 5 22 23 Coulombic_Efficiency | 5 5 14 15 Coulombic_Efficiency
+5 5 28 29 Voltage
+4 4 40 41 Voltage | 4 4 18 19 Voltage | 24 24 18 19 Voltage | 24 24 40 41 Voltage | 46 46 18 19 Voltage
+9 9 34 35 Voltage
+45 45 35 36 Voltage | 45 45 28 29 Voltage
+13 13 18 19 Voltage
+3 3 24 27 Capacity
+7 7 20 21 Voltage | 7 7 17 18 Voltage
+32 32 12 13 Voltage | 47 47 12 13 Voltage
+2 2 10 11 Voltage
+0 0 10 11 Voltage
+0 0 56 57 Voltage | 15 15 56 57 Voltage | 0 0 56 57 Voltage | 0 0 56 57 Voltage | 105 105 56 57 Voltage | 0 0 56 57 Voltage | 0 0 56 57 Voltage | 0 0 56 57 Voltage
+21 21 7 10 Capacity
+1 1 7 10 Capacity
+5 5 22 23 Coulombic_Efficiency | 5 5 22 23 Coulombic_Efficiency | 5 5 22 23 Coulombic_Efficiency
+1 1 13 14 Voltage
+7 7 10 11 Coulombic_Efficiency
+8 8 22 23 Voltage | 8 8 22 23 Voltage
+2 2 24 25 Voltage
+2 2 12 13 Voltage
+4 4 8 9 Voltage | 4 4 16 17 Voltage
+17 17 13 14 Voltage
+10 10 12 13 Voltage
+7 7 14 15 Voltage
+16 16 9 10 Voltage
+25 25 11 12 Voltage
+2 2 29 30 Coulombic_Efficiency | 2 2 9 12 Capacity | 2 2 18 21 Capacity
+6 6 9 12 Capacity
+7 7 14 17 Capacity
+3 3 10 13 Capacity
+13 13 16 17 Voltage | 19 19 16 17 Voltage
+22 22 6 7 Voltage | 22 22 6 7 Voltage
+22 22 33 34 Voltage | 42 42 33 34 Voltage
+27 27 16 17 Voltage
+15 15 40 41 Voltage | 15 15 19 20 Voltage | 32 32 40 41 Voltage | 32 32 19 20 Voltage
+42 42 48 51 Capacity | 42 42 48 51 Capacity
+4 4 17 18 Voltage
+31 31 5 8 Capacity
+8 8 22 25 Capacity
+29 29 34 35 Coulombic_Efficiency
+10 10 41 44 Capacity
+11 11 16 17 Coulombic_Efficiency
+1 1 9 12 Capacity
+1 1 22 25 Capacity | 1 1 40 41 Coulombic_Efficiency
+11 11 19 22 Capacity
+22 22 11 12 Voltage
+3 3 11 14 Capacity | 3 3 33 34 Coulombic_Efficiency
+4 4 13 14 Voltage
+15 15 9 10 Voltage | 15 15 22 23 Voltage | 17 17 9 10 Voltage | 17 17 22 23 Voltage | 17 17 9 10 Voltage | 17 17 22 23 Voltage
+0 0 7 8 Voltage
+23 23 30 31 Voltage | 23 23 11 12 Voltage
+15 15 23 26 Capacity
+4 4 27 28 Coulombic_Efficiency
+3 3 10 11 Voltage | 28 28 10 11 Voltage
+27 27 53 54 Voltage
+13 13 19 20 Coulombic_Efficiency
+6 6 20 21 Coulombic_Efficiency | 6 6 23 24 Coulombic_Efficiency | 6 6 17 18 Coulombic_Efficiency | 6 6 20 21 Coulombic_Efficiency | 6 6 23 24 Coulombic_Efficiency | 6 6 17 18 Coulombic_Efficiency
+7 7 12 13 Coulombic_Efficiency
+10 10 30 31 Voltage | 10 10 30 31 Voltage
+16 16 13 14 Coulombic_Efficiency
+20 20 8 9 Voltage
+8 8 27 28 Voltage
+20 20 10 11 Voltage | 20 20 28 29 Voltage | 22 22 28 29 Voltage | 22 22 10 11 Voltage
+14 14 22 23 Coulombic_Efficiency
+9 9 33 36 Capacity | 9 9 33 36 Capacity
+9 9 33 36 Capacity | 9 9 18 21 Capacity
+1 1 32 35 Capacity | 1 1 32 35 Capacity
+0 0 18 20 Conductivity | 0 0 18 20 Conductivity
+7 7 14 15 Coulombic_Efficiency
+3 3 5 8 Capacity | 3 3 23 26 Capacity | 3 3 5 8 Capacity | 3 3 23 26 Capacity
+19 19 12 14 Conductivity
+5 5 25 27 Conductivity | 5 5 25 27 Conductivity
+33 33 36 38 Conductivity
+10 10 22 24 Energy
+27 27 8 10 Energy
+11 11 20 22 Energy | 11 11 16 18 Energy
+5 5 20 23 Capacity
+3 3 10 13 Capacity
+3 3 27 28 Coulombic_Efficiency
+7 7 39 40 Coulombic_Efficiency
+13 13 19 20 Coulombic_Efficiency
+14 14 18 21 Capacity
+7 7 25 28 Capacity
+17 17 35 38 Capacity | 17 17 7 10 Capacity | 17 17 35 38 Capacity | 17 17 7 10 Capacity
+1 1 16 18 Energy | 1 1 16 18 Energy | 1 1 16 18 Energy
+4 4 22 24 Energy
+0 0 29 30 Coulombic_Efficiency
+12 12 28 29 Coulombic_Efficiency | 12 12 28 29 Coulombic_Efficiency
+40 40 31 33 Energy
+3 3 18 19 Coulombic_Efficiency
+7 7 20 21 Coulombic_Efficiency
+16 16 21 23 Conductivity
+23 23 20 21 Coulombic_Efficiency
+2 2 19 20 Coulombic_Efficiency
+2 2 19 20 Coulombic_Efficiency
+3 3 26 28 Conductivity | 3 3 26 28 Conductivity | 3 3 26 28 Conductivity
+3 3 27 29 Conductivity | 3 3 27 29 Conductivity | 3 3 27 29 Conductivity
+4 4 42 44 Conductivity
+47 47 13 15 Conductivity
+8 8 15 18 Capacity
+23 23 12 15 Capacity
+0 0 12 14 Energy
+1 1 36 39 Capacity
+6 6 9 10 Coulombic_Efficiency
+37 37 3 4 Coulombic_Efficiency | 37 37 18 19 Coulombic_Efficiency
+16 16 38 41 Capacity | 16 16 38 41 Capacity
+2 2 8 11 Capacity
+12 12 24 26 Energy | 12 12 24 26 Energy
+2 2 14 16 Energy
+4 4 35 37 Energy | 4 4 11 13 Energy | 4 4 35 37 Energy | 4 4 11 13 Energy
+6 6 39 41 Energy | 6 6 18 20 Energy | 6 6 39 41 Energy | 6 6 18 20 Energy
+7 7 43 44 Coulombic_Efficiency
+6 6 56 58 Conductivity | 6 6 28 30 Conductivity | 24 24 14 16 Conductivity | 6 6 56 58 Conductivity | 6 6 28 30 Conductivity | 6 6 56 58 Conductivity | 6 6 28 30 Conductivity
+3 3 15 18 Capacity | 3 3 15 18 Capacity
+5 5 22 25 Capacity | 5 5 22 25 Capacity
+17 17 30 33 Capacity | 17 17 9 12 Capacity | 17 17 30 33 Capacity | 17 17 9 12 Capacity
+2 2 23 26 Capacity
+7 7 11 12 Coulombic_Efficiency
+7 7 20 23 Capacity
+11 11 25 26 Coulombic_Efficiency
+5 5 22 24 Conductivity
+15 15 22 24 Conductivity
+8 8 20 23 Capacity | 8 8 20 23 Capacity
+2 2 20 23 Capacity
+20 20 26 29 Capacity | 20 20 26 29 Capacity
+18 18 26 27 Coulombic_Efficiency
+78 78 85 87 Conductivity | 78 78 85 87 Conductivity
+1 1 18 20 Conductivity
+9 9 15 16 Coulombic_Efficiency
+4 4 18 21 Capacity
+3 3 48 51 Capacity | 3 3 48 51 Capacity
+12 12 21 24 Capacity
+3 3 12 15 Capacity
+6 6 13 16 Capacity
+8 8 27 28 Coulombic_Efficiency
+13 13 16 18 Energy
+8 8 10 11 Coulombic_Efficiency
+7 7 23 24 Coulombic_Efficiency
+12 12 20 23 Capacity
+1 1 19 22 Capacity | 1 1 19 22 Capacity | 1 1 19 22 Capacity
+6 6 16 17 Coulombic_Efficiency | 6 6 19 20 Coulombic_Efficiency
+5 5 16 18 Conductivity
+6 6 14 17 Capacity
+20 20 44 45 Coulombic_Efficiency
+35 35 22 25 Capacity
+3 3 49 50 Coulombic_Efficiency
+8 8 15 16 Coulombic_Efficiency
+4 4 21 22 Coulombic_Efficiency
+25 25 16 19 Capacity
+4 4 23 26 Capacity
+10 10 18 21 Capacity
+8 8 18 19 Coulombic_Efficiency | 8 8 18 19 Coulombic_Efficiency
+4 4 32 35 Capacity | 4 4 20 23 Capacity | 28 28 20 23 Capacity | 28 28 32 35 Capacity
+43 43 20 21 Coulombic_Efficiency
+3 3 18 19 Coulombic_Efficiency
+7 7 32 33 Coulombic_Efficiency
+8 8 22 25 Capacity
+0 0 20 22 Conductivity | 0 0 20 22 Conductivity
+5 5 15 18 Capacity
+5 5 15 18 Capacity
+5 5 16 19 Capacity
+22 22 34 37 Capacity | 22 22 5 8 Capacity | 22 22 34 37 Capacity | 22 22 5 8 Capacity | 22 22 34 37 Capacity | 22 22 5 8 Capacity | 22 22 34 37 Capacity | 22 22 5 8 Capacity
+9 9 27 30 Capacity
+19 19 33 35 Energy
+7 7 73 75 Energy
+9 9 16 17 Coulombic_Efficiency
+4 4 19 20 Coulombic_Efficiency | 4 4 16 17 Coulombic_Efficiency | 4 4 19 20 Coulombic_Efficiency | 4 4 16 17 Coulombic_Efficiency
+0 0 35 37 Energy
+28 28 12 14 Energy
+2 2 24 25 Coulombic_Efficiency
+2 2 24 25 Coulombic_Efficiency
+14 14 6 7 Coulombic_Efficiency
+4 4 10 13 Capacity
+9 9 14 16 Energy
+2 2 9 12 Capacity
+5 5 12 14 Energy | 5 5 35 37 Energy | 5 5 12 14 Energy | 5 5 35 37 Energy
+10 10 16 17 Coulombic_Efficiency
+11 11 17 20 Capacity
+10 10 28 31 Capacity | 10 10 28 31 Capacity
+21 21 29 32 Capacity
+6 6 19 22 Capacity
+21 21 7 8 Coulombic_Efficiency
+5 5 21 23 Energy
+29 29 14 17 Capacity
+1 1 18 21 Capacity | 1 1 18 21 Capacity
+6 6 8 11 Capacity
+28 28 6 9 Capacity
+1 1 9 10 Coulombic_Efficiency
+18 18 39 40 Coulombic_Efficiency
+8 8 22 24 Conductivity
+32 32 11 12 Coulombic_Efficiency
+8 8 29 30 Coulombic_Efficiency
+1 1 11 14 Capacity | 1 1 11 14 Capacity
+2 2 21 22 Coulombic_Efficiency
+2 2 22 23 Coulombic_Efficiency
+9 9 23 24 Coulombic_Efficiency
+7 7 11 14 Capacity | 7 7 22 23 Coulombic_Efficiency
+1 1 23 26 Capacity
+37 37 22 25 Capacity
+5 5 28 30 Energy
+18 18 9 12 Capacity
+4 4 16 17 Coulombic_Efficiency
+6 6 13 14 Coulombic_Efficiency
+28 28 9 10 Coulombic_Efficiency | 28 28 12 13 Coulombic_Efficiency
+13 13 32 34 Energy
+3 3 11 12 Coulombic_Efficiency
+9 9 17 20 Capacity
+26 26 31 33 Energy | 43 43 36 38 Energy | 43 43 31 33 Energy
+28 28 8 10 Conductivity
+3 3 10 11 Coulombic_Efficiency
+5 5 21 23 Energy | 5 5 21 23 Energy
+5 5 20 22 Energy
+30 30 21 23 Energy
+9 9 27 29 Energy
+1 1 6 9 Capacity
+9 9 11 14 Capacity
+16 16 7 10 Capacity
+8 8 10 11 Coulombic_Efficiency
+17 17 37 40 Capacity | 17 17 37 40 Capacity
+8 8 32 33 Coulombic_Efficiency
+8 8 12 15 Capacity
+18 18 9 11 Energy | 18 18 9 11 Energy
+1 1 15 18 Capacity
+4 4 23 24 Voltage | 4 4 31 33 Energy | 4 4 23 24 Voltage | 4 4 31 33 Energy
+4 4 23 24 Voltage | 4 4 31 33 Energy | 4 4 23 24 Voltage | 4 4 31 33 Energy
+22 22 14 15 Coulombic_Efficiency
+9 9 17 20 Capacity | 9 9 17 20 Capacity
+31 31 20 23 Capacity
+3 3 11 13 Energy
+35 35 30 32 Conductivity
+12 12 22 25 Capacity
+7 7 38 39 Coulombic_Efficiency
+3 3 25 26 Coulombic_Efficiency
+4 4 13 14 Coulombic_Efficiency | 23 23 16 17 Coulombic_Efficiency | 23 23 13 14 Coulombic_Efficiency
+4 4 24 25 Voltage | 6 6 24 25 Voltage | 6 6 49 51 Energy
+4 4 24 25 Voltage | 6 6 24 25 Voltage | 6 6 49 51 Energy
+14 14 7 8 Coulombic_Efficiency
+35 35 25 27 Energy
+9 9 16 19 Capacity | 9 9 37 40 Capacity | 9 9 16 19 Capacity | 9 9 37 40 Capacity
+5 5 20 23 Capacity | 5 5 20 23 Capacity
+0 0 17 18 Coulombic_Efficiency
+14 14 28 29 Coulombic_Efficiency
+1 1 18 19 Coulombic_Efficiency
+7 7 33 34 Coulombic_Efficiency
+7 7 13 16 Capacity
+1 1 8 9 Coulombic_Efficiency
+6 6 8 11 Capacity | 20 20 22 25 Capacity
+47 47 7 8 Coulombic_Efficiency
+3 3 18 20 Energy
+0 0 17 18 Coulombic_Efficiency
+26 26 12 15 Capacity
+7 7 27 30 Capacity
+38 38 19 22 Capacity | 38 38 13 16 Capacity
+4 4 22 24 Energy
+3 3 15 18 Capacity
+2 2 18 21 Capacity
+26 26 10 12 Conductivity
+11 11 21 23 Energy | 11 11 21 23 Energy
+26 26 18 21 Capacity
+4 4 29 31 Energy
+5 5 11 13 Conductivity | 5 5 20 22 Conductivity | 5 5 11 13 Conductivity | 5 5 20 22 Conductivity
+1 1 13 15 Energy
+10 10 27 30 Capacity | 10 10 27 30 Capacity
+4 4 20 23 Capacity
+2 2 20 23 Capacity
+7 7 30 31 Coulombic_Efficiency | 7 7 30 31 Coulombic_Efficiency
+3 3 33 34 Coulombic_Efficiency
+24 24 27 30 Capacity | 24 24 11 14 Capacity
+27 27 30 33 Capacity | 27 27 13 16 Capacity
+8 8 27 28 Coulombic_Efficiency
+28 28 22 25 Capacity
+7 7 30 31 Coulombic_Efficiency | 7 7 30 31 Coulombic_Efficiency
+3 3 33 34 Coulombic_Efficiency
+25 25 28 31 Capacity | 25 25 11 14 Capacity
+7 7 14 17 Capacity
+8 8 27 28 Coulombic_Efficiency
+13 13 29 30 Coulombic_Efficiency
+41 41 20 21 Coulombic_Efficiency
+4 4 19 20 Coulombic_Efficiency | 4 4 28 29 Coulombic_Efficiency
+4 4 20 21 Coulombic_Efficiency | 4 4 29 30 Coulombic_Efficiency
+1 1 28 30 Energy
+2 2 8 11 Capacity
+1 1 15 18 Capacity | 1 1 15 18 Capacity
+6 6 34 37 Capacity | 6 6 34 37 Capacity
+10 10 15 18 Capacity
+11 11 14 17 Capacity
+1 1 18 19 Coulombic_Efficiency | 1 1 18 19 Coulombic_Efficiency
+8 8 19 22 Capacity
+12 12 20 21 Coulombic_Efficiency
+6 6 9 12 Capacity
+19 19 37 38 Coulombic_Efficiency
+36 36 27 28 Coulombic_Efficiency
+9 9 28 29 Coulombic_Efficiency
+33 33 13 15 Conductivity | 33 33 50 52 Conductivity
+8 8 27 30 Capacity | 8 8 27 30 Capacity
+6 6 13 16 Capacity
+10 10 32 33 Coulombic_Efficiency | 10 10 32 33 Coulombic_Efficiency
+8 8 31 32 Voltage | 8 8 23 25 Energy | 8 8 31 32 Voltage | 8 8 23 25 Energy
+10 10 33 34 Coulombic_Efficiency
+10 10 33 34 Coulombic_Efficiency
+3 3 15 16 Coulombic_Efficiency | 3 3 12 13 Coulombic_Efficiency | 3 3 15 16 Coulombic_Efficiency | 3 3 12 13 Coulombic_Efficiency
+13 13 22 25 Capacity
+3 3 12 15 Capacity | 3 3 34 37 Capacity
+22 22 9 12 Capacity | 22 22 24 27 Capacity
+1 1 12 13 Coulombic_Efficiency
+7 7 29 30 Coulombic_Efficiency
+7 7 28 29 Coulombic_Efficiency
+7 7 22 23 Coulombic_Efficiency
+11 11 25 28 Capacity | 11 11 37 40 Capacity | 17 17 37 40 Capacity | 11 11 25 28 Capacity | 11 11 37 40 Capacity | 17 17 37 40 Capacity
+2 2 18 21 Capacity | 2 2 35 38 Capacity | 2 2 18 21 Capacity | 2 2 35 38 Capacity | 2 2 18 21 Capacity | 2 2 35 38 Capacity | 2 2 18 21 Capacity | 2 2 35 38 Capacity
+34 34 18 21 Capacity | 34 34 18 21 Capacity | 34 34 18 21 Capacity | 34 34 18 21 Capacity
+1 1 37 38 Coulombic_Efficiency
+3 3 29 30 Coulombic_Efficiency
+3 3 29 30 Coulombic_Efficiency
+1 1 33 34 Coulombic_Efficiency
+2 2 19 21 Energy
+2 2 10 13 Capacity
+5 5 12 15 Capacity
+3 3 11 14 Capacity
+2 2 32 33 Coulombic_Efficiency
+2 2 21 22 Coulombic_Efficiency
+21 21 7 10 Capacity | 21 21 24 27 Capacity
+10 10 29 30 Coulombic_Efficiency | 10 10 26 27 Coulombic_Efficiency
+2 2 9 12 Capacity
+6 6 25 26 Coulombic_Efficiency
+22 22 9 12 Capacity
+34 34 8 11 Capacity
+1 1 9 11 Energy
+4 4 6 8 Energy | 4 4 14 16 Energy | 12 12 14 16 Energy | 33 33 35 37 Energy
+13 13 20 22 Energy | 13 13 20 22 Energy
+1 1 14 17 Capacity
+3 3 42 45 Capacity | 3 3 42 45 Capacity | 3 3 42 45 Capacity
+3 3 42 45 Capacity | 3 3 42 45 Capacity | 3 3 42 45 Capacity
+5 5 17 18 Coulombic_Efficiency
+10 10 16 17 Coulombic_Efficiency
+8 8 29 32 Capacity
+7 7 15 17 Energy
+27 27 8 11 Capacity
+1 1 7 10 Capacity
+12 12 47 48 Coulombic_Efficiency | 12 12 41 42 Coulombic_Efficiency | 12 12 47 48 Coulombic_Efficiency | 12 12 41 42 Coulombic_Efficiency
+3 3 14 17 Capacity
+5 5 10 13 Capacity
+2 2 11 14 Capacity
+3 3 19 22 Capacity | 3 3 19 22 Capacity
+14 14 21 24 Capacity
+15 15 25 28 Capacity
+17 17 11 14 Capacity | 25 25 19 22 Capacity
+3 3 12 13 Coulombic_Efficiency
+19 19 11 14 Capacity | 41 41 35 38 Capacity
+6 6 3 4 Coulombic_Efficiency
+28 28 24 25 Voltage | 28 28 13 16 Capacity
+5 5 26 29 Capacity | 24 24 26 29 Capacity
+3 3 26 29 Capacity | 3 3 17 20 Capacity
+6 6 47 48 Coulombic_Efficiency
+52 52 62 64 Conductivity
+4 4 26 28 Conductivity | 4 4 26 28 Conductivity
+28 28 38 40 Conductivity
+23 23 19 20 Coulombic_Efficiency | 23 23 19 20 Coulombic_Efficiency
+4 4 12 15 Capacity
+4 4 38 39 Coulombic_Efficiency
+6 6 38 39 Coulombic_Efficiency
+3 3 24 25 Coulombic_Efficiency
+10 10 40 41 Coulombic_Efficiency
+8 8 10 11 Coulombic_Efficiency
+2 2 23 26 Capacity
+4 4 10 13 Capacity | 4 4 20 21 Coulombic_Efficiency
+5 5 16 19 Capacity
+14 14 31 34 Capacity
+8 8 33 34 Coulombic_Efficiency
+4 4 40 43 Capacity
+15 15 25 28 Capacity
+4 4 20 23 Capacity
+4 4 19 22 Capacity | 4 4 43 46 Capacity | 4 4 19 22 Capacity | 4 4 43 46 Capacity | 4 4 19 22 Capacity | 4 4 43 46 Capacity
+7 7 10 11 Coulombic_Efficiency
+5 5 20 23 Capacity
+44 44 31 33 Energy
+2 2 9 12 Capacity
+5 5 12 15 Capacity
+28 28 9 10 Coulombic_Efficiency
+27 27 7 8 Coulombic_Efficiency
+7 7 14 17 Capacity
+7 7 14 17 Capacity
+2 2 27 30 Capacity | 2 2 43 46 Capacity
+3 3 35 38 Capacity
+4 4 32 35 Capacity
+10 10 54 56 Energy | 10 10 54 56 Energy
+8 8 53 55 Energy
+25 25 22 23 Coulombic_Efficiency
+19 19 38 39 Coulombic_Efficiency | 19 19 38 39 Coulombic_Efficiency
+1 1 35 36 Coulombic_Efficiency
+3 3 13 14 Coulombic_Efficiency
+14 14 16 19 Capacity
+22 22 33 36 Capacity | 22 22 43 46 Capacity
+15 15 20 23 Capacity
+6 6 19 22 Capacity
+5 5 20 23 Capacity
+2 2 17 20 Capacity
+3 3 12 15 Capacity | 3 3 12 15 Capacity
+22 22 6 9 Capacity
+5 5 12 15 Capacity | 5 5 28 31 Capacity
+5 5 34 37 Capacity | 5 5 34 37 Capacity | 5 5 34 37 Capacity | 5 5 34 37 Capacity
+27 27 11 14 Capacity
+4 4 12 15 Capacity
+9 9 16 17 Coulombic_Efficiency
+1 1 11 14 Capacity
+1 1 11 14 Capacity
+4 4 37 40 Capacity
+12 12 27 30 Capacity
+1 1 9 12 Capacity
+5 5 11 13 Energy
+8 8 18 20 Energy
+5 5 14 17 Capacity
+1 1 26 29 Capacity
+8 8 24 25 Coulombic_Efficiency
+39 39 72 73 Coulombic_Efficiency
+0 0 28 31 Capacity | 0 0 6 9 Capacity | 38 38 28 31 Capacity
+1 1 9 11 Energy
+27 27 15 16 Coulombic_Efficiency
+30 30 5 6 Coulombic_Efficiency | 30 30 21 22 Coulombic_Efficiency
+2 2 14 15 Coulombic_Efficiency | 2 2 14 15 Coulombic_Efficiency
+151 151 179 180 Voltage | 151 151 7 10 Capacity | 151 151 179 180 Voltage | 151 151 7 10 Capacity
+7 7 37 40 Capacity | 7 7 37 40 Capacity
+0 0 28 31 Capacity
+3 3 25 28 Capacity | 3 3 7 10 Capacity
+3 3 48 49 Coulombic_Efficiency | 3 3 48 49 Coulombic_Efficiency
+3 3 48 49 Coulombic_Efficiency | 3 3 48 49 Coulombic_Efficiency
+20 20 26 27 Coulombic_Efficiency
+9 9 43 44 Coulombic_Efficiency
+13 13 35 36 Coulombic_Efficiency
+10 10 12 15 Capacity | 10 10 18 21 Capacity
+9 9 14 15 Coulombic_Efficiency
+2 2 15 16 Coulombic_Efficiency | 2 2 15 16 Coulombic_Efficiency
+2 2 7 10 Capacity | 2 2 7 10 Capacity
+7 7 15 18 Capacity | 7 7 9 12 Capacity
+1 1 13 16 Capacity | 1 1 13 16 Capacity
+1 1 13 16 Capacity
+1 1 18 19 Coulombic_Efficiency
+8 8 26 27 Coulombic_Efficiency
+5 5 32 33 Coulombic_Efficiency
+32 32 35 38 Capacity
+33 33 36 39 Capacity
+21 21 24 27 Capacity
+25 25 28 31 Capacity
+31 31 33 34 Coulombic_Efficiency | 31 31 33 34 Coulombic_Efficiency
+41 41 11 12 Coulombic_Efficiency | 41 41 35 36 Coulombic_Efficiency
+13 13 34 35 Coulombic_Efficiency
+5 5 26 29 Capacity
+5 5 20 23 Capacity
+33 33 27 28 Coulombic_Efficiency
+30 30 32 35 Capacity
+4 4 13 16 Capacity
+11 11 13 16 Capacity
+3 3 11 14 Capacity
+7 7 28 29 Coulombic_Efficiency
+5 5 31 32 Coulombic_Efficiency
+15 15 19 20 Coulombic_Efficiency
+14 14 37 38 Coulombic_Efficiency
+6 6 16 19 Capacity | 6 6 16 19 Capacity
+46 46 24 25 Coulombic_Efficiency | 46 46 24 25 Coulombic_Efficiency
+25 25 14 15 Coulombic_Efficiency
+5 5 31 32 Coulombic_Efficiency | 5 5 34 35 Coulombic_Efficiency
+25 25 16 17 Coulombic_Efficiency
+7 7 10 13 Capacity | 7 7 33 36 Capacity
+7 7 10 13 Capacity | 7 7 34 37 Capacity
+32 32 11 14 Capacity
+4 4 21 24 Capacity
