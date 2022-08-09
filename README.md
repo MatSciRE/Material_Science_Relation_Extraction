@@ -141,7 +141,7 @@ Training the Joint Extraction Model(Pointer Network model over Structured_datase
             source_data_dir => should be the the folder created by user.
         Test model:
          "python3 ptrnet_decoder.py gpu_id random_seed source_data_dir target_data_dir test"
-        A file [w2v.txt](https://drive.google.com/file/d/1n8Vk8REdb7mFeRV6-2Io4_lZgSejJcFR/view?usp=sharing) containing the word embeddings should be taken as input.
+        A file [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing) containing the word embeddings should be taken as input.
             Please refer the following github page to understand more about how to train/test the model:-
                 https://github.com/nusnlp/PtrNetDecoding4JERE
                 
