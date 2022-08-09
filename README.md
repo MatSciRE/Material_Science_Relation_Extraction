@@ -60,6 +60,8 @@ The following import statements have been used.
 - nltk.download('averaged_perceptron_tagger')
 - from nltk.tokenize import SpaceTokenizer
 
+ A file [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing) containing the word embeddings should be taken as input.
+    
 
 How the Code works
 ---------------------------------------
@@ -121,8 +123,8 @@ Steps:
 
 Training the Joint Extraction Model(Pointer Network model over Structured_dataset.jsonl)
 =====================================================================
-    All files are present in the folder "MatSciRE/Material_Science_Relation_Extraction/code". A file [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing) containing the word embeddings should be taken as input.
-    
+    All files are present in the folder "MatSciRE/Material_Science_Relation_Extraction/code".
+   
     1. Divide the Structured_dataset.jsonl into train, dev and test sets
         run divide_dataset_in_dev_train_test.py :
             i.  Update the "input_filepath" to point to the "Structured_dataset.jsonl" file created in the previous section.
