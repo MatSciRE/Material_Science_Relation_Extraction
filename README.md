@@ -66,7 +66,7 @@ How the Code works
 Generating dictionary from triplets
 ========================================
 Input : 
-    1. Json dump([Battery.json] (https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)) 
+    1. Json dump([Battery.json](https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)) 
 
 Output : 
     A dictionary of triples of the form is generated:
