@@ -61,9 +61,9 @@ nltk.download('averaged_perceptron_tagger')
 from nltk.tokenize import SpaceTokenizer
 
 
-#How the Code works
+How the Code works
 ---------------------------------------
-#Generating dictionary from triplets
+Generating dictionary from triplets
 ========================================
 Input : 
     1. Json dump(Battery.json present at /home/samir-pg/Knowledge_Graph/Battery_DB) 
@@ -84,7 +84,7 @@ Steps :
          
         The pickle file contains the required dictionary.
 
-#Generating Structured Dataset
+Generating Structured Dataset
 =========================================
 Input : 
     1. A corpus of papers in pdf format
@@ -117,7 +117,7 @@ Convert pdf to json : Use science-parse to convert materials science research pa
  The final output would be a single file named "Structured_dataset.jsonl" in the same folder as "gen_structured_dataset.py"
         
 
-#Training the Joint Extraction Model(Pointer Network model over Structured_dataset.jsonl)
+Training the Joint Extraction Model(Pointer Network model over Structured_dataset.jsonl)
 =====================================================================
     All files are present in the folder "/home/samir-pg/Knowledge_Graph/Joint_Extraction_Model/Dataset_Creation_Related_Code"
     1. Divide the Structured_dataset.jsonl into train, dev and test sets
