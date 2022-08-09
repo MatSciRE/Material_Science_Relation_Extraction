@@ -11,15 +11,12 @@ The code has been run on two platforms: server and Google Colab pro.
 NVIDIA Tesla K40m GPU with 12
 GB RAM, 6 Gbps clock cycle and GDDR5 memory. All the methods took less than 4 GPU hours for training. In server, pre-processing and pointer-network model (without BERT). For running the BERT models, CUDA version V11.1.105 has been used. Pytorch needs to be used.
 
-Pytorch-transformers
-Recordclass
-
 The libraries can be installed with command - !pip install e.g. 
 
 - !pip install pytorch-transformers
 - !pip install recordclass
 
-The version of the packages are pytorch-transformers-1.2.0 and recordclass-0.17.2. After the following statements, the following packages are installed.
+The version of the packages are pytorch-transformers-1.2.0 and recordclass-0.17.2. The following packages are installed for our work.
 
 - boto3-1.24.32
 - botocore-1.27.32 
@@ -60,15 +57,14 @@ The following import statements have been used.
 - nltk.download('averaged_perceptron_tagger')
 - from nltk.tokenize import SpaceTokenizer
 
- A file [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing) containing the word embeddings should be taken as input.
-    
 
 How the Code works
 ---------------------------------------
 Generating dictionary from triplets
 ========================================
 Input : 
-    1. Json dump ([Battery.json](https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)) 
+    1. Json dump ([Battery.json](https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)). Input word embeddings [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing).
+    
 
 Output : 
     A dictionary of triples of the form is generated:
@@ -143,6 +139,7 @@ Training the Joint Extraction Model(Pointer Network model over Structured_datase
             source_data_dir => should be the the folder created by user.
         Test model:
          "python3 ptrnet_decoder.py gpu_id random_seed source_data_dir target_data_dir test"
+        The word embeddings from the file "w2v.txt" should be taken as input.
         Please refer the following github page to understand more about how to train/test the model:-
                 https://github.com/nusnlp/PtrNetDecoding4JERE
                 
