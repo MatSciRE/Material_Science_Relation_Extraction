@@ -1,0 +1,9 @@
+1|||Multivalent magnesium batteries are viable candidates for post Li-ion technology due to the high volumetric capacity of the Mg metal anode (3833 mAh cm-3), high natural abundance, good safety characteristics and low equilibrium potential (-2.31 V vs Hydrogen).|||Mg|||3833 mAh cm-3|||capacity
+
+2|||Since this is the first report on the magnesiation of amorphous V2O5-P2O5, we can only compare the initial discharge capacity to sputtered-V2O5 (180 mAh g-1), nanocrystalline V2O5 (180 mAh g-1), and the lithiation V2O5-P2O5 (>200 mAh g-1).|||V2O5|||180 mAh g-1|||capacity
+
+3|||Since this is the first report on the magnesiation of amorphous V2O5-P2O5, we can only compare the initial discharge capacity to sputtered-V2O5 (180 mAh g-1), nanocrystalline V2O5 (180 mAh g-1), and the lithiation V2O5-P2O5 (>200 mAh g-1).|||V2O5-P2O5|||200 mAh g-1|||capacity
+
+4|||The improved electrochemical activity due to the amorphization of the parent structure is further highlighted by the electrical conductivity of the 75:25 V2O5-P2O5 (1.7 * 10^-8 S cm-1 @ 25 oC) in comparison to crystalline V2O5 (1.1 * 10^-5 S cm-1 @ 25 oC).|||V2O5-P2O5|||1.7 * 10^-8 S cm-1|||conductivity
+
+5|||The improved electrochemical activity due to the amorphization of the parent structure is further highlighted by the electrical conductivity of the 75:25 V2O5-P2O5 (1.7 * 10^-8 S cm-1 @ 25 oC) in comparison to crystalline V2O5 (1.1 * 10^-5 S cm-1 @ 25 oC).|||V2O5|||1.1 * 10^-5 S cm-1|||conductivity
