@@ -17,17 +17,25 @@ Recordclass
 The libraries can be installed with command - !pip install e.g. 
 
 !pip install pytorch-transformers
+
 !pip install recordclass
 
 The version of the packages are pytorch-transformers-1.2.0 and recordclass-0.17.2. After the following statements, the following packages are installed.
 
-boto3-1.24.32 
+boto3-1.24.32
+
 botocore-1.27.32 
-jmespath-1.0.1 
+
+jmespath-1.0.1
+
 pytorch-transformers-1.2.0 
-s3transfer-0.6.0 
-sacremoses-0.0.53 
-sentencepiece-0.1.96 
+
+s3transfer-0.6.0
+
+sacremoses-0.0.53
+
+sentencepiece-0.1.96
+
 urllib3-1.25.11
 recordclass-0.17.2
 
