@@ -73,7 +73,7 @@ Output :
         dict['e1'] = list(triples that have 'e1' as entity_1)
 
 Steps : 
-    1. Run the Battery_DB/Triples_Extractor.py file : 
+    1. Run the Triples_Extractor.py file (located in  : 
         i.   Update the variable "json_filepath" to point to Battery.json. (if required)
         ii.  It generates "triples.tsv" as the output
             => see the description of the file for more details
@@ -95,9 +95,7 @@ Output :
     Structured dataset in json form 
 
 Steps:
-Convert pdf to json : Use science-parse to convert materials science research papers from pdf to json:-
-        Run the following command from "cli" folder
-        java -Xmx6g -jar target/scala-2.12/science-parse-cli-assembly-3.0.1.jar <input_folder> -o    <output_folder> &
+    1.  Convert pdf to json : Science-parse (https://github.com/allenai/science-parse) is used to convert materials science research papers from pdf to json
     
     2.  Run Distant Supervision over the folder obtained in step 1:-
         StringBased_DS_v2.py: 
@@ -106,7 +104,7 @@ Convert pdf to json : Use science-parse to convert materials science research pa
             iii. Create a file named "Unique_doc_id_seed.txt" containing "0" (this is used to     generate document Ids)
             iv.  Update the global variable "pickled_map_file" to point to "unique_triples_map" pickle file.
     
-    3. Now create a folder (say named "OP_step_2") and place the file obtained as the output of  step (2) above inside this folder. In case, step 2 above was performed more than 1 time for different sets or batches of json file, meaning output of step 2 consists of more than 1 file, then place all the output files inside this folder "OP_step_2".
+    3. Now create a folder (say named "OP_step_2") and place the file obtained as the output of  step (2) above inside this folder. In case, step 2 above was  performed more than 1 time for different sets or batches of json file, meaning output of step 2 consists of more than 1 file, then place all the output files inside this folder "OP_step_2".
             
     4. Generate Structured dataset in json form using the output of distant supervision:-
         gen_structured_dataset.py : 
@@ -119,30 +117,30 @@ Convert pdf to json : Use science-parse to convert materials science research pa
 
 Training the Joint Extraction Model(Pointer Network model over Structured_dataset.jsonl)
 =====================================================================
-    All files are present in the folder "/home/samir-pg/Knowledge_Graph/Joint_Extraction_Model/Dataset_Creation_Related_Code"
+    All files are present in the folder "MatSciRE/Material_Science_Relation_Extraction/code"
     1. Divide the Structured_dataset.jsonl into train, dev and test sets
         run divide_dataset_in_dev_train_test.py :
             i.  Update the "input_filepath" to point to the "Structured_dataset.jsonl" file created in the previous section.
             ii. Update "dev_limit" and "test_limit" variables in the above code to the number of points in the dev and test set respectively.
             Three files (train.jsonl, test.jsonl and dev.jsonl) will be created as the output.
-   
     
     2. Generate .sent, .pointer and .tup files for each of train.jsonl, test.jsonl and dev.jsonl
         run gen_dataset_for_JEModel.py : 
-            1. update the variable "input_filepath" to point to the train.jsonl file.
+            1. Update the variable "input_filepath" to point to the train.jsonl file.
               Output : train.sent , train.pointer and train.tup files would be generated
             
-            2. Repeat the above process for test.jsonl and dev.jsonl
+            2. Repeat the above process for test.jsonl and dev.jsonl.
     
-    3. Place all the files generated in step 2, inside a folder appropriately named. Like the one below:-
-        /home/samir-pg/Knowledge_Graph/Joint_Extraction_Model/dataset/Battery_ds_v2
-        In addition, also place the pre-trained word embeddings "w2v.txt" inside this folder.
-    
-    4. Train the model:
+    3. Train the model for pointer-network model without BERT:
         "python3 ptrnet_decoder.py gpu_id random_seed source_data_dir target_data_dir train"
-            source_data_dir => should be the the folder created in step 3.
+            source_data_dir => should be the the folder created by user.
+        Test model:
+         "python3 ptrnet_decoder.py gpu_id random_seed source_data_dir target_data_dir test"
             Please refer the following github page to understand more about how to train/test the model:-
                 https://github.com/nusnlp/PtrNetDecoding4JERE
+                
+    4. For BERT, RoBERTa, MatBERT, SciBERT models, use helper.py to change the embeddings.
+       Follow the MatBERT_Final.ipynb file for examples.
     
 =============================== END ====================================
 
