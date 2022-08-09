@@ -16,49 +16,49 @@ Recordclass
 
 The libraries can be installed with command - !pip install e.g. 
 
--!pip install pytorch-transformers
--!pip install recordclass
+- !pip install pytorch-transformers
+- !pip install recordclass
 
 The version of the packages are pytorch-transformers-1.2.0 and recordclass-0.17.2. After the following statements, the following packages are installed.
 
 - boto3-1.24.32
 - botocore-1.27.32 
--jmespath-1.0.1
--pytorch-transformers-1.2.0 
--s3transfer-0.6.0
--sacremoses-0.0.53
--sentencepiece-0.1.96
--urllib3-1.25.11
--recordclass-0.17.2
+- jmespath-1.0.1
+- pytorch-transformers-1.2.0 
+- s3transfer-0.6.0
+- sacremoses-0.0.53
+- sentencepiece-0.1.96
+- urllib3-1.25.11
+- recordclass-0.17.2
 
 The following import statements have been used.
 
--import sys
--import os
--import numpy as np
--import pandas as pd
--import random
--import matplotlib
--import matplotlib.pyplot as plt
+- import sys
+- import os
+- import numpy as np
+- import pandas as pd
+- import random
+- import matplotlib
+- import matplotlib.pyplot as plt
 
--from collections import OrderedDict
--import pickle
--import datetime
--import json
--from tqdm import tqdm
--from recordclass import recordclass
--import math
--import torch
--import torch.autograd as autograd
--import torch.nn as nn
--import torch.nn.functional as F
--import torch.optim as optim
--torch.backends.cudnn.deterministic = True
--from pytorch_transformers import BertTokenizer, BertModel, AdamW
+- from collections import OrderedDict
+- import pickle
+- import datetime
+- import json
+- from tqdm import tqdm
+- from recordclass import recordclass
+- import math
+- import torch
+- import torch.autograd as autograd
+- import torch.nn as nn
+- import torch.nn.functional as F
+- import torch.optim as optim
+- torch.backends.cudnn.deterministic = True
+- from pytorch_transformers import BertTokenizer, BertModel, AdamW
 
--import nltk
--nltk.download('averaged_perceptron_tagger')
--from nltk.tokenize import SpaceTokenizer
+- import nltk
+- nltk.download('averaged_perceptron_tagger')
+- from nltk.tokenize import SpaceTokenizer
 
 
 How the Code works
