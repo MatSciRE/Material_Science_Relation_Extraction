@@ -4,7 +4,7 @@ MatSciRE is a tool for extracting entity1-relation-entity2 triplets from materia
 
 # Dataset
 
-The annotated dataset is provided here.
+The annotated dataset is provided [here] (https://drive.google.com/drive/folders/1Tx-jHdTmGBb2XKtC_n5fOXG5w1pRxjFN?usp=sharing).
 
 The code has been run on two platforms: server and Google Colab pro.
 
@@ -69,7 +69,7 @@ Input :
     1. Json dump([Battery.json] (https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)) 
 
 Output : 
-    A dictionary of triples of the form:
+    A dictionary of triples of the form is generated:
         dict['e1'] = list(triples that have 'e1' as entity_1)
 
 Steps : 
