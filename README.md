@@ -66,7 +66,7 @@ How the Code works
 Generating dictionary from triplets
 ========================================
 Input : 
-    1. Json dump([Battery.json](https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)) 
+    1. Json dump ([Battery.json](https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)) 
 
 Output : 
     A dictionary of triples of the form is generated:
@@ -89,7 +89,8 @@ Generating Structured Dataset
 =========================================
 Input : 
     1. A corpus of papers in pdf format
-    2. Dataset of triples(entity1, relation, entity2) [This is the dictionary we generated above]
+    
+    2. Dataset of triples(entity1, relation, entity2) [This is the dictionary generated above]
     
 Output : 
     Structured dataset in json form.
@@ -140,11 +141,13 @@ Training the Joint Extraction Model(Pointer Network model over Structured_datase
             source_data_dir => should be the the folder created by user.
         Test model:
          "python3 ptrnet_decoder.py gpu_id random_seed source_data_dir target_data_dir test"
+        A file [w2v.txt](https://drive.google.com/file/d/1n8Vk8REdb7mFeRV6-2Io4_lZgSejJcFR/view?usp=sharingshould) containing the word embeddings should be taken as input.
             Please refer the following github page to understand more about how to train/test the model:-
                 https://github.com/nusnlp/PtrNetDecoding4JERE
                 
-    4. For BERT, RoBERTa, MatBERT, SciBERT models, use helper.py to change the embeddings before running the models.
-       Follow the MatBERT_Final.ipynb file for examples.
+    4. For BERT, RoBERTa, MatBERT, SciBERT models, use helper.py to change the embeddings before running the models. The model is then run as 
+        "python3 matbert_ptrnet_decoder.py gpu_id random_seed source_data_dir target_data_dir train batch_size num_epoch gen_directions triplet_orders update_bert"
+       Follow the MatBERT_Final.ipynb file in "MatSciRE/Material_Science_Relation_Extraction/code" for examples.
     
 =============================== END ====================================
 
