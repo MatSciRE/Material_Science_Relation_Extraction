@@ -121,7 +121,7 @@ Steps:
 
 Training the Joint Extraction Model(Pointer Network model over Structured_dataset.jsonl)
 =====================================================================
-    All files are present in the folder "MatSciRE/Material_Science_Relation_Extraction/code"
+    All files are present in the folder "MatSciRE/Material_Science_Relation_Extraction/code". A file [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing) containing the word embeddings should be taken as input.
     
     1. Divide the Structured_dataset.jsonl into train, dev and test sets
         run divide_dataset_in_dev_train_test.py :
@@ -141,8 +141,7 @@ Training the Joint Extraction Model(Pointer Network model over Structured_datase
             source_data_dir => should be the the folder created by user.
         Test model:
          "python3 ptrnet_decoder.py gpu_id random_seed source_data_dir target_data_dir test"
-        A file [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing) containing the word embeddings should be taken as input.
-            Please refer the following github page to understand more about how to train/test the model:-
+        Please refer the following github page to understand more about how to train/test the model:-
                 https://github.com/nusnlp/PtrNetDecoding4JERE
                 
     4. For BERT, RoBERTa, MatBERT, SciBERT models, use helper.py to change the embeddings before running the models. The model is then run as 
