@@ -1,0 +1,29 @@
+1|||Na2V6O16·0.86H2O after heat treatment under 300 ◦C delivers an initial specific discharge capacity of 235.2 mAh g−1 at 30 mA g−1, with a capacity retention of 91.1% after 30 cycles.|||Na2V6O16·0.86H2O|||235.2 mAh g−1|||capacity
+
+2|||Unfortunately, LiCoO2 only enables to deliver a reversible capacity of about 140 mAh g−1 typically charged to 4.2 V.|||LiCoO2|||140 mAh g−1|||capacity
+
+3|||In our previous work, a new cathode material ammonium trivanadate with a maximum discharge capacity of 225.9 mAh g−1 and good cycling stability was reported by one-step hydrothermal reaction.|||ammonium trivanadate|||225.9 mAh g−1|||capacity
+
+4|||Liu et al. fabricated NaV6O15 nanorods by hydrothermal method, delivering a high discharge capacity of 328 mAh g−1.|||NaV6O15|||328 mAh g−1|||capacity
+
+5|||In current work, we first propose a new cathode material, sodium hexavanadate nanowire (Na2V6O16·2.36H2O) for Li-ion battery by a new and facile preparation method, which gives an initial specific discharge capacity of 268 mAh g−1.|||Na2V6O16·2.36H2O|||268 mAh g−1|||capacity
+
+6|||Na2V6O16·2.36H2O electrode delivers a high initial specific discharge capacity of 268.0 mAh g−1 (about 6.5 electrons per unit formula are exchanged) and the discharge capacity retains 201.4 mAh g−1 at the 30th cycle (75.2% of the initial capacity).|||Na2V6O16·2.36H2O|||268.0 mAh g−1|||capacity
+
+7|||Na2V6O16·2.36H2O electrode delivers a high initial specific discharge capacity of 268.0 mAh g−1 (about 6.5 electrons per unit formula are exchanged) and the discharge capacity retains 201.4 mAh g−1 at the 30th cycle (75.2% of the initial capacity).|||Na2V6O16·2.36H2O|||201.4 mAh g−1|||capacity
+
+8|||The initial discharge capacity of the Na2V6O16·0.86H2O at 150 and 300 mA g−1 is 200.6 and 189.0 mAh g−1, respectively.|||Na2V6O16·0.86H2O|||200.6 mAh g−1|||capacity
+
+9|||The initial discharge capacity of the Na2V6O16·0.86H2O at 150 and 300 mA g−1 is 200.6 and 189.0 mAh g−1, respectively.|||Na2V6O16·0.86H2O|||189.0 mAh g−1|||capacity
+
+10|||Na2V6O16·0.86H2O treated at 300 ◦C showed an initial discharge capacity of 235 mAh g−1 at 30 mA g−1 with the discharge capacity of 214.7 mAh g−1 maintaining after 30 cycles.|||Na2V6O16·0.86H2O|||235 mAh g−1|||capacity
+
+11|||Na2V6O16·0.86H2O treated at 300 ◦C showed an initial discharge capacity of 235 mAh g−1 at 30 mA g−1 with the discharge capacity of 214.7 mAh g−1 maintaining after 30 cycles.|||Na2V6O16·0.86H2O|||214.7 mAh g−1|||capacity
+
+12|||As can be seen, Na2V6O16·0.86H2O delivers the discharge capacity of 236.9, 212.0, 201.1, and 188.1 mAh g−1 at 15, 90, 180, 300 mA g−1, respectively.|||Na2V6O16·0.86H2O|||236.9 mAh g−1|||capacity
+
+13|||As can be seen, Na2V6O16·0.86H2O delivers the discharge capacity of 236.9, 212.0, 201.1, and 188.1 mAh g−1 at 15, 90, 180, 300 mA g−1, respectively.|||Na2V6O16·0.86H2O|||212.0 mAh g−1|||capacity
+
+14|||As can be seen, Na2V6O16·0.86H2O delivers the discharge capacity of 236.9, 212.0, 201.1, and 188.1 mAh g−1 at 15, 90, 180, 300 mA g−1, respectively.|||Na2V6O16·0.86H2O|||201.1 mAh g−1|||capacity
+
+15|||As can be seen, Na2V6O16·0.86H2O delivers the discharge capacity of 236.9, 212.0, 201.1, and 188.1 mAh g−1 at 15, 90, 180, 300 mA g−1, respectively.|||Na2V6O16·0.86H2O|||188.1 mAh g−1|||capacity
