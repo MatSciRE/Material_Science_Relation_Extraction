@@ -66,7 +66,7 @@ How the Code works
 Generating dictionary from triplets
 ========================================
 Input : 
-    1. Json dump(Battery.json present at /home/samir-pg/Knowledge_Graph/Battery_DB) 
+    1. Json dump([Battery.json] (https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)) 
 
 Output : 
     A dictionary of triples of the form:
@@ -112,7 +112,7 @@ Convert pdf to json : Use science-parse to convert materials science research pa
         gen_structured_dataset.py : 
           i.   Update the variable "raw_input_folder" to point to "OP_step_2" folder created in step 3.
           ii.  Update the variable "after_preprocessing_folder" to point to an empty folder. This will contain the pre-processed files from raw_input_folder.
-            iii. Create a file named "sent_id.txt" containing "0".(this is used to generate "id" part in structured dataset)
+          iii. Create a file named "sent_id.txt" containing "0".(this is used to generate "id" part in structured dataset)
             
  The final output would be a single file named "Structured_dataset.jsonl" in the same folder as "gen_structured_dataset.py"
         
