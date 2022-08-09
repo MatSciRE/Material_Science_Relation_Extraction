@@ -73,7 +73,7 @@ Output :
         dict['e1'] = list(triples that have 'e1' as entity_1)
 
 Steps : 
-    1. Run the Triples_Extractor.py file (located in  : 
+    1. Run the Triples_Extractor.py file (located in "MatSciRE/Material_Science_Relation_Extraction/code/Distant Supervision") : 
         i.   Update the variable "json_filepath" to point to Battery.json. (if required)
         ii.  It generates "triples.tsv" as the output
             => see the description of the file for more details
@@ -89,22 +89,24 @@ Generating Structured Dataset
 Input : 
     1. A corpus of papers in pdf format
     2. Dataset of triples(entity1, relation, entity2) [This is the dictionary we generated above]
-        (already generated at : Distant_Supervision/unique_triples_map)
     
 Output : 
-    Structured dataset in json form 
+    Structured dataset in json form.
+
+Code in "MatSciRE/Material_Science_Relation_Extraction/code/Distant Supervision"
 
 Steps:
-    1.  Convert pdf to json : Science-parse (https://github.com/allenai/science-parse) is used to convert materials science research papers from pdf to json
+
+    1.  Convert pdf to json : Science-parse (https://github.com/allenai/science-parse) is used to convert materials science research papers from pdf to json.
     
     2.  Run Distant Supervision over the folder obtained in step 1:-
         StringBased_DS_v2.py: 
-            i.   change "doc_path" to the folder containing the json files
-            ii.  change "output_filepath" to some suitable filename, this would be the output file
-            iii. Create a file named "Unique_doc_id_seed.txt" containing "0" (this is used to     generate document Ids)
+            i.   change "doc_path" to the folder containing the json files.
+            ii.  change "output_filepath" to some suitable filename, this would be the output file.
+            iii. Create a file named "Unique_doc_id_seed.txt" containing "0" (this is used to generate document Ids)
             iv.  Update the global variable "pickled_map_file" to point to "unique_triples_map" pickle file.
     
-    3. Now create a folder (say named "OP_step_2") and place the file obtained as the output of  step (2) above inside this folder. In case, step 2 above was  performed more than 1 time for different sets or batches of json file, meaning output of step 2 consists of more than 1 file, then place all the output files inside this folder "OP_step_2".
+    3. Now create a folder (say named "OP_step_2") and place the file obtained as the output of  step (2) above inside this folder. In case, step 2 above was performed more than 1 time for different sets or batches of json file, meaning output of step 2 consists of more than 1 file, then place all the output files inside this folder "OP_step_2".
             
     4. Generate Structured dataset in json form using the output of distant supervision:-
         gen_structured_dataset.py : 
@@ -118,6 +120,7 @@ Steps:
 Training the Joint Extraction Model(Pointer Network model over Structured_dataset.jsonl)
 =====================================================================
     All files are present in the folder "MatSciRE/Material_Science_Relation_Extraction/code"
+    
     1. Divide the Structured_dataset.jsonl into train, dev and test sets
         run divide_dataset_in_dev_train_test.py :
             i.  Update the "input_filepath" to point to the "Structured_dataset.jsonl" file created in the previous section.
@@ -139,7 +142,7 @@ Training the Joint Extraction Model(Pointer Network model over Structured_datase
             Please refer the following github page to understand more about how to train/test the model:-
                 https://github.com/nusnlp/PtrNetDecoding4JERE
                 
-    4. For BERT, RoBERTa, MatBERT, SciBERT models, use helper.py to change the embeddings.
+    4. For BERT, RoBERTa, MatBERT, SciBERT models, use helper.py to change the embeddings before running the models.
        Follow the MatBERT_Final.ipynb file for examples.
     
 =============================== END ====================================
