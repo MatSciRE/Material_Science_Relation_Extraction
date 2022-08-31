@@ -14,7 +14,7 @@ Generating annotations from dataset has been done manually. Sentences are extrac
 - Voltage: 637
 - Energy: 103
 
-#Code
+# Code
 
 The code has been run on two platforms: server and Google Colab pro.
 
