@@ -4,7 +4,17 @@ MatSciRE is a tool for extracting entity1-relation-entity2 triplets from materia
 
 # Dataset
 
-The annotated dataset is provided [here](https://drive.google.com/drive/folders/1Tx-jHdTmGBb2XKtC_n5fOXG5w1pRxjFN?usp=sharing).
+The annotated dataset is provided [here](https://drive.google.com/drive/folders/1Tx-jHdTmGBb2XKtC_n5fOXG5w1pRxjFN?usp=sharing) consisting of 114 papers.
+
+Generating annotations from dataset has been done manually. Sentences are extracted if they contain the triplets with the five relations (Conductivity, Coulombic Efficiency, Capacity, Voltage, Energy). Total number of sentences annotated by for these articles is 1,255. A sentence may contain a single label or multiple labels. The label distribution is shown:
+
+- Conductivity: 122
+- Coulombic efficiency: 553
+- Capacity: 378
+- Voltage: 637
+- Energy: 103
+
+#Code
 
 The code has been run on two platforms: server and Google Colab pro.
 
