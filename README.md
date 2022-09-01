@@ -19,6 +19,20 @@ Generating annotations from dataset has been done manually from two material sci
 - Voltage: 637
 - Energy: 103
 
+
+# Model diagram
+
+![Picture1](https://user-images.githubusercontent.com/109471941/187947218-86ebdde3-b134-4c65-a661-0eda7c8ecf90.png)
+
+Fig 2: A diagram briefly describing the model.
+
+- Initially, the duplicates are removed from the Battery Database as mentioned in the [paper](https://www.nature.com/articles/s41597-020-00602-2).
+- Distant supervision is used to generate a distantly supervised corpus containing the sentences and the triplets. This is done by using both the Battery Database and our own collection of material science papers.
+- At the same time, a collection of material science papers is taken and ScienceParse (https://github.com/allenai/science-parse) is used to convert the pdfs to  textual documents so that they can be processed.
+- From the distantly supervised data, manual annotation is done to generate the gold standard annotated data.
+- Now, the pointer-network model is used to extract triplets. It takes input from both the material science papers and the distantly supervised corpus.
+- The pointer-network model gives the material science triplets as the outputs. The evaluation of the model is done with the gold standard annotated data. Precision, recall and F1-score are the evaluation metrics.
+
 # Code
 
 The code has been run on two platforms: server and Google Colab pro.
