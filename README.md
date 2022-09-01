@@ -1,6 +1,8 @@
 # Material_Science_Relation_Extraction (MatSciRE)
 
 MatSciRE is a tool for extracting entity1-relation-entity2 triplets from material science documents. The details of the model used can be found in the paper.
+
+
 ![graphical_abstract](https://user-images.githubusercontent.com/109471941/187942263-499ef308-4c4e-4b15-8f7b-454f84a7c64e.png)
 
 # Dataset
