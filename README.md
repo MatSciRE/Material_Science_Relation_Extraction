@@ -92,7 +92,7 @@ How the Code works
 Generating dictionary from triplets
 ========================================
 Input : 
-    1. Json dump ([Battery.json](https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)). Input word embeddings [w2v.txt](https://drive.google.com/file/d/1QapkU-uYwdFRQ8-aR80SaSiFcCCCCuEn/view?usp=sharing).
+    1. Json dump ([Battery.json](https://drive.google.com/file/d/16eqDPl61SiUMEwHgshwOvar5KcNJ-oQt/view?usp=sharing)). Input word embeddings [w2v.txt](https://drive.google.com/file/d/1u30TmrX9IrB9fyvIw1pdOem2B9K73rOE/view?usp=sharing).
     
 
 Output : 
