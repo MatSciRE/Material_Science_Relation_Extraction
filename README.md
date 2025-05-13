@@ -9,7 +9,7 @@ Fig 1: MatSciRE extracts material science triplets from papers
 
 # Dataset
 
-The annotated dataset is provided [here](https://drive.google.com/drive/folders/1Tx-jHdTmGBb2XKtC_n5fOXG5w1pRxjFN?usp=sharing) consisting of 114 papers.
+The annotated dataset is provided [here](https://drive.google.com/drive/folders/17nKOIrahR3xJN0jbCcTXDSedopUxDTKQ?usp=sharing) consisting of 114 papers.
 
 Generating annotations from dataset has been done manually from two material science experts. Sentences are extracted if they contain the triplets with the five relations (Conductivity, Coulombic Efficiency, Capacity, Voltage, Energy). Total number of sentences annotated by the annotators for these articles is 1,255. Any conflict of annotating the triplets by two annotators is resolved by the third annotator.The inter-annotator agreement Cohen κ between two annotators is 0.82. A sentence may contain a single label or multiple labels. The label distribution is shown:
 
